@@ -1,0 +1,8 @@
+<node order="20" type="folder">
+	<label>575</label>
+	<icon>DefaultInProgressShows.png</icon>
+	<path>videodb://inprogresstvshows/</path>
+	<rule field="title" operator="contains">
+		<value />
+	</rule>
+</node>

@@ -1,0 +1,9 @@
+<node order="70" type="filter">
+	<label>20388</label>
+	<icon>DefaultStudios.png</icon>
+	<content>tvshows</content>
+	<group>studios</group>
+	<rule field="title" operator="contains">
+		<value />
+	</rule>
+</node>

@@ -1,0 +1,5 @@
+<node order="60" type="folder">
+	<label>1037</label>
+	<icon>DefaultAddonVideo.png</icon>
+	<path>videodb://movies/genres/?genreid=</path>
+</node>

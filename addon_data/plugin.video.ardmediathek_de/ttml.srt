@@ -1,0 +1,1164 @@
+1
+00:00:00,00 --> 00:00:01,00
+<font color="#FFFFFF">.</font>
+
+2
+00:00:01,08 --> 00:00:03,08
+<font color="#FFFFFF">Untertitelung: BR 2020</font>
+
+3
+00:00:15,00 --> 00:00:17,08
+<font color="#FFFF00">Und, habt ihr jetzt Mitleid?</font>
+
+4
+00:00:18,72 --> 00:00:21,20
+<font color="#FFFF00">Genau das wollen</font>
+<font color="#FFFF00">behinderte Menschen nicht.</font>
+
+5
+00:00:21,28 --> 00:00:22,96
+<font color="#FFFF00">Stimmt's, Johannes?</font>
+
+6
+00:00:23,04 --> 00:00:26,76
+<font color="#00FFFF">Mitleid kriegt man,</font>
+<font color="#00FFFF">Respekt verdient man sich.</font>
+
+7
+00:00:26,84 --> 00:00:31,04
+<font color="#00FFFF">Ich denke mir, lieber</font>
+<font color="#00FFFF">geht man normal miteinander um,</font>
+
+8
+00:00:31,12 --> 00:00:33,68
+<font color="#00FFFF">auch wenn einer</font>
+<font color="#00FFFF">eine Behinderung hat oder nicht.</font>
+
+9
+00:00:35,20 --> 00:00:38,24
+<font color="#00FFFF">Ich finde nicht, dass das</font>
+<font color="#00FFFF">im Vordergrund stehen sollte,</font>
+
+10
+00:00:38,32 --> 00:00:41,44
+<font color="#00FFFF">so: mein Ziel, als Erstes</font>
+<font color="#00FFFF">so Mitleid raus und "der Arme".</font>
+
+11
+00:00:41,52 --> 00:00:44,20
+<font color="#00FFFF">Sondern man sieht</font>
+<font color="#00FFFF">erst mal den Menschen dahinter.</font>
+
+12
+00:00:44,28 --> 00:00:49,40
+<font color="#FFFF00">Um diesen Respekt</font>
+<font color="#FFFF00">und die Rechte behinderter Menschen</font>
+
+13
+00:00:49,48 --> 00:00:52,40
+<font color="#FFFF00">und warum sie</font>
+<font color="#FFFF00">oft beides nicht bekommen,</font>
+
+14
+00:00:52,48 --> 00:00:54,68
+<font color="#FFFF00">darum geht's heute in RESPEKT.</font>
+
+15
+00:00:54,76 --> 00:00:56,12
+<font color="#FFFF00">Und ich sage schon mal:</font>
+
+16
+00:00:56,20 --> 00:01:00,84
+<font color="#FFFF00">Respekt vor jedem, der wirklich</font>
+<font color="#FFFF00">auf den Rolli angewiesen ist</font>
+
+17
+00:01:00,92 --> 00:01:04,12
+<font color="#FFFF00">und nicht nur mal testet,</font>
+<font color="#FFFF00">wie ich heute.</font>
+
+18
+00:01:04,20 --> 00:01:06,08
+<font color="#FFFF00">Herzlich willkommen.</font>
+
+19
+00:01:11,92 --> 00:01:15,56
+<font color="#FFFF00">Sind behinderte Menschen wirklich</font>
+<font color="#FFFF00">willkommen in der Gesellschaft?</font>
+
+20
+00:01:15,76 --> 00:01:17,96
+<font color="#FFFF00">Wie klappt das mit der Inklusion?</font>
+
+21
+00:01:19,36 --> 00:01:23,28
+<font color="#FFFF00">Ist jeder von uns</font>
+<font color="#FFFF00">nicht irgendwie zu faul,</font>
+
+22
+00:01:23,36 --> 00:01:25,84
+<font color="#FFFF00">da aus der Komfortzone rauszukommen?</font>
+
+23
+00:01:25,92 --> 00:01:29,84
+<font color="#FFFF00">Ich selbst</font>
+<font color="#FFFF00">schließe mich da nicht aus.</font>
+
+24
+00:01:35,40 --> 00:01:39,32
+<font color="#FFFFFF">"Inklusion" kommt aus</font>
+<font color="#FFFFFF">dem Lateinischen, von "includere".</font>
+
+25
+00:01:39,40 --> 00:01:41,56
+<font color="#FFFFFF">Das heißt "einschließen, beinhalten".</font>
+
+26
+00:01:41,64 --> 00:01:42,88
+<font color="#FFFFFF">Das Wort Inklusion</font>
+
+27
+00:01:42,96 --> 00:01:46,84
+<font color="#FFFFFF">wird meistens im Zusammenhang mit</font>
+<font color="#FFFFFF">Menschen mit Behinderung verwendet</font>
+
+28
+00:01:46,92 --> 00:01:49,60
+<font color="#FFFFFF">und bedeutet:</font>
+<font color="#FFFFFF">Alle gehören dazu.</font>
+
+29
+00:01:49,68 --> 00:01:53,48
+<font color="#FFFFFF">Jeder Mensch soll in seiner Art</font>
+<font color="#FFFFFF">so akzeptiert und behandelt werden,</font>
+
+30
+00:01:53,56 --> 00:01:56,00
+<font color="#FFFFFF">dass er gleichberechtigt</font>
+<font color="#FFFFFF">und selbstbestimmt</font>
+
+31
+00:01:56,08 --> 00:01:58,60
+<font color="#FFFFFF">am gesellschaftlichen Leben</font>
+<font color="#FFFFFF">teilnehmen kann.</font>
+
+32
+00:01:58,68 --> 00:02:01,80
+<font color="#FFFFFF">Der Gegensatz dazu ist "Exklusion".</font>
+
+33
+00:02:01,88 --> 00:02:04,40
+<font color="#FFFFFF">Menschen werden</font>
+<font color="#FFFFFF">aus einem Kreis ausgeschlossen</font>
+
+34
+00:02:04,48 --> 00:02:06,16
+<font color="#FFFFFF">und dürfen nicht dabei sein.</font>
+
+35
+00:02:06,24 --> 00:02:09,80
+<font color="#FFFFFF">Müssen z.B. in einem Heim leben</font>
+<font color="#FFFFFF">oder auf eine Förderschule gehen.</font>
+
+36
+00:02:11,20 --> 00:02:14,20
+<font color="#FFFFFF">Inklusion ist auch</font>
+<font color="#FFFFFF">mehr als Integration.</font>
+
+37
+00:02:14,28 --> 00:02:15,84
+<font color="#FFFFFF">Denn Integration bedeutet,</font>
+
+38
+00:02:15,92 --> 00:02:18,96
+<font color="#FFFFFF">Menschen in</font>
+<font color="#FFFFFF">ein bestehendes System aufzunehmen.</font>
+
+39
+00:02:19,04 --> 00:02:20,32
+<font color="#FFFFFF">Inklusion dagegen</font>
+
+40
+00:02:20,40 --> 00:02:23,44
+<font color="#FFFFFF">setzt ein gemeinsames System</font>
+<font color="#FFFFFF">für alle Menschen voraus,</font>
+
+41
+00:02:23,52 --> 00:02:25,48
+<font color="#FFFFFF">in dem niemand ausgegrenzt wird.</font>
+
+42
+00:02:25,56 --> 00:02:28,84
+<font color="#FFFFFF">Unabhängig von</font>
+<font color="#FFFFFF">Geschlecht, Nationalität, Hautfarbe,</font>
+
+43
+00:02:28,92 --> 00:02:30,64
+<font color="#FFFFFF">Alter oder Behinderung.</font>
+
+44
+00:02:31,80 --> 00:02:34,04
+<font color="#FFFFFF">Und so fordert die UN-Konvention</font>
+
+45
+00:02:34,12 --> 00:02:36,64
+<font color="#FFFFFF">über die Rechte</font>
+<font color="#FFFFFF">von Menschen mit Behinderung,</font>
+
+46
+00:02:36,72 --> 00:02:38,16
+<font color="#FFFFFF">dass behinderte Menschen</font>
+
+47
+00:02:38,24 --> 00:02:41,76
+<font color="#FFFFFF">als vollwertige Bürger*innen</font>
+<font color="#FFFFFF">der Gesellschaft anerkannt werden.</font>
+
+48
+00:02:41,84 --> 00:02:43,92
+<font color="#FFFFFF">Alle Menschen sollen gleichberechtigt</font>
+
+49
+00:02:44,00 --> 00:02:46,48
+<font color="#FFFFFF">am gesellschaftlichen Leben</font>
+<font color="#FFFFFF">teilhaben können.</font>
+
+50
+00:02:46,56 --> 00:02:48,48
+<font color="#FFFFFF">Inklusion als Menschenrecht.</font>
+
+51
+00:02:51,32 --> 00:02:54,48
+<font color="#FFFFFF">Verwirklicht ist dieses Recht</font>
+<font color="#FFFFFF">in Deutschland bisher kaum.</font>
+
+52
+00:02:54,56 --> 00:02:57,60
+<font color="#FFFFFF">Teilweise bieten Schulen</font>
+<font color="#FFFFFF">inklusiven Unterricht an:</font>
+
+53
+00:02:57,68 --> 00:03:01,32
+<font color="#FFFFFF">Behinderte und nichtbehinderte</font>
+<font color="#FFFFFF">Menschen lernen gemeinsam.</font>
+
+54
+00:03:01,40 --> 00:03:03,28
+<font color="#FFFFFF">Das bedeutet, dass der Unterricht</font>
+
+55
+00:03:03,36 --> 00:03:07,48
+<font color="#FFFFFF">an die jeweiligen Voraussetzungen der</font>
+<font color="#FFFFFF">beteiligten Personen angepasst wird.</font>
+
+56
+00:03:07,56 --> 00:03:10,80
+<font color="#FFFFFF">Jede und jeder soll</font>
+<font color="#FFFFFF">die bestmögliche Förderung bekommen.</font>
+
+57
+00:03:10,88 --> 00:03:13,92
+<font color="#FFFFFF">Inklusion sollte</font>
+<font color="#FFFFFF">aber überall stattfinden:</font>
+
+58
+00:03:14,00 --> 00:03:18,52
+<font color="#FFFFFF">Beim Thema Wohnen, Arbeiten,</font>
+<font color="#FFFFFF">Sport oder im Verkehr.</font>
+
+59
+00:03:18,60 --> 00:03:22,40
+<font color="#FFFFFF">Für Inklusion notwendig:</font>
+<font color="#FFFFFF">Barrierefreiheit.</font>
+
+60
+00:03:22,48 --> 00:03:26,24
+<font color="#FFFFFF">Aber die bedeutet nicht nur</font>
+<font color="#FFFFFF">Rampen oder Aufzüge statt Treppen,</font>
+
+61
+00:03:26,32 --> 00:03:28,00
+<font color="#FFFFFF">sondern auch Verkehrsampeln,</font>
+
+62
+00:03:28,08 --> 00:03:31,40
+<font color="#FFFFFF">an denen sich auch sehbehinderte</font>
+<font color="#FFFFFF">Menschen orientieren können,</font>
+
+63
+00:03:31,48 --> 00:03:33,24
+<font color="#FFFFFF">Formulare in leichter Sprache</font>
+
+64
+00:03:33,32 --> 00:03:37,84
+<font color="#FFFFFF">oder Vorträge, die auch</font>
+<font color="#FFFFFF">gehörlose Menschen verfolgen können.</font>
+
+65
+00:03:38,08 --> 00:03:39,24
+<font color="#FFFF00">Die meisten von uns</font>
+
+66
+00:03:39,32 --> 00:03:42,28
+<font color="#FFFF00">haben nicht so oft</font>
+<font color="#FFFF00">mit Menschen mit Behinderung zu tun.</font>
+
+67
+00:03:42,48 --> 00:03:45,76
+<font color="#FFFF00">Das geht schon im Kindergarten</font>
+<font color="#FFFF00">und in der Schule los.</font>
+
+68
+00:03:47,08 --> 00:03:51,92
+<font color="#FFFFFF">Ich treffe mich gleich mit Leo</font>
+<font color="#FFFFFF">und seiner Mutter Martina Frühwald.</font>
+
+69
+00:03:52,00 --> 00:03:54,72
+<font color="#FFFFFF">Sie musste hart kämpfen um Inklusion,</font>
+
+70
+00:03:54,80 --> 00:03:58,76
+<font color="#FFFFFF">also dass ihr Sohn</font>
+<font color="#FFFFFF">hier auf die Regelschule kommt.</font>
+
+71
+00:04:02,04 --> 00:04:04,60
+<font color="#FFFF00">Leo, wie geht's dir hier</font>
+<font color="#FFFF00">auf der Regelschule?</font>
+
+72
+00:04:04,68 --> 00:04:05,92
+<font color="#00FFFF">Gut.</font>
+
+73
+00:04:08,52 --> 00:04:12,72
+<font color="#00FFFF">Leo geht super gerne in die Schule.</font>
+<font color="#00FFFF">Ja, total gern.</font>
+
+74
+00:04:12,80 --> 00:04:18,00
+<font color="#00FFFF">Die Ausbildung</font>
+<font color="#00FFFF">ist das Wichtigste im Leben, ja.</font>
+
+75
+00:04:19,68 --> 00:04:21,20
+<font color="#FFFF00">Woran liegt es eigentlich,</font>
+
+76
+00:04:21,28 --> 00:04:25,64
+<font color="#FFFF00">dass es so schwer ist, dass Leo</font>
+<font color="#FFFF00">hier auf die Regelschule geht?</font>
+
+77
+00:04:25,72 --> 00:04:28,72
+<font color="#FFFF00">Ich meine,</font>
+<font color="#FFFF00">sie haben doch die Rechte dazu?</font>
+
+78
+00:04:29,64 --> 00:04:31,24
+<font color="#00FFFF">Ich glaube, das Problem ist,</font>
+
+79
+00:04:31,32 --> 00:04:33,76
+<font color="#00FFFF">dass es zwar</font>
+<font color="#00FFFF">politisch übernommen worden ist,</font>
+
+80
+00:04:35,44 --> 00:04:37,64
+<font color="#00FFFF">dass die</font>
+<font color="#00FFFF">UN-Behindertenrechtskonvention</font>
+
+81
+00:04:37,72 --> 00:04:39,08
+<font color="#00FFFF">ratifiziert worden ist.</font>
+
+82
+00:04:39,16 --> 00:04:41,60
+<font color="#00FFFF">Aber erst mal ist in Deutschland</font>
+<font color="#00FFFF">das Problem,</font>
+
+83
+00:04:41,68 --> 00:04:43,96
+<font color="#00FFFF">dass jedes Bundesland</font>
+<font color="#00FFFF">was anderes macht.</font>
+
+84
+00:04:44,04 --> 00:04:45,16
+<font color="#00FFFF">Dann ist es so,</font>
+
+85
+00:04:45,24 --> 00:04:49,00
+<font color="#00FFFF">dass das System der Förderschulen</font>
+<font color="#00FFFF">natürlich sehr fest etabliert ist.</font>
+
+86
+00:04:49,08 --> 00:04:51,92
+<font color="#00FFFF">Man hat die Inklusion</font>
+<font color="#00FFFF">eingeführt an den Schulen,</font>
+
+87
+00:04:52,00 --> 00:04:55,24
+<font color="#00FFFF">aber ohne die Lehrer</font>
+<font color="#00FFFF">auch dementsprechend vorzubereiten.</font>
+
+88
+00:04:55,44 --> 00:04:57,92
+<font color="#00FFFF">D.h., wenn wir</font>
+<font color="#00FFFF">die Einzelintegration wollen,</font>
+
+89
+00:04:58,00 --> 00:05:00,28
+<font color="#00FFFF">müssen wir einen Großteil</font>
+<font color="#00FFFF">selber stemmen.</font>
+
+90
+00:05:00,36 --> 00:05:03,92
+<font color="#00FFFF">Das kann man natürlich nur,</font>
+<font color="#00FFFF">wenn man viel Zeit investiert.</font>
+
+91
+00:05:04,00 --> 00:05:07,56
+<font color="#00FFFF">Ich denke mir immer, Inklusion</font>
+<font color="#00FFFF">muss man sich auch leisten können.</font>
+
+92
+00:05:07,64 --> 00:05:11,72
+<font color="#00FFFF">Jemand, wo beide Eltern</font>
+<font color="#00FFFF">berufstätig sind den ganzen Tag,</font>
+
+93
+00:05:11,80 --> 00:05:15,16
+<font color="#00FFFF">wo vielleicht die finanziellen</font>
+<font color="#00FFFF">Mittel nicht ausreichend sind,</font>
+
+94
+00:05:15,24 --> 00:05:19,68
+<font color="#00FFFF">der wird natürlich immer</font>
+<font color="#00FFFF">den Weg ins Förderzentrum wählen.</font>
+
+95
+00:05:20,24 --> 00:05:23,48
+<font color="#FFFFFF">In der Arbeit</font>
+<font color="#FFFFFF">wird es noch schwieriger</font>
+
+96
+00:05:23,56 --> 00:05:27,36
+<font color="#FFFFFF">mit dem Miteinander von Menschen</font>
+<font color="#FFFFFF">mit und ohne Behinderung.</font>
+
+97
+00:05:27,44 --> 00:05:29,56
+<font color="#FFFFFF">Die meisten</font>
+<font color="#FFFFFF">Menschen mit Behinderungen</font>
+
+98
+00:05:29,64 --> 00:05:31,92
+<font color="#FFFFFF">arbeiten in Werkstätten.</font>
+
+99
+00:05:32,00 --> 00:05:35,16
+<font color="#FFFFFF">Sie wurden in den 1960er-Jahren</font>
+<font color="#FFFFFF">ins Leben gerufen,</font>
+
+100
+00:05:35,24 --> 00:05:39,40
+<font color="#FFFFFF">um v.a. geistig behinderten Menschen</font>
+<font color="#FFFFFF">Arbeit zu ermöglichen.</font>
+
+101
+00:05:39,48 --> 00:05:41,92
+<font color="#FFFFFF">Dort bekommen sie aber keinen Lohn,</font>
+
+102
+00:05:42,12 --> 00:05:45,00
+<font color="#FFFFFF">sondern nur ein Taschengeld</font>
+<font color="#FFFFFF">von 180 Euro pro Monat,</font>
+
+103
+00:05:45,08 --> 00:05:47,36
+<font color="#FFFFFF">weil sie nicht</font>
+<font color="#FFFFFF">als Arbeitnehmer gelten,</font>
+
+104
+00:05:47,44 --> 00:05:49,96
+<font color="#FFFFFF">sondern als Teilnehmer</font>
+<font color="#FFFFFF">einer Reha-Maßnahme.</font>
+
+105
+00:05:50,04 --> 00:05:53,64
+<font color="#FFFFFF">Nach Vorgabe der</font>
+<font color="#FFFFFF">UN-Behindertenrechtskonvention</font>
+
+106
+00:05:53,72 --> 00:05:55,88
+<font color="#FFFFFF">sollten Werkstätten</font>
+<font color="#FFFFFF">abgeschafft werden.</font>
+
+107
+00:05:56,08 --> 00:06:00,04
+<font color="#FFFFFF">Stattdessen soll der Staat</font>
+<font color="#FFFFFF">durch Fördermaßnahmen</font>
+
+108
+00:06:00,12 --> 00:06:04,16
+<font color="#FFFFFF">Behinderten den Zugang</font>
+<font color="#FFFFFF">zum Arbeitsmarkt ermöglichen.</font>
+
+109
+00:06:12,84 --> 00:06:15,52
+<font color="#FFFFFF">Seit 2009 ist in Deutschland</font>
+
+110
+00:06:15,60 --> 00:06:18,60
+<font color="#FFFFFF">die UN-Behindertenrechtskonvention</font>
+<font color="#FFFFFF">in Kraft.</font>
+
+111
+00:06:18,68 --> 00:06:20,44
+<font color="#FFFFFF">Ihr Ziel: "Inklusion",</font>
+
+112
+00:06:20,52 --> 00:06:24,20
+<font color="#FFFFFF">also die gleichberechtigte Teilhabe</font>
+<font color="#FFFFFF">aller Menschen mit Behinderung</font>
+
+113
+00:06:24,28 --> 00:06:26,12
+<font color="#FFFFFF">am gesellschaftlichen Leben.</font>
+
+114
+00:06:26,20 --> 00:06:30,52
+<font color="#FFFFFF">Grundlage der UN-Konvention ist ein</font>
+<font color="#FFFFFF">neues Verständnis von Behinderung:</font>
+
+115
+00:06:30,60 --> 00:06:34,00
+<font color="#FFFFFF">Menschen mit Beeinträchtigungen</font>
+<font color="#FFFFFF">sind nicht behindert,</font>
+
+116
+00:06:34,08 --> 00:06:35,80
+<font color="#FFFFFF">sie werden behindert.</font>
+
+117
+00:06:35,88 --> 00:06:38,28
+<font color="#FFFFFF">Daraus leiten sich</font>
+<font color="#FFFFFF">Handlungsanweisungen ab,</font>
+
+118
+00:06:38,36 --> 00:06:39,88
+<font color="#FFFFFF">für alle Lebensbereiche.</font>
+
+119
+00:06:40,96 --> 00:06:43,64
+<font color="#FFFFFF">Was ist in Deutschland</font>
+<font color="#FFFFFF">seitdem geschehen?</font>
+
+120
+00:06:43,72 --> 00:06:46,64
+<font color="#FFFFFF">Behinderung durch</font>
+<font color="#FFFFFF">mangelnde Chancengleichheit.</font>
+
+121
+00:06:50,24 --> 00:06:54,00
+<font color="#FFFFFF">Wenn Schüler*innen z.B. von</font>
+<font color="#FFFFFF">vornherein in Förderschulen kommen</font>
+
+122
+00:06:54,08 --> 00:06:57,84
+<font color="#FFFFFF">und nicht die Möglichkeit haben,</font>
+<font color="#FFFFFF">in eine allgemeine Schule zu gehen.</font>
+
+123
+00:06:58,72 --> 00:07:03,16
+<font color="#FFFFFF">Im Jahr 2009 besuchten</font>
+<font color="#FFFFFF">noch 4,8% aller Schüler*innen</font>
+
+124
+00:07:03,24 --> 00:07:04,64
+<font color="#FFFFFF">solche Förderschulen.</font>
+
+125
+00:07:04,72 --> 00:07:09,12
+<font color="#FFFFFF">Bis 2016 sank diese Quote auf 4,2%</font>
+
+126
+00:07:09,20 --> 00:07:14,80
+<font color="#FFFFFF">und ist seitdem, bis zum Schuljahr</font>
+<font color="#FFFFFF">2018/19, auf diesem Niveau geblieben.</font>
+
+127
+00:07:14,88 --> 00:07:17,12
+<font color="#FFFFFF">Das ist der bundesweite Wert.</font>
+
+128
+00:07:17,20 --> 00:07:18,36
+<font color="#FFFFFF">Je nach Bundesland</font>
+
+129
+00:07:18,44 --> 00:07:21,44
+<font color="#FFFFFF">sind die Fortschritte</font>
+<font color="#FFFFFF">aber sehr unterschiedlich.</font>
+
+130
+00:07:22,44 --> 00:07:23,96
+<font color="#FFFFFF">Viele sehen auch kritisch,</font>
+
+131
+00:07:24,04 --> 00:07:26,92
+<font color="#FFFFFF">dass es nach wie vor</font>
+<font color="#FFFFFF">ein zweigleisiges System gibt:</font>
+
+132
+00:07:27,00 --> 00:07:29,68
+<font color="#FFFFFF">Allgemeine Schulen hier,</font>
+<font color="#FFFFFF">Förderschulen dort.</font>
+
+133
+00:07:29,76 --> 00:07:34,04
+<font color="#FFFFFF">Betriebe mit mehr als</font>
+<font color="#FFFFFF">20 Beschäftigten müssen per Gesetz</font>
+
+134
+00:07:37,60 --> 00:07:41,92
+<font color="#FFFFFF">5% der Arbeitsplätze mit</font>
+<font color="#FFFFFF">Menschen mit Behinderung besetzen.</font>
+
+135
+00:07:42,00 --> 00:07:43,72
+<font color="#FFFFFF">Die Realität:</font>
+
+136
+00:07:43,80 --> 00:07:48,48
+<font color="#FFFFFF">2018 waren es</font>
+<font color="#FFFFFF">im öffentlichen Dienst 6,5%,</font>
+
+137
+00:07:48,56 --> 00:07:51,60
+<font color="#FFFFFF">in der privaten Wirtschaft 4,1%.</font>
+
+138
+00:07:51,68 --> 00:07:55,88
+<font color="#FFFFFF">Nur knapp 40% aller Unternehmen</font>
+<font color="#FFFFFF">erfüllen die Quote.</font>
+
+139
+00:07:55,96 --> 00:07:58,08
+<font color="#FFFFFF">Die meisten erfüllen sie nicht:</font>
+
+140
+00:07:58,16 --> 00:08:03,40
+<font color="#FFFFFF">35% nur teilweise, 25% gar nicht.</font>
+
+141
+00:08:04,64 --> 00:08:08,48
+<font color="#FFFFFF">Parallel dazu gibt es immer noch</font>
+<font color="#FFFFFF">viele Behindertenwerkstätten.</font>
+
+142
+00:08:08,56 --> 00:08:11,32
+<font color="#FFFFFF">Dort steigen sogar</font>
+<font color="#FFFFFF">die Beschäftigungszahlen.</font>
+
+143
+00:08:11,40 --> 00:08:14,16
+<font color="#FFFFFF">Barrieren abbauen,</font>
+<font color="#FFFFFF">in allen Lebensbereichen.</font>
+
+144
+00:08:18,72 --> 00:08:23,04
+<font color="#FFFFFF">Z.B. selbstbestimmt wohnen</font>
+<font color="#FFFFFF">durch Barrierefreiheit.</font>
+
+145
+00:08:23,12 --> 00:08:28,48
+<font color="#FFFFFF">Nur 2% aller Wohnungen in Deutschland</font>
+<font color="#FFFFFF">sind annähernd barrierefrei.</font>
+
+146
+00:08:28,56 --> 00:08:30,92
+<font color="#FFFFFF">Und nur jeder 5. Neubau.</font>
+
+147
+00:08:31,00 --> 00:08:32,52
+<font color="#FFFFFF">78% aller deutschen Bahnhöfe</font>
+<font color="#FFFFFF">sind stufenlos erreichbar.</font>
+
+148
+00:08:36,96 --> 00:08:40,76
+<font color="#FFFFFF">Davon profitieren übrigens nicht nur</font>
+<font color="#FFFFFF">Menschen mit Behinderung.</font>
+
+149
+00:08:41,84 --> 00:08:45,16
+<font color="#FFFFFF">Barrierefreiheit im</font>
+<font color="#FFFFFF">öffentlichen Personennahverkehr:</font>
+
+150
+00:08:45,24 --> 00:08:46,68
+<font color="#FFFFFF">Eine Dauerbaustelle.</font>
+
+151
+00:08:46,76 --> 00:08:49,64
+<font color="#FFFFFF">Und die Mobilität von Tür zu Tür?</font>
+
+152
+00:08:49,72 --> 00:08:53,72
+<font color="#FFFFFF">Noch immer gibt es</font>
+<font color="#FFFFFF">viel zu wenige barrierefreie Taxis.</font>
+
+153
+00:08:53,80 --> 00:08:56,28
+<font color="#FFFFFF">Die Städte Berlin und München z.B.</font>
+
+154
+00:08:56,36 --> 00:09:00,04
+<font color="#FFFFFF">geben deshalb Unternehmen</font>
+<font color="#FFFFFF">finanzielle Starthilfe zum Taxiumbau</font>
+
+155
+00:09:00,12 --> 00:09:03,48
+<font color="#FFFFFF">oder zum Kauf eines</font>
+<font color="#FFFFFF">sogenannten Inklusionstaxis.</font>
+
+156
+00:09:05,20 --> 00:09:08,64
+<font color="#FFFFFF">Fazit:</font>
+<font color="#FFFFFF">Die UN-Behindertenrechtskonvention</font>
+
+157
+00:09:08,72 --> 00:09:11,12
+<font color="#FFFFFF">hat wichtige Entwicklungen</font>
+<font color="#FFFFFF">angestoßen.</font>
+
+158
+00:09:11,20 --> 00:09:13,04
+<font color="#FFFFFF">Einiges ist bereits passiert,</font>
+
+159
+00:09:13,12 --> 00:09:17,60
+<font color="#FFFFFF">insgesamt fällt das "Zwischenzeugnis"</font>
+<font color="#FFFFFF">aber noch recht durchwachsen aus.</font>
+
+160
+00:09:17,96 --> 00:09:23,40
+<font color="#FFFF00">Mehr Inklusion, mehr Miteinander von</font>
+<font color="#FFFF00">Menschen mit und ohne Behinderung:</font>
+
+161
+00:09:23,48 --> 00:09:28,32
+<font color="#FFFF00">Das ist nicht nur das Ziel, das ist</font>
+<font color="#FFFF00">die rechtliche gesetzliche Vorgabe.</font>
+
+162
+00:09:28,92 --> 00:09:30,08
+<font color="#FFFF00">Doch wie sieht es</font>
+
+163
+00:09:30,16 --> 00:09:34,00
+<font color="#FFFF00">mit der praktischen Umsetzung</font>
+<font color="#FFFF00">durch die Politik aus?</font>
+
+164
+00:09:34,08 --> 00:09:35,88
+<font color="#FFFF00">Darüber spreche ich jetzt</font>
+
+165
+00:09:35,96 --> 00:09:40,08
+<font color="#FFFF00">mit dem Behindertenbeauftragten</font>
+<font color="#FFFF00">der bayerischen Staatsregierung,</font>
+
+166
+00:09:40,16 --> 00:09:41,56
+<font color="#FFFF00">Holger Kiesel.</font>
+
+167
+00:09:41,80 --> 00:09:44,80
+<font color="#FFFF00">Holger Kiesel war früher</font>
+<font color="#FFFF00">Journalist beim BR</font>
+
+168
+00:09:44,88 --> 00:09:48,40
+<font color="#FFFF00">und Kabarettist</font>
+<font color="#FFFF00">als "Robert Rollinger".</font>
+
+169
+00:09:48,48 --> 00:09:49,68
+<font color="#FFFF00">Bei einem Auftritt</font>
+
+170
+00:09:49,76 --> 00:09:55,08
+<font color="#FFFF00">führte er ein fiktives Gespräch</font>
+<font color="#FFFF00">mit Horst Seehofer,</font>
+
+171
+00:09:55,16 --> 00:09:58,04
+<font color="#FFFF00">damals Ministerpräsident in Bayern.</font>
+
+172
+00:09:59,20 --> 00:10:00,36
+<font color="#00FFFF">Im Prinzip geht es</font>
+
+173
+00:10:00,44 --> 00:10:04,56
+<font color="#00FFFF">um gemeinsamen Unterricht von</font>
+<font color="#00FFFF">Behinderten und Nichtbehinderten.</font>
+
+174
+00:10:04,64 --> 00:10:06,24
+<font color="#00FFFF">Teilhabe. So was halt.</font>
+
+175
+00:10:07,00 --> 00:10:09,28
+<font color="#00FFFF">Herr Ministerpräsident? Hallo?</font>
+
+176
+00:10:09,56 --> 00:10:13,72
+<font color="#FFFF00">Bayern barrierefrei bis 2023.</font>
+
+177
+00:10:13,80 --> 00:10:18,60
+<font color="#FFFF00">So hat es damals Ministerpräsident</font>
+<font color="#FFFF00">Seehofer versprochen.</font>
+
+178
+00:10:18,68 --> 00:10:20,92
+<font color="#FFFF00">Doch was ist daraus geworden?</font>
+
+179
+00:10:21,28 --> 00:10:23,36
+<font color="#00FFFF">Wir haben alle</font>
+<font color="#00FFFF">ein bisschen gelächelt,</font>
+
+180
+00:10:23,44 --> 00:10:25,72
+<font color="#00FFFF">als Horst Seehofer</font>
+<font color="#00FFFF">das damals gesagt hat.</font>
+
+181
+00:10:25,80 --> 00:10:28,72
+<font color="#00FFFF">Ganz Bayern im öffentlich Raum</font>
+<font color="#00FFFF">barrierefrei bis 2023.</font>
+
+182
+00:10:28,80 --> 00:10:31,12
+<font color="#00FFFF">Aber heute,</font>
+<font color="#00FFFF">muss ich ehrlich zugeben,</font>
+
+183
+00:10:31,20 --> 00:10:33,48
+<font color="#00FFFF">bin ich ihm dankbar,</font>
+<font color="#00FFFF">dass er das getan hat.</font>
+
+184
+00:10:34,92 --> 00:10:38,32
+<font color="#00FFFF">Denn er hat eine Diskussion</font>
+<font color="#00FFFF">und einen Prozess angestoßen.</font>
+
+185
+00:10:38,40 --> 00:10:41,56
+<font color="#FFFF00">Und schaffen wir das,</font>
+<font color="#FFFF00">barrierefrei bis 2023?</font>
+
+186
+00:10:41,92 --> 00:10:43,36
+<font color="#00FFFF">100% schaffen wir nicht.</font>
+
+187
+00:10:43,44 --> 00:10:48,36
+<font color="#00FFFF">Ich wage aber mal zu behaupten,</font>
+<font color="#00FFFF">das wussten wir auch 2013 schon.</font>
+
+188
+00:10:48,44 --> 00:10:53,80
+<font color="#00FFFF">Aber wir müssen einfach</font>
+<font color="#00FFFF">weiter den Ehrgeiz behalten,</font>
+
+189
+00:10:53,88 --> 00:10:58,40
+<font color="#00FFFF">so nah wie irgend möglich, da will</font>
+<font color="#00FFFF">ich gar keine Prozentzahl nennen,</font>
+
+190
+00:10:58,48 --> 00:11:00,08
+<font color="#00FFFF">an diese 100% ranzukommen.</font>
+
+191
+00:11:00,28 --> 00:11:03,56
+<font color="#FFFF00">Also Menschen mit Behinderung</font>
+<font color="#FFFF00">an die Macht?</font>
+
+192
+00:11:03,84 --> 00:11:05,20
+<font color="#00FFFF">Ja, das auf jeden Fall.</font>
+
+193
+00:11:05,28 --> 00:11:07,40
+<font color="#00FFFF">Ich kann nur</font>
+<font color="#00FFFF">Menschen mit Behinderung,</font>
+
+194
+00:11:07,48 --> 00:11:10,96
+<font color="#00FFFF">wo immer sie auch sitzen, was immer</font>
+<font color="#00FFFF">sie auch machen, motivieren:</font>
+
+195
+00:11:11,04 --> 00:11:14,40
+<font color="#00FFFF">Erhebt eure Stimme,</font>
+<font color="#00FFFF">setzt euch ein für eure Belange</font>
+
+196
+00:11:14,48 --> 00:11:17,40
+<font color="#00FFFF">und für die Belange</font>
+<font color="#00FFFF">anderer Menschen mit Behinderung.</font>
+
+197
+00:11:17,48 --> 00:11:19,12
+<font color="#00FFFF">Ihr könnt immer was erreichen</font>
+
+198
+00:11:19,20 --> 00:11:21,52
+<font color="#00FFFF">und je mehr ihr seid,</font>
+<font color="#00FFFF">je lauter ihr seid,</font>
+
+199
+00:11:21,60 --> 00:11:24,36
+<font color="#00FFFF">desto mehr wird die Politik</font>
+<font color="#00FFFF">auch auf euch hören.</font>
+
+200
+00:11:24,44 --> 00:11:27,20
+<font color="#FFFF00">Herzlichen Dank.</font>
+<font color="#00FFFF">- Wunderbar.</font>
+
+201
+00:11:28,00 --> 00:11:32,04
+<font color="#FFFF00">Ich bin jetzt gleich mit einer Frau</font>
+<font color="#FFFF00">verabredet, die als Powerfrau gilt.</font>
+
+202
+00:11:32,12 --> 00:11:35,56
+<font color="#00FFFF">Hallo, da ist sie schon.</font>
+<font color="#FFFF00">- Hallo, Verena, servus.</font>
+
+203
+00:11:35,64 --> 00:11:38,24
+<font color="#00FFFF">Dann gehen wir, oder?</font>
+<font color="#00FFFF">Packen wir's, wir zwei.</font>
+
+204
+00:11:39,76 --> 00:11:44,44
+<font color="#FFFFFF">Verena Bentele war mehrfach</font>
+<font color="#FFFFFF">Paralympics-Siegerin im Biathlon.</font>
+
+205
+00:11:44,68 --> 00:11:50,28
+<font color="#FFFFFF">Sie hat es bis an die Spitze</font>
+<font color="#FFFFFF">des Sozialverbandes VdK geschafft,</font>
+
+206
+00:11:50,36 --> 00:11:53,68
+<font color="#FFFFFF">des größten Sozialverbandes</font>
+<font color="#FFFFFF">in Deutschland.</font>
+
+207
+00:11:53,76 --> 00:11:54,92
+<font color="#FFFFFF">Sie ist damit</font>
+
+208
+00:11:55,00 --> 00:11:58,08
+<font color="#FFFFFF">eine der wenigen Menschen</font>
+<font color="#FFFFFF">mit Behinderung in Deutschland</font>
+
+209
+00:11:58,16 --> 00:11:59,76
+<font color="#FFFFFF">in einer Führungsposition.</font>
+
+210
+00:12:00,08 --> 00:12:03,24
+<font color="#FFFF00">Verena, warum gibt es so</font>
+<font color="#FFFF00">wenig Menschen mit Behinderung</font>
+
+211
+00:12:03,32 --> 00:12:04,56
+<font color="#FFFF00">in Chefrollen?</font>
+
+212
+00:12:04,64 --> 00:12:06,48
+<font color="#00FFFF">Das ist eine sehr gute Frage.</font>
+
+213
+00:12:06,56 --> 00:12:07,92
+<font color="#00FFFF">Ich würde mir wünschen,</font>
+
+214
+00:12:08,00 --> 00:12:10,56
+<font color="#00FFFF">dass es immer mehr Vielfalt</font>
+<font color="#00FFFF">in Chefrollen gibt.</font>
+
+215
+00:12:10,64 --> 00:12:13,32
+<font color="#00FFFF">Mehr Menschen mit Behinderung,</font>
+<font color="#00FFFF">mehr Frauen,</font>
+
+216
+00:12:14,64 --> 00:12:16,84
+<font color="#00FFFF">mehr Menschen</font>
+<font color="#00FFFF">mit Migrationshintergrund.</font>
+
+217
+00:12:16,92 --> 00:12:18,00
+<font color="#00FFFF">Ich kann nur sagen:</font>
+
+218
+00:12:18,08 --> 00:12:20,36
+<font color="#00FFFF">Ich bin wahnsinnig gerne</font>
+<font color="#00FFFF">Chefin geworden.</font>
+
+219
+00:12:20,44 --> 00:12:23,12
+<font color="#FFFF00">Welche Probleme hast du</font>
+<font color="#FFFF00">mit der Barrierefreiheit?</font>
+
+220
+00:12:23,20 --> 00:12:24,44
+<font color="#00FFFF">Das Problem heute ist,</font>
+
+221
+00:12:24,52 --> 00:12:27,00
+<font color="#00FFFF">dass Barrierefreiheit</font>
+<font color="#00FFFF">keine Verpflichtung ist</font>
+
+222
+00:12:27,08 --> 00:12:30,52
+<font color="#00FFFF">für alle privaten Anbieter</font>
+<font color="#00FFFF">von Dienstleistungen oder Produkten.</font>
+
+223
+00:12:30,60 --> 00:12:33,80
+<font color="#00FFFF">Wenn ich mir eine Waschmaschine</font>
+<font color="#00FFFF">kaufe, ist die Gefahr groß,</font>
+
+224
+00:12:33,88 --> 00:12:36,68
+<font color="#00FFFF">dass sie keine Knöpfe mehr hat,</font>
+<font color="#00FFFF">die ich fühlen kann,</font>
+
+225
+00:12:36,76 --> 00:12:39,32
+<font color="#00FFFF">sondern nur noch ein Display,</font>
+<font color="#00FFFF">auf das man drückt</font>
+
+226
+00:12:39,40 --> 00:12:41,04
+<font color="#00FFFF">und das vielleicht noch piept.</font>
+
+227
+00:12:41,12 --> 00:12:43,60
+<font color="#00FFFF">Aber wo ich nicht weiß,</font>
+<font color="#00FFFF">welcher Knopf das ist.</font>
+
+228
+00:12:43,68 --> 00:12:45,52
+<font color="#00FFFF">Deshalb ist für mich ganz wichtig,</font>
+
+229
+00:12:45,60 --> 00:12:48,52
+<font color="#00FFFF">dass wir Barrierefreiheit</font>
+<font color="#00FFFF">zu einer Verpflichtung machen</font>
+
+230
+00:12:48,60 --> 00:12:50,64
+<font color="#00FFFF">und alle Hersteller</font>
+<font color="#00FFFF">Geräte entwickeln,</font>
+
+231
+00:12:50,72 --> 00:12:52,28
+<font color="#00FFFF">die für mich benutzbar sind.</font>
+
+232
+00:12:52,36 --> 00:12:54,76
+<font color="#00FFFF">Ob es der Bankautomat ist,</font>
+<font color="#00FFFF">das Haushaltsgerät</font>
+
+233
+00:12:54,84 --> 00:12:58,00
+<font color="#00FFFF">oder ob es um die Barrierefreiheit</font>
+<font color="#00FFFF">in Verkehrsmitteln geht,</font>
+
+234
+00:12:58,08 --> 00:13:00,16
+<font color="#00FFFF">wo für mich</font>
+<font color="#00FFFF">eine Durchsage wichtig ist,</font>
+
+235
+00:13:00,24 --> 00:13:03,36
+<font color="#00FFFF">so wie für den Rollstuhlfahrer</font>
+<font color="#00FFFF">die Rampe entscheidend ist,</font>
+
+236
+00:13:03,44 --> 00:13:05,24
+<font color="#00FFFF">um ein- und aussteigen zu können.</font>
+
+237
+00:13:09,20 --> 00:13:11,08
+<font color="#00FFFF">Ich war früher Rettungsschwimmer</font>
+
+238
+00:13:11,28 --> 00:13:14,04
+<font color="#00FFFF">und im Wasser hast du</font>
+<font color="#00FFFF">dein Körpergewicht nicht mehr.</font>
+
+239
+00:13:14,12 --> 00:13:15,84
+<font color="#00FFFF">Gerade jetzt mit dem Rollstuhl:</font>
+
+240
+00:13:15,92 --> 00:13:18,56
+<font color="#00FFFF">Überall tust du dich schwer,</font>
+<font color="#00FFFF">musst du dich heben,</font>
+
+241
+00:13:18,64 --> 00:13:21,48
+<font color="#00FFFF">musst dich aus deinen</font>
+<font color="#00FFFF">Schultern schieben, hochheben.</font>
+
+242
+00:13:21,56 --> 00:13:23,32
+<font color="#00FFFF">Im Wasser schwebst du einfach.</font>
+
+243
+00:13:23,40 --> 00:13:25,76
+<font color="#00FFFF">Und jede Armbewegung</font>
+<font color="#00FFFF">bewegt dich vorwärts.</font>
+
+244
+00:13:25,84 --> 00:13:28,32
+<font color="#00FFFF">Für mich ist das einfach</font>
+<font color="#00FFFF">ein Stück Freiheit,</font>
+
+245
+00:13:28,40 --> 00:13:30,60
+<font color="#00FFFF">wieder im Wasser zu sein</font>
+<font color="#00FFFF">und schwerelos zu treiben.</font>
+
+246
+00:13:30,80 --> 00:13:33,84
+<font color="#FFFF00">Wenn sich Behinderte</font>
+<font color="#FFFF00">und Nichtbehinderte treffen können</font>
+
+247
+00:13:33,92 --> 00:13:38,52
+<font color="#FFFF00">in der Schule, Arbeit oder Freizeit</font>
+<font color="#FFFF00">und wenn wir uns darauf einlassen,</font>
+
+248
+00:13:38,60 --> 00:13:43,40
+<font color="#FFFF00">dann sind wir in Sachen Inklusion</font>
+<font color="#FFFF00">ein gutes Stück weiter.</font>
+
+249
+00:13:50,76 --> 00:13:52,76
+<font color="#FFFFFF">Untertitelung: BR 2020</font>
+

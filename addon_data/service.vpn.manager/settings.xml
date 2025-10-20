@@ -1,0 +1,223 @@
+<settings version="2">
+    <setting id="vpn_custom" default="true" />
+    <setting id="label98" default="true" />
+    <setting id="vpn_provider_update" default="true">false</setting>
+    <setting id="vpn_validated">true</setting>
+    <setting id="vpn_provider">User Defined</setting>
+    <setting id="vpn_username_validated">2prxdtdcplz65wbedwyh11db</setting>
+    <setting id="vpn_username">2prxdtdcplz65wbedwyh11db</setting>
+    <setting id="vpn_password_validated">x7jw22pybo4hpqbe7r6w6ig7</setting>
+    <setting id="vpn_password">x7jw22pybo4hpqbe7r6w6ig7</setting>
+    <setting id="vpn_token" default="true" />
+    <setting id="vpn_protocol" default="true">UDP</setting>
+    <setting id="default_udp">true</setting>
+    <setting id="alternative_udp_port">1194</setting>
+    <setting id="default_tcp">true</setting>
+    <setting id="alternative_tcp_port">443</setting>
+    <setting id="user_def_credentials">true</setting>
+    <setting id="user_def_keys">None</setting>
+    <setting id="user_def_key_password">false</setting>
+    <setting id="label104" default="true" />
+    <setting id="vpn_provider_update_2" default="true">false</setting>
+    <setting id="1_vpn_validated">/storage/.kodi/addons/service.vpn.manager/UserDefined/my_expressvpn_uk_-_docklands_udp (UDP).ovpn</setting>
+    <setting id="1_vpn_validated_friendly">my_expressvpn_uk_-_docklands_udp (UDP)</setting>
+    <setting id="2_vpn_validated">/storage/.kodi/addons/service.vpn.manager/UserDefined/my_expressvpn_germany_-_frankfurt_-_1_udp (UDP).ovpn</setting>
+    <setting id="2_vpn_validated_friendly">my_expressvpn_germany_-_frankfurt_-_1_udp (UDP)</setting>
+    <setting id="3_vpn_validated">/storage/.kodi/addons/service.vpn.manager/UserDefined/my_expressvpn_canada_-_toronto_udp (UDP).ovpn</setting>
+    <setting id="3_vpn_validated_friendly">my_expressvpn_canada_-_toronto_udp (UDP)</setting>
+    <setting id="4_vpn_validated">/storage/.kodi/addons/service.vpn.manager/UserDefined/my_expressvpn_usa_-_new_york_udp (UDP).ovpn</setting>
+    <setting id="4_vpn_validated_friendly">my_expressvpn_usa_-_new_york_udp (UDP)</setting>
+    <setting id="5_vpn_validated" default="true" />
+    <setting id="5_vpn_validated_friendly" default="true" />
+    <setting id="6_vpn_validated" default="true" />
+    <setting id="6_vpn_validated_friendly" default="true" />
+    <setting id="7_vpn_validated" default="true" />
+    <setting id="7_vpn_validated_friendly" default="true" />
+    <setting id="8_vpn_validated" default="true" />
+    <setting id="8_vpn_validated_friendly" default="true" />
+    <setting id="9_vpn_validated" default="true" />
+    <setting id="9_vpn_validated_friendly" default="true" />
+    <setting id="10_vpn_validated" default="true" />
+    <setting id="10_vpn_validated_friendly" default="true" />
+    <setting id="vpn_custom_2" default="true" />
+    <setting id="vpn_connect_at_boot">false</setting>
+    <setting id="show_preboot_connect">true</setting>
+    <setting id="vpn_connect_before_boot" default="true">false</setting>
+    <setting id="vpn_connect_delay" default="true">0</setting>
+    <setting id="vpn_reconnect">true</setting>
+    <setting id="vpn_reconnect_while_playing">true</setting>
+    <setting id="vpn_reconnect_while_streaming">true</setting>
+    <setting id="vpn_stop_media">false</setting>
+    <setting id="vpn_stream_ids" default="true">http: !http://192.168 https: !https://192.168</setting>
+    <setting id="vpn_force_reconnect_after_wake" default="true">false</setting>
+    <setting id="vpn_reconnect_freq">10</setting>
+    <setting id="vpn_connectivity_test" default="true">false</setting>
+    <setting id="vpn_reconnect_next" default="true">false</setting>
+    <setting id="vpn_reconnect_reboot">false</setting>
+    <setting id="vpn_reconnect_filtering">true</setting>
+    <setting id="allow_cycle_reconnect" default="true">false</setting>
+    <setting id="auto_reconnect_vpn" default="true">0</setting>
+    <setting id="allow_cycle_disconnect">true</setting>
+    <setting id="vpn_excluded_addons">pvr.iptvsimple</setting>
+    <setting id="1_vpn_addons">plugin.audio.bbcpodcasts,plugin.video.phoenixmediathek,plugin.video.themoviedb.helper,plugin.video.vimeo,plugin.video.youtube</setting>
+    <setting id="2_vpn_addons">plugin.video.3satmediathek,plugin.video.ardaktuell,plugin.video.ardmediathek_de,plugin.audio.arteconcert,plugin.audio.deutschlandfunk,plugin.video.tagesschau,plugin.audio.wdraudiothek,plugin.video.zdf_de_lite,plugin.video.zdftivi</setting>
+    <setting id="3_vpn_addons">plugin.video.cbc,plugin.audio.cbcradio</setting>
+    <setting id="4_vpn_addons">script.embuary.helper,script.embuary.info,plugin.video.imdb.trailers,plugin.video.npr,plugin.video.phoenixmediathek,plugin.audio.pureradio,plugin.audio.radiobrowser,plugin.video.streamz,plugin.video.ted.talks,plugin.video.themoviedb.helper,plugin.video.vimeo,plugin.video.youtube</setting>
+    <setting id="5_vpn_addons" default="true" />
+    <setting id="6_vpn_addons" default="true" />
+    <setting id="7_vpn_addons" default="true" />
+    <setting id="8_vpn_addons" default="true" />
+    <setting id="9_vpn_addons" default="true" />
+    <setting id="10_vpn_addons" default="true" />
+    <setting id="display_window_id" default="true">false</setting>
+    <setting id="vpn_excluded_windows" default="true" />
+    <setting id="1_vpn_windows" default="true" />
+    <setting id="2_vpn_windows" default="true" />
+    <setting id="3_vpn_windows" default="true" />
+    <setting id="4_vpn_windows" default="true" />
+    <setting id="5_vpn_windows" default="true" />
+    <setting id="6_vpn_windows" default="true" />
+    <setting id="7_vpn_windows" default="true" />
+    <setting id="8_vpn_windows" default="true" />
+    <setting id="9_vpn_windows" default="true" />
+    <setting id="10_vpn_windows" default="true" />
+    <setting id="vpn_custom_3" default="true" />
+    <setting id="allow_vpn_generation" default="true">false</setting>
+    <setting id="reboot_day" default="true" />
+    <setting id="reboot_time">02:00</setting>
+    <setting id="reboot_file_enabled" default="true">false</setting>
+    <setting id="reboot_file" default="true" />
+    <setting id="last_boot_text">Last restart was at 2025-10-20 09:56:16, unscheduled</setting>
+    <setting id="vpn_enable_debug">true</setting>
+    <setting id="vpn_enable_http">true</setting>
+    <setting id="vpn_enable_json" default="true">false</setting>
+    <setting id="vpn_wizard_enabled">true</setting>
+    <setting id="openvpn_verb">3</setting>
+    <setting id="platform">2</setting>
+    <setting id="block_outside_dns">true</setting>
+    <setting id="openvpn_sudo" default="true" />
+    <setting id="openvpn_no_path" default="true">false</setting>
+    <setting id="openvpn_path">/usr/bin/</setting>
+    <setting id="killall_path" default="true" />
+    <setting id="pidof_path" default="true" />
+    <setting id="openvpn_killall" default="true">false</setting>
+    <setting id="alt_pid_check" default="true">false</setting>
+    <setting id="label136" default="true" />
+    <setting id="up_down_script">true</setting>
+    <setting id="use_default_up_down" default="true">false</setting>
+    <setting id="force_ping">true</setting>
+    <setting id="network_drop" default="true">SIGTERM</setting>
+    <setting id="openvpn_log_location" default="true">false</setting>
+    <setting id="fix_system_time">true</setting>
+    <setting id="vpn_system_menu_item">true</setting>
+    <setting id="vpn_server_info">true</setting>
+    <setting id="table_display_type" default="true">All connections</setting>
+    <setting id="display_location_on_connect" default="true">false</setting>
+    <setting id="ip_info_source" default="true">Auto select</setting>
+    <setting id="vpn_provider_validated">UserDefined</setting>
+    <setting id="vpn_locations_list" default="true" />
+    <setting id="version_number">7.0.3</setting>
+    <setting id="checked_openvpn">true</setting>
+    <setting id="ran_openvpn">true</setting>
+    <setting id="monitor_paused" default="true">false</setting>
+    <setting id="boot_time">2025-10-20 09:56:16</setting>
+    <setting id="boot_reason" default="true">unscheduled</setting>
+    <setting id="last_boot_reason" default="true">unscheduled</setting>
+    <setting id="ip_service_values">3,0,0</setting>
+    <setting id="ip_service_errors">0,0,0</setting>
+    <setting id="ip_service_last_vpn">UserDefined</setting>
+    <setting id="location_server_view" default="true">false</setting>
+    <setting id="alternative_message_token" default="true" />
+    <setting id="alternative_message_time" default="true">1</setting>
+    <setting id="last_connect_time">1760877798</setting>
+    <setting id="vpn_provider_update_ignore" default="true">false</setting>
+    <setting id="vpn_short" default="true">VPN Manager</setting>
+    <setting id="vpn_very" default="true">VPN Mgr</setting>
+    <setting id="label0" default="true" />
+    <setting id="label1018" default="true" />
+    <setting id="label1029" default="true" />
+    <setting id="label1035" default="true" />
+    <setting id="label1067" default="true" />
+    <setting id="label1078" default="true" />
+    <setting id="label1084" default="true" />
+    <setting id="label1116" default="true" />
+    <setting id="label1127" default="true" />
+    <setting id="label1133" default="true" />
+    <setting id="label1165" default="true" />
+    <setting id="label1176" default="true" />
+    <setting id="label1182" default="true" />
+    <setting id="label1214" default="true" />
+    <setting id="label1225" default="true" />
+    <setting id="label1231" default="true" />
+    <setting id="label1263" default="true" />
+    <setting id="label1274" default="true" />
+    <setting id="label1280" default="true" />
+    <setting id="label1312" default="true" />
+    <setting id="label1323" default="true" />
+    <setting id="label1329" default="true" />
+    <setting id="label1361" default="true" />
+    <setting id="label1372" default="true" />
+    <setting id="label1378" default="true" />
+    <setting id="label1410" default="true" />
+    <setting id="label1421" default="true" />
+    <setting id="label1427" default="true" />
+    <setting id="label1459" default="true" />
+    <setting id="label147" default="true" />
+    <setting id="label153" default="true" />
+    <setting id="label185" default="true" />
+    <setting id="label196" default="true" />
+    <setting id="label202" default="true" />
+    <setting id="label234" default="true" />
+    <setting id="label245" default="true" />
+    <setting id="label251" default="true" />
+    <setting id="label283" default="true" />
+    <setting id="label294" default="true" />
+    <setting id="label300" default="true" />
+    <setting id="label332" default="true" />
+    <setting id="label343" default="true" />
+    <setting id="label349" default="true" />
+    <setting id="label38" default="true" />
+    <setting id="label381" default="true" />
+    <setting id="label392" default="true" />
+    <setting id="label398" default="true" />
+    <setting id="label430" default="true" />
+    <setting id="label441" default="true" />
+    <setting id="label447" default="true" />
+    <setting id="label479" default="true" />
+    <setting id="label49" default="true" />
+    <setting id="label490" default="true" />
+    <setting id="label496" default="true" />
+    <setting id="label528" default="true" />
+    <setting id="label539" default="true" />
+    <setting id="label545" default="true" />
+    <setting id="label55" default="true" />
+    <setting id="label577" default="true" />
+    <setting id="label588" default="true" />
+    <setting id="label594" default="true" />
+    <setting id="label6" default="true" />
+    <setting id="label626" default="true" />
+    <setting id="label637" default="true" />
+    <setting id="label643" default="true" />
+    <setting id="label675" default="true" />
+    <setting id="label686" default="true" />
+    <setting id="label692" default="true" />
+    <setting id="label724" default="true" />
+    <setting id="label735" default="true" />
+    <setting id="label741" default="true" />
+    <setting id="label773" default="true" />
+    <setting id="label784" default="true" />
+    <setting id="label790" default="true" />
+    <setting id="label822" default="true" />
+    <setting id="label833" default="true" />
+    <setting id="label839" default="true" />
+    <setting id="label87" default="true" />
+    <setting id="label871" default="true" />
+    <setting id="label882" default="true" />
+    <setting id="label888" default="true" />
+    <setting id="label920" default="true" />
+    <setting id="label931" default="true" />
+    <setting id="label937" default="true" />
+    <setting id="label969" default="true" />
+    <setting id="label980" default="true" />
+    <setting id="label986" default="true" />
+</settings>

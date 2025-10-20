@@ -1,0 +1,5 @@
+<rules>
+	<node name="/storage/.kodi/userdata/library/music/musicroles" />
+	<node name="/storage/.kodi/userdata/library/music/top100" />
+	<node name="/storage/.kodi/userdata/library/music/musicvideos" />
+</rules>

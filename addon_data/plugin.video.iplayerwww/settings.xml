@@ -1,0 +1,42 @@
+<settings version="2">
+    <setting id="bbc_id_enabled">true</setting>
+    <setting id="bbc_id_username">trevor.miles@outlook.com</setting>
+    <setting id="bbc_id_password">9v=gceFcG-f?uEE</setting>
+    <setting id="bbc_id_autologin">true</setting>
+    <setting id="search_signed" default="true">false</setting>
+    <setting id="search_ad" default="true">false</setting>
+    <setting id="subtitles" default="true">false</setting>
+    <setting id="suppress_incomplete" default="true">false</setting>
+    <setting id="scrape_atoz" default="true">0</setting>
+    <setting id="paginate_episodes" default="true">1</setting>
+    <setting id="redbutton_warning" default="true">true</setting>
+    <setting id="radio_paginate_episodes" default="true">1</setting>
+    <setting id="menu_video_highlights" default="true">true</setting>
+    <setting id="menu_video_channel_highlighty" default="true">true</setting>
+    <setting id="menu_video_most_popular" default="true">true</setting>
+    <setting id="menu_video_az" default="true">true</setting>
+    <setting id="menu_video_channel_az" default="true">true</setting>
+    <setting id="menu_video_categories" default="true">true</setting>
+    <setting id="menu_video_search" default="true">true</setting>
+    <setting id="menu_video_live" default="true">true</setting>
+    <setting id="menu_video_red_button" default="true">true</setting>
+    <setting id="menu_video_uhd_trial" default="true">true</setting>
+    <setting id="menu_video_watching" default="true">true</setting>
+    <setting id="menu_video_added" default="true">true</setting>
+    <setting id="menu_video_recommendations" default="true">true</setting>
+    <setting id="menu_radio_live" default="true">true</setting>
+    <setting id="menu_radio_az" default="true">true</setting>
+    <setting id="menu_radio_categories" default="true">true</setting>
+    <setting id="menu_radio_search" default="true">true</setting>
+    <setting id="menu_radio_most_popular" default="true">true</setting>
+    <setting id="menu_radio_added" default="true">true</setting>
+    <setting id="menu_radio_following" default="true">true</setting>
+    <setting id="streams_autoplay" default="true">true</setting>
+    <setting id="catchup_source" default="true">0</setting>
+    <setting id="live_source" default="true">0</setting>
+    <setting id="subtitle_source" default="true">0</setting>
+    <setting id="radio_source" default="true">0</setting>
+    <setting id="radio_location" default="true">0</setting>
+    <setting id="radio_live_bitrate" default="true">3</setting>
+    <setting id="licence_warning_shown" default="true">true</setting>
+</settings>

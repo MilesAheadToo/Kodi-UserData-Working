@@ -1,0 +1,14 @@
+<settings version="2">
+    <setting id="client_id">trevor.ian.miles@gmail.com</setting>
+    <setting id="client_secret">E#q9S41hDUqq4jup</setting>
+    <setting id="baseUrl" default="true">https://photos-kodi-addon.onrender.com</setting>
+    <setting id="deviceCodeUrl" default="true">/device/code</setting>
+    <setting id="tokenUrl" default="true">/token</setting>
+    <setting id="refreshUrl" default="true">/refresh</setting>
+    <setting id="date_filter" default="true">false</setting>
+    <setting id="start_date" default="true">1700-01-01</setting>
+    <setting id="end_date" default="true">2200-01-01</setting>
+    <setting id="media_filter" default="true">All Media</setting>
+    <setting id="content_filter" default="true">None</setting>
+    <setting id="favourites" default="true">false</setting>
+</settings>

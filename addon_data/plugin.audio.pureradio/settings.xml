@@ -1,0 +1,6 @@
+<settings version="2">
+    <setting id="podcast_images">true</setting>
+    <setting id="VERSION" default="true">3.0.4</setting>
+    <setting id="stream_url" default="true">http://pureradio.one:8000/</setting>
+    <setting id="podcast_url" default="true">http://www.spreaker.com/show/1757189/episodes/feed</setting>
+</settings>

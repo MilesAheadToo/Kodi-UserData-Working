@@ -1,0 +1,309 @@
+<settings version="2">
+    <setting id="loc1">Estoril, Lisbon, PT</setting>
+    <setting id="loc1user">Home</setting>
+    <setting id="loc1alert">false</setting>
+    <setting id="loc1utz">true</setting>
+    <setting id="loc1tz">Europe/Lisbon</setting>
+    <setting id="loc1lat">38.7057</setting>
+    <setting id="loc1lon">-9.39773</setting>
+    <setting id="loc2">London, England, GB</setting>
+    <setting id="loc2user">London, UK</setting>
+    <setting id="loc2alert">false</setting>
+    <setting id="loc2utz">true</setting>
+    <setting id="loc2tz">Europe/London</setting>
+    <setting id="loc2lat">51.5085</setting>
+    <setting id="loc2lon">-0.12574</setting>
+    <setting id="loc3">Seattle, Washington, US</setting>
+    <setting id="loc3user">Seattle</setting>
+    <setting id="loc3alert">false</setting>
+    <setting id="loc3utz">true</setting>
+    <setting id="loc3tz">America/Los_Angeles</setting>
+    <setting id="loc3lat">47.6062</setting>
+    <setting id="loc3lon">-122.332</setting>
+    <setting id="loc4" default="true" />
+    <setting id="loc4user" default="true" />
+    <setting id="loc4alert" default="true">true</setting>
+    <setting id="loc4utz" default="true">false</setting>
+    <setting id="loc4tz" default="true" />
+    <setting id="loc4lat" default="true">0</setting>
+    <setting id="loc4lon" default="true">0</setting>
+    <setting id="loc5" default="true" />
+    <setting id="loc5user" default="true" />
+    <setting id="loc5alert" default="true">true</setting>
+    <setting id="loc5utz" default="true">false</setting>
+    <setting id="loc5tz" default="true" />
+    <setting id="loc5lat" default="true">0</setting>
+    <setting id="loc5lon" default="true">0</setting>
+    <setting id="unitsep" default="true">.</setting>
+    <setting id="unittemp" default="true">app</setting>
+    <setting id="unittempdp" default="true">1</setting>
+    <setting id="unitspeed" default="true">app</setting>
+    <setting id="unitspeeddp" default="true">1</setting>
+    <setting id="unitprecip" default="true">mm</setting>
+    <setting id="unitprecipdp" default="true">1</setting>
+    <setting id="unitdistance" default="true">km</setting>
+    <setting id="unitdistancedp" default="true">1</setting>
+    <setting id="unitparticlesdp" default="true">1</setting>
+    <setting id="unitpollendp" default="true">1</setting>
+    <setting id="unituvindexdp" default="true">1</setting>
+    <setting id="unitradiationdp" default="true">1</setting>
+    <setting id="unitpressure" default="true">hPa</setting>
+    <setting id="unitpressuredp" default="true">0</setting>
+    <setting id="mapzoom" default="true">8</setting>
+    <setting id="maphistory" default="true">12</setting>
+    <setting id="maprvradar" default="true">true</setting>
+    <setting id="maprvsatellite" default="true">true</setting>
+    <setting id="mapgctemp" default="true">true</setting>
+    <setting id="mapgcwind" default="true">true</setting>
+    <setting id="maposm" default="true">true</setting>
+    <setting id="alert_temperature_enabled" default="true">true</setting>
+    <setting id="alert_temperature_notice" default="true">false</setting>
+    <setting id="alert_temperature_caution" default="true">false</setting>
+    <setting id="alert_temperature_danger" default="true">true</setting>
+    <setting id="alert_temperature_high_1" default="true">28</setting>
+    <setting id="alert_temperature_high_2" default="true">35</setting>
+    <setting id="alert_temperature_high_3" default="true">40</setting>
+    <setting id="alert_temperature_low_1" default="true">-10</setting>
+    <setting id="alert_temperature_low_2" default="true">-15</setting>
+    <setting id="alert_temperature_low_3" default="true">-20</setting>
+    <setting id="alert_precipitation_enabled" default="true">true</setting>
+    <setting id="alert_precipitation_notice" default="true">false</setting>
+    <setting id="alert_precipitation_caution" default="true">false</setting>
+    <setting id="alert_precipitation_danger" default="true">true</setting>
+    <setting id="alert_precipitation_high_1" default="true">28</setting>
+    <setting id="alert_precipitation_high_2" default="true">35</setting>
+    <setting id="alert_precipitation_high_3" default="true">40</setting>
+    <setting id="alert_condition_enabled" default="true">true</setting>
+    <setting id="alert_condition_notice" default="true">false</setting>
+    <setting id="alert_condition_caution" default="true">false</setting>
+    <setting id="alert_condition_danger" default="true">true</setting>
+    <setting id="alert_condition_wmo_1" default="true">45 48 51 56 61 66 71 77 80 85</setting>
+    <setting id="alert_condition_wmo_2" default="true">53 63 73 81</setting>
+    <setting id="alert_condition_wmo_3" default="true">55 57 65 67 75 82 86 95 96 99</setting>
+    <setting id="alert_windspeed_enabled" default="true">true</setting>
+    <setting id="alert_windspeed_notice" default="true">false</setting>
+    <setting id="alert_windspeed_caution" default="true">false</setting>
+    <setting id="alert_windspeed_danger" default="true">true</setting>
+    <setting id="alert_windspeed_high_1" default="true">50</setting>
+    <setting id="alert_windspeed_high_2" default="true">75</setting>
+    <setting id="alert_windspeed_high_3" default="true">90</setting>
+    <setting id="alert_windgust_enabled" default="true">true</setting>
+    <setting id="alert_windgust_notice" default="true">false</setting>
+    <setting id="alert_windgust_caution" default="true">false</setting>
+    <setting id="alert_windgust_danger" default="true">true</setting>
+    <setting id="alert_windgust_high_1" default="true">50</setting>
+    <setting id="alert_windgust_high_2" default="true">75</setting>
+    <setting id="alert_windgust_high_3" default="true">90</setting>
+    <setting id="alert_uvindex_enabled" default="true">false</setting>
+    <setting id="alert_uvindex_notice" default="true">false</setting>
+    <setting id="alert_uvindex_caution" default="true">false</setting>
+    <setting id="alert_uvindex_danger" default="true">false</setting>
+    <setting id="alert_uvindex_high_1" default="true">3</setting>
+    <setting id="alert_uvindex_high_2" default="true">6</setting>
+    <setting id="alert_uvindex_high_3" default="true">8</setting>
+    <setting id="alert_cloudiness_enabled" default="true">false</setting>
+    <setting id="alert_cloudiness_notice" default="true">false</setting>
+    <setting id="alert_cloudiness_caution" default="true">false</setting>
+    <setting id="alert_cloudiness_danger" default="true">false</setting>
+    <setting id="alert_cloudiness_high_1" default="true">0</setting>
+    <setting id="alert_cloudiness_high_2" default="true">0</setting>
+    <setting id="alert_cloudiness_high_3" default="true">0</setting>
+    <setting id="alert_dewpoint_enabled" default="true">false</setting>
+    <setting id="alert_dewpoint_notice" default="true">false</setting>
+    <setting id="alert_dewpoint_caution" default="true">false</setting>
+    <setting id="alert_dewpoint_danger" default="true">false</setting>
+    <setting id="alert_dewpoint_high_1" default="true">0</setting>
+    <setting id="alert_dewpoint_high_2" default="true">0</setting>
+    <setting id="alert_dewpoint_high_3" default="true">0</setting>
+    <setting id="alert_feelslike_enabled" default="true">false</setting>
+    <setting id="alert_feelslike_notice" default="true">false</setting>
+    <setting id="alert_feelslike_caution" default="true">false</setting>
+    <setting id="alert_feelslike_danger" default="true">false</setting>
+    <setting id="alert_feelslike_high_1" default="true">0</setting>
+    <setting id="alert_feelslike_high_2" default="true">0</setting>
+    <setting id="alert_feelslike_high_3" default="true">0</setting>
+    <setting id="alert_humidity_enabled" default="true">false</setting>
+    <setting id="alert_humidity_notice" default="true">false</setting>
+    <setting id="alert_humidity_caution" default="true">false</setting>
+    <setting id="alert_humidity_danger" default="true">false</setting>
+    <setting id="alert_humidity_high_1" default="true">0</setting>
+    <setting id="alert_humidity_high_2" default="true">0</setting>
+    <setting id="alert_humidity_high_3" default="true">0</setting>
+    <setting id="alert_precipitationprobability_enabled" default="true">false</setting>
+    <setting id="alert_precipitationprobability_notice" default="true">false</setting>
+    <setting id="alert_precipitationprobability_caution" default="true">false</setting>
+    <setting id="alert_precipitationprobability_danger" default="true">false</setting>
+    <setting id="alert_precipitationprobability_high_1" default="true">0</setting>
+    <setting id="alert_precipitationprobability_high_2" default="true">0</setting>
+    <setting id="alert_precipitationprobability_high_3" default="true">0</setting>
+    <setting id="alert_pressure_enabled" default="true">false</setting>
+    <setting id="alert_pressure_notice" default="true">false</setting>
+    <setting id="alert_pressure_caution" default="true">false</setting>
+    <setting id="alert_pressure_danger" default="true">false</setting>
+    <setting id="alert_pressure_high_1" default="true">0</setting>
+    <setting id="alert_pressure_high_2" default="true">0</setting>
+    <setting id="alert_pressure_high_3" default="true">0</setting>
+    <setting id="alert_pressuresurface_enabled" default="true">false</setting>
+    <setting id="alert_pressuresurface_notice" default="true">false</setting>
+    <setting id="alert_pressuresurface_caution" default="true">false</setting>
+    <setting id="alert_pressuresurface_danger" default="true">false</setting>
+    <setting id="alert_pressuresurface_high_1" default="true">0</setting>
+    <setting id="alert_pressuresurface_high_2" default="true">0</setting>
+    <setting id="alert_pressuresurface_high_3" default="true">0</setting>
+    <setting id="alert_solarradiation_enabled" default="true">false</setting>
+    <setting id="alert_solarradiation_notice" default="true">false</setting>
+    <setting id="alert_solarradiation_caution" default="true">false</setting>
+    <setting id="alert_solarradiation_danger" default="true">false</setting>
+    <setting id="alert_solarradiation_high_1" default="true">0</setting>
+    <setting id="alert_solarradiation_high_2" default="true">0</setting>
+    <setting id="alert_solarradiation_high_3" default="true">0</setting>
+    <setting id="alert_visibility_enabled" default="true">false</setting>
+    <setting id="alert_visibility_notice" default="true">false</setting>
+    <setting id="alert_visibility_caution" default="true">false</setting>
+    <setting id="alert_visibility_danger" default="true">false</setting>
+    <setting id="alert_visibility_low_1" default="true">0</setting>
+    <setting id="alert_visibility_low_2" default="true">0</setting>
+    <setting id="alert_visibility_low_3" default="true">0</setting>
+    <setting id="alert_aqieu_enabled" default="true">true</setting>
+    <setting id="alert_aqieu_notice" default="true">false</setting>
+    <setting id="alert_aqieu_caution" default="true">false</setting>
+    <setting id="alert_aqieu_danger" default="true">true</setting>
+    <setting id="alert_aqieu_high_1" default="true">40</setting>
+    <setting id="alert_aqieu_high_2" default="true">60</setting>
+    <setting id="alert_aqieu_high_3" default="true">80</setting>
+    <setting id="alert_aqius_enabled" default="true">true</setting>
+    <setting id="alert_aqius_notice" default="true">false</setting>
+    <setting id="alert_aqius_caution" default="true">false</setting>
+    <setting id="alert_aqius_danger" default="true">true</setting>
+    <setting id="alert_aqius_high_1" default="true">50</setting>
+    <setting id="alert_aqius_high_2" default="true">100</setting>
+    <setting id="alert_aqius_high_3" default="true">150</setting>
+    <setting id="alert_pm25_enabled" default="true">true</setting>
+    <setting id="alert_pm25_notice" default="true">false</setting>
+    <setting id="alert_pm25_caution" default="true">false</setting>
+    <setting id="alert_pm25_danger" default="true">true</setting>
+    <setting id="alert_pm25_high_1" default="true">20</setting>
+    <setting id="alert_pm25_high_2" default="true">25</setting>
+    <setting id="alert_pm25_high_3" default="true">50</setting>
+    <setting id="alert_pm10_enabled" default="true">true</setting>
+    <setting id="alert_pm10_notice" default="true">false</setting>
+    <setting id="alert_pm10_caution" default="true">false</setting>
+    <setting id="alert_pm10_danger" default="true">true</setting>
+    <setting id="alert_pm10_high_1" default="true">40</setting>
+    <setting id="alert_pm10_high_2" default="true">50</setting>
+    <setting id="alert_pm10_high_3" default="true">100</setting>
+    <setting id="alert_co_enabled" default="true">false</setting>
+    <setting id="alert_co_notice" default="true">false</setting>
+    <setting id="alert_co_caution" default="true">false</setting>
+    <setting id="alert_co_danger" default="true">false</setting>
+    <setting id="alert_co_high_1" default="true">0</setting>
+    <setting id="alert_co_high_2" default="true">0</setting>
+    <setting id="alert_co_high_3" default="true">0</setting>
+    <setting id="alert_ozone_enabled" default="true">true</setting>
+    <setting id="alert_ozone_notice" default="true">false</setting>
+    <setting id="alert_ozone_caution" default="true">false</setting>
+    <setting id="alert_ozone_danger" default="true">true</setting>
+    <setting id="alert_ozone_high_1" default="true">100</setting>
+    <setting id="alert_ozone_high_2" default="true">180</setting>
+    <setting id="alert_ozone_high_3" default="true">240</setting>
+    <setting id="alert_dust_enabled" default="true">false</setting>
+    <setting id="alert_dust_notice" default="true">false</setting>
+    <setting id="alert_dust_caution" default="true">false</setting>
+    <setting id="alert_dust_danger" default="true">false</setting>
+    <setting id="alert_dust_high_1" default="true">0</setting>
+    <setting id="alert_dust_high_2" default="true">0</setting>
+    <setting id="alert_dust_high_3" default="true">0</setting>
+    <setting id="alert_no2_enabled" default="true">false</setting>
+    <setting id="alert_no2_notice" default="true">false</setting>
+    <setting id="alert_no2_caution" default="true">false</setting>
+    <setting id="alert_no2_danger" default="true">false</setting>
+    <setting id="alert_no2_high_1" default="true">0</setting>
+    <setting id="alert_no2_high_2" default="true">0</setting>
+    <setting id="alert_no2_high_3" default="true">0</setting>
+    <setting id="alert_so2_enabled" default="true">false</setting>
+    <setting id="alert_so2_notice" default="true">false</setting>
+    <setting id="alert_so2_caution" default="true">false</setting>
+    <setting id="alert_so2_danger" default="true">false</setting>
+    <setting id="alert_so2_high_1" default="true">0</setting>
+    <setting id="alert_so2_high_2" default="true">0</setting>
+    <setting id="alert_so2_high_3" default="true">0</setting>
+    <setting id="alert_alder_enabled" default="true">false</setting>
+    <setting id="alert_alder_notice" default="true">false</setting>
+    <setting id="alert_alder_caution" default="true">false</setting>
+    <setting id="alert_alder_danger" default="true">false</setting>
+    <setting id="alert_alder_high_1" default="true">0</setting>
+    <setting id="alert_alder_high_2" default="true">0</setting>
+    <setting id="alert_alder_high_3" default="true">0</setting>
+    <setting id="alert_birch_enabled" default="true">false</setting>
+    <setting id="alert_birch_notice" default="true">false</setting>
+    <setting id="alert_birch_caution" default="true">false</setting>
+    <setting id="alert_birch_danger" default="true">false</setting>
+    <setting id="alert_birch_high_1" default="true">0</setting>
+    <setting id="alert_birch_high_2" default="true">0</setting>
+    <setting id="alert_birch_high_3" default="true">0</setting>
+    <setting id="alert_grass_enabled" default="true">false</setting>
+    <setting id="alert_grass_notice" default="true">false</setting>
+    <setting id="alert_grass_caution" default="true">false</setting>
+    <setting id="alert_grass_danger" default="true">false</setting>
+    <setting id="alert_grass_high_1" default="true">0</setting>
+    <setting id="alert_grass_high_2" default="true">0</setting>
+    <setting id="alert_grass_high_3" default="true">0</setting>
+    <setting id="alert_mugwort_enabled" default="true">false</setting>
+    <setting id="alert_mugwort_notice" default="true">false</setting>
+    <setting id="alert_mugwort_caution" default="true">false</setting>
+    <setting id="alert_mugwort_danger" default="true">false</setting>
+    <setting id="alert_mugwort_high_1" default="true">0</setting>
+    <setting id="alert_mugwort_high_2" default="true">0</setting>
+    <setting id="alert_mugwort_high_3" default="true">0</setting>
+    <setting id="alert_olive_enabled" default="true">false</setting>
+    <setting id="alert_olive_notice" default="true">false</setting>
+    <setting id="alert_olive_caution" default="true">false</setting>
+    <setting id="alert_olive_danger" default="true">false</setting>
+    <setting id="alert_olive_high_1" default="true">0</setting>
+    <setting id="alert_olive_high_2" default="true">0</setting>
+    <setting id="alert_olive_high_3" default="true">0</setting>
+    <setting id="alert_ragweed_enabled" default="true">false</setting>
+    <setting id="alert_ragweed_notice" default="true">false</setting>
+    <setting id="alert_ragweed_caution" default="true">false</setting>
+    <setting id="alert_ragweed_danger" default="true">false</setting>
+    <setting id="alert_ragweed_high_1" default="true">0</setting>
+    <setting id="alert_ragweed_high_2" default="true">0</setting>
+    <setting id="alert_ragweed_high_3" default="true">0</setting>
+    <setting id="icons" default="true">default</setting>
+    <setting id="alert_hours" default="true">8</setting>
+    <setting id="alert_interval" default="true">30</setting>
+    <setting id="alert_duration" default="true">15</setting>
+    <setting id="colordefault" default="true">lightgrey</setting>
+    <setting id="colornegative" default="true">deepskyblue</setting>
+    <setting id="colornormal" default="true">forestgreen</setting>
+    <setting id="colornotice" default="true">yellow</setting>
+    <setting id="colorcaution" default="true">orange</setting>
+    <setting id="colordanger" default="true">crimson</setting>
+    <setting id="debug" default="true">false</setting>
+    <setting id="verbose" default="true">false</setting>
+    <setting id="service">idle</setting>
+    <setting id="alert_notification">1760968696</setting>
+    <setting id="geoip">true</setting>
+    <setting id="loc1data">1760967785</setting>
+    <setting id="loc1map">1760372569</setting>
+    <setting id="loc1rv">1760967785</setting>
+    <setting id="loc1gc">1760961147</setting>
+    <setting id="loc2data">1760967786</setting>
+    <setting id="loc2map">1760434072</setting>
+    <setting id="loc2rv">1760967786</setting>
+    <setting id="loc2gc">1760961148</setting>
+    <setting id="loc3data">1760968093</setting>
+    <setting id="loc3map">1760434073</setting>
+    <setting id="loc3rv">1760968094</setting>
+    <setting id="loc3gc">1760960846</setting>
+    <setting id="loc4data" default="true" />
+    <setting id="loc4map" default="true" />
+    <setting id="loc4rv" default="true" />
+    <setting id="loc4gc" default="true" />
+    <setting id="loc5data" default="true" />
+    <setting id="loc5map" default="true" />
+    <setting id="loc5rv" default="true" />
+    <setting id="loc5gc" default="true" />
+    <setting id="explocations" default="true">false</setting>
+    <setting id="enablehour" default="true">false</setting>
+</settings>

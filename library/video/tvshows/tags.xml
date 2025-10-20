@@ -1,0 +1,9 @@
+<node order="80" type="filter">
+	<label>20459</label>
+	<icon>DefaultTags.png</icon>
+	<content>tvshows</content>
+	<group>tags</group>
+	<rule field="title" operator="contains">
+		<value />
+	</rule>
+</node>

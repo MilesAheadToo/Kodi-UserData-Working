@@ -1,0 +1,9 @@
+<rules>
+	<node name="/storage/.kodi/userdata/library/video/tvshows">
+		<rule field="title" operator="contains">
+			<value />
+		</rule>
+	</node>
+	<node name="/storage/.kodi/userdata/library/video/movies" />
+	<node name="/storage/.kodi/userdata/library/video/musicvideos" />
+</rules>

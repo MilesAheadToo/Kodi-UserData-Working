@@ -1,0 +1,6 @@
+<settings version="2">
+    <setting id="quality" default="true">0</setting>
+    <setting id="archive" default="true">false</setting>
+    <setting id="anchor" default="true">false</setting>
+    <setting id="agreement">1</setting>
+</settings>

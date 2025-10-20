@@ -1,0 +1,8 @@
+<node order="10" type="folder">
+	<label>20382</label>
+	<icon>DefaultRecentlyAddedEpisodes.png</icon>
+	<path>videodb://recentlyaddedepisodes/</path>
+	<rule field="title" operator="contains">
+		<value />
+	</rule>
+</node>

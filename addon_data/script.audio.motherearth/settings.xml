@@ -1,0 +1,4 @@
+<settings version="2">
+    <setting id="audio_format" default="true">flac</setting>
+    <setting id="auto_play" default="true">-1</setting>
+</settings>

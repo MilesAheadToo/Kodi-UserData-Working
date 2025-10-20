@@ -1,0 +1,42 @@
+#!/bin/sh
+# Minimal XMLTV grabber for Tvheadend on LibreELEC.
+# Reads URLs from ~/.xmltv/tv_grab_url.conf (lines starting with: url <http-url>)
+
+CONF_DIR="$(dirname "$0")/../.xmltv"
+CONF_FILE="$CONF_DIR/tv_grab_url.conf"
+UA="${UA:-tv_grab_url/0.3}"
+TIMEOUT="${TIMEOUT:-30}"
+
+case "$1" in
+  --description)  echo "Fetch XMLTV from one or more URLs (tv_grab_url)"; exit 0 ;;
+  --version)      echo "0.3"; exit 0 ;;
+  --capabilities) echo "baseline"; exit 0 ;;
+  --configure)    # Tvheadend won’t run this interactively; config is the .conf file
+                  [ -f "$CONF_FILE" ] || { mkdir -p "$CONF_DIR"; touch "$CONF_FILE"; }
+                  exit 0 ;;
+esac
+
+fetch() {
+  URL="$1"
+  if command -v curl >/dev/null 2>&1; then
+    curl -fsSL --max-time "$TIMEOUT" -A "$UA" --compressed "$URL"
+  else
+    wget -qO- --timeout="$TIMEOUT" --header="User-Agent: $UA" "$URL"
+  fi
+}
+
+# Begin XMLTV
+echo '<?xml version="1.0" encoding="UTF-8"?>'
+echo '<tv generator-info-name="tv_grab_url">'
+
+# Emit inner XMLTV from each configured URL
+while IFS= read -r line; do
+  set -- $line
+  [ "$1" = "url" ] || continue
+  U="$2"
+  [ -n "$U" ] || continue
+  fetch "$U" | sed -n '1,/<tv[ >]/d; /<\/tv>/q; p'
+done < "$CONF_FILE"
+
+# End XMLTV
+echo '</tv>'

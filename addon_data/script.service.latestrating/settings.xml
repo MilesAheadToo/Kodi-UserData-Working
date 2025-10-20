@@ -1,0 +1,10 @@
+<settings version="2">
+    <setting id="update_movies">true</setting>
+    <setting id="update_tvshows">true</setting>
+    <setting id="update_interval">2</setting>
+    <setting id="movie_years_back">2</setting>
+    <setting id="tvshow_months_back">6</setting>
+    <setting id="use_imdb">true</setting>
+    <setting id="use_trakt" default="true">false</setting>
+    <setting id="last_completion">2025-10-19T13:14:06.202417</setting>
+</settings>

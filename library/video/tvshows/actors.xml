@@ -1,0 +1,9 @@
+<node order="60" type="filter">
+	<label>344</label>
+	<icon>DefaultActor.png</icon>
+	<content>tvshows</content>
+	<group>actors</group>
+	<rule field="title" operator="contains">
+		<value />
+	</rule>
+</node>

@@ -1,0 +1,16 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+
+# Kodi (tune as needed)
+Thumbnails/
+Cache/
+temp/
+Database/*.db*
+*.bak
+logs/

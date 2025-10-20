@@ -1,0 +1,9 @@
+<node order="50" type="filter">
+	<label>652</label>
+	<icon>DefaultYear.png</icon>
+	<content>tvshows</content>
+	<group>years</group>
+	<rule field="title" operator="contains">
+		<value />
+	</rule>
+</node>

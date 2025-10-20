@@ -1,0 +1,18 @@
+<settings version="2">
+    <setting id="set_subtitle">true</setting>
+    <setting id="resume_playing">true</setting>
+    <setting id="save_resume_watched">true</setting>
+    <setting id="ask_resume">true</setting>
+    <setting id="clean_folder">true</setting>
+    <setting id="no_extension_strm" default="true">false</setting>
+    <setting id="hide_export_progress" default="true">false</setting>
+    <setting id="allow_directory_listing">true</setting>
+    <setting id="port_directory_listing">8586</setting>
+    <setting id="slideshow_refresh_interval">5</setting>
+    <setting id="slideshow_recursive" default="true">false</setting>
+    <setting id="sign-in-server" default="true">https://drive-login.herokuapp.com</setting>
+    <setting id="cache-expiration-time">5</setting>
+    <setting id="report_error" default="true">false</setting>
+    <setting id="download.service.port">46023</setting>
+    <setting id="source.service.port" default="true">8586</setting>
+</settings>

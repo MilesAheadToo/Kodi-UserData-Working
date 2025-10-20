@@ -1,0 +1,6 @@
+<settings version="2">
+    <setting id="last_refreshed">1760606551</setting>
+    <setting id="refresh_interval" default="true">24</setting>
+    <setting id="iptv_simple_restart">true</setting>
+    <setting id="debug_logging" default="true">false</setting>
+</settings>
