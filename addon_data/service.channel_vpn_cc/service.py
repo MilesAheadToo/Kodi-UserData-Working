@@ -10,7 +10,6 @@ from urllib.parse import quote_plus
 
 import xbmc
 import xbmcaddon
-from typing import Dict
 
 try:
     import xbmcvfs  # type: ignore
@@ -58,10 +57,19 @@ STATE = os.path.join(CFG_DIR, "state.json")           # {"last_profile":"...", "
 
 # Default fallback mapping in case override file is missing
 DEFAULT_CC2PROFILE = {
-    "GB": "my_expressvpn_uk_-_docklands_udp (UDP)",
-    "DE": "my_expressvpn_germany_-_frankfurt_-_1_udp (UDP)",
-    "US": "my_expressvpn_usa_-_new_york_udp (UDP)",
-    "CA": "my_expressvpn_canada_-_toronto_udp (UDP)"
+      "UK": "UK",
+      "GB": "UK",
+      "uk": "UK",
+      "gb": "UK",
+
+      "DE": "DE",
+      "de": "DE",
+
+      "CA": "CA",
+      "ca": "CA",
+
+      "US": "US",
+      "us": "US"
 }
 
 # Logging
@@ -103,63 +111,6 @@ def save_json(path, obj):
         klog("WARN cannot write {}: {}".format(path, e))
         return False
 
-def _flatten_channel_entries(raw) -> Dict[str, str]:
-    mapping: Dict[str, str] = {}
-    if not isinstance(raw, dict):
-        return mapping
-    skip = {
-        "version", "connect_mode", "default_when_unknown", "default_profile",
-        "profiles", "mappings", "logging", "summary", "channels",
-        "lookup", "generated_at"
-    }
-    for chan, val in raw.items():
-        if not chan or chan in skip:
-            continue
-        cc_val = None
-        if isinstance(val, str):
-            cc_val = val.strip()
-        elif isinstance(val, dict):
-            for key in ("country", "cc", "profile", "tvg_country"):
-                payload = val.get(key)
-                if isinstance(payload, str) and payload.strip():
-                    cc_val = payload.strip()
-                    break
-        if cc_val:
-            mapping[chan.strip()] = cc_val
-    return mapping
-
-def _extract_channel_map(data) -> Dict[str, str]:
-    if not isinstance(data, dict):
-        return {}
-
-    mapping: Dict[str, str] = {}
-
-    channels = data.get("channels")
-    if isinstance(channels, dict):
-        mapping.update(_flatten_channel_entries(channels))
-
-    lookup = data.get("lookup")
-    if isinstance(lookup, dict):
-        mapping.update(_flatten_channel_entries(lookup))
-
-    mappings_section = data.get("mappings")
-    if isinstance(mappings_section, dict):
-        overrides = mappings_section.get("channel_overrides")
-        if isinstance(overrides, dict):
-            mapping.update(_flatten_channel_entries(overrides))
-
-    if not mapping:
-        mapping.update(_flatten_channel_entries(data))
-
-    normalized: Dict[str, str] = {}
-    for chan, cc in mapping.items():
-        if not chan:
-            continue
-        cc_norm = cc.upper()
-        normalized[chan] = cc_norm
-
-    return normalized
-
 
 def load_cc_map():
     candidates = []
@@ -175,7 +126,6 @@ def load_cc_map():
     if env_override:
         candidates.append(env_override)
     candidates.append(os.path.join(CFG_DIR, "channel_cc_map.json"))
-    candidates.append(OVERRIDE)
     candidates.append(MAPFILE)
 
     for raw_path in candidates:
@@ -185,9 +135,8 @@ def load_cc_map():
         try:
             with io.open(full, "r", encoding="utf-8") as f:
                 data = json.load(f)
-            mapping = _extract_channel_map(data)
-            if mapping:
-                return mapping, full
+            if isinstance(data, dict):
+                return data, full
         except FileNotFoundError:
             continue
         except json.JSONDecodeError as e:
