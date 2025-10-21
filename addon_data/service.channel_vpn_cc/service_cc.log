@@ -23,3 +23,21 @@
 ==== service.channel_vpn_cc start ====
 2025-10-21 19:09:47 Service ready (PVR-only; add-ons handled by VPN Manager)
 2025-10-21 19:09:47 Loaded cc_map 173 entries; cc_to_profile={'GB': 'my_expressvpn_uk_-_docklands_udp (UDP)', 'DE': 'my_expressvpn_germany_-_frankfurt_-_1_udp (UDP)', 'US': 'my_expressvpn_usa_-_new_york_udp (UDP)', 'CA': 'my_expressvpn_canada_-_toronto_udp (UDP)', 'version': 2, 'connect_mode': 'slot', 'default_when_unknown': 'leave', 'default_profile': 'UK', 'profiles': {'UK': {'slot': 1, 'label': 'UK (UDP)'}, 'DE': {'slot': 2, 'label': 'DE (UDP)'}, 'CA': {'slot': 3, 'label': 'CA (UDP)'}, 'US': {'slot': 4, 'label': 'US (UDP)'}}, 'mappings': {'by_country_code': {'UK': 'UK', 'GB': 'UK', 'uk': 'UK', 'gb': 'UK', 'DE': 'DE', 'de': 'DE', 'CA': 'CA', 'ca': 'CA', 'US': 'US', 'us': 'US'}, 'addon_overrides': {'plugin.video.iplayerwww': 'UK'}, 'channel_overrides': {}}, 'logging': {'enabled': True, 'path': 'special://profile/addon_data/service.channel_vpn_cc/service.log'}}
+2025-10-21 21:32:10 Playback detected but not PVR; leaving to VPN Manager add-on rules.
+2025-10-21 21:32:24 Playback detected but not PVR; leaving to VPN Manager add-on rules.
+2025-10-21 21:33:51 Playback detected but not PVR; leaving to VPN Manager add-on rules.
+2025-10-21 21:35:42 Playback detected but not PVR; leaving to VPN Manager add-on rules.
+2025-10-21 21:38:58 Playback detected but not PVR; leaving to VPN Manager add-on rules.
+2025-10-21 21:39:19 No country mapping for channel='PVR.ChannelName' → no VPN switch
+2025-10-21 21:39:21 No country mapping for channel='PVR.ChannelName' → no VPN switch
+2025-10-21 21:40:47 No country mapping for channel='PVR.ChannelName' → no VPN switch
+2025-10-21 21:41:05 No country mapping for channel='PVR.ChannelName' → no VPN switch
+2025-10-21 21:41:22 No country mapping for channel='PVR.ChannelName' → no VPN switch
+2025-10-21 21:42:13 No country mapping for channel='PVR.ChannelName' → no VPN switch
+2025-10-21 21:42:35 No country mapping for channel='PVR.ChannelName' → no VPN switch
+2025-10-21 21:47:32 No country mapping for channel='PVR.ChannelName' → no VPN switch
+2025-10-21 21:47:44 No country mapping for channel='PVR.ChannelName' → no VPN switch
+2025-10-21 21:48:09 No country mapping for channel='PVR.ChannelName' → no VPN switch
+2025-10-21 21:48:48 No country mapping for channel='PVR.ChannelName' → no VPN switch
+2025-10-21 21:49:03 No country mapping for channel='PVR.ChannelName' → no VPN switch
+2025-10-21 21:49:24 No country mapping for channel='PVR.ChannelName' → no VPN switch

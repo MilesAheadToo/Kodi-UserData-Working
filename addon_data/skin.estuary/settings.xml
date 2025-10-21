@@ -1,8 +1,8 @@
 <settings>
-    <setting id="tmdbhelper.enablecrop" type="bool">false</setting>
-    <setting id="blurenabled" type="bool">false</setting>
-    <setting id="homemenunomoviebutton" type="bool">false</setting>
     <setting id="homemenunomusicvideobutton" type="bool">true</setting>
+    <setting id="blurenabled" type="bool">false</setting>
+    <setting id="tmdbhelper.enablecrop" type="bool">false</setting>
+    <setting id="homemenunomoviebutton" type="bool">false</setting>
     <setting id="movieset_onclick_queue" type="bool">false</setting>
     <setting id="home_no_categories_widget" type="bool">false</setting>
     <setting id="tmdbhelper.disableratings" type="bool">false</setting>
@@ -40,7 +40,7 @@
     <setting id="homemenunoprogramsbutton" type="bool">true</setting>
     <setting id="homemenunoweatherbutton" type="bool">false</setting>
     <setting id="circle_rating" type="bool">false</setting>
-    <setting id="animate_background_fanart" type="bool">false</setting>
+    <setting id="animate_background_fanart" type="bool">true</setting>
     <setting id="tmdbhelper.uselocalwidgetcontainer" type="bool">false</setting>
     <setting id="hide_mediaflags" type="bool">false</setting>
     <setting id="album_onclick_play" type="bool">false</setting>
@@ -76,4 +76,5 @@
     <setting id="BlurSaturation" type="string"></setting>
     <setting id="MovieGenreFanart.path" type="string"></setting>
     <setting id="HomeFanart.ext" type="string"></setting>
+    <setting id="LyricScript_Path" type="string"></setting>
 </settings>
