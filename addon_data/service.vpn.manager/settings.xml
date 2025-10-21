@@ -1,12 +1,12 @@
 <settings version="2">
     <setting id="vpn_custom" default="true" />
-    <setting id="label0" default="true" />
+    <setting id="label98" default="true" />
     <setting id="vpn_provider_update" default="true">false</setting>
-    <setting id="vpn_validated" default="true">false</setting>
-    <setting id="vpn_provider">ExpressVPN</setting>
-    <setting id="vpn_username_validated" default="true" />
+    <setting id="vpn_validated">true</setting>
+    <setting id="vpn_provider">User Defined</setting>
+    <setting id="vpn_username_validated">2prxdtdcplz65wbedwyh11db</setting>
     <setting id="vpn_username">2prxdtdcplz65wbedwyh11db</setting>
-    <setting id="vpn_password_validated" default="true" />
+    <setting id="vpn_password_validated">x7jw22pybo4hpqbe7r6w6ig7</setting>
     <setting id="vpn_password">x7jw22pybo4hpqbe7r6w6ig7</setting>
     <setting id="vpn_token" default="true" />
     <setting id="vpn_protocol" default="true">UDP</setting>
@@ -17,16 +17,16 @@
     <setting id="user_def_credentials">true</setting>
     <setting id="user_def_keys">None</setting>
     <setting id="user_def_key_password">false</setting>
-    <setting id="label6" default="true" />
+    <setting id="label104" default="true" />
     <setting id="vpn_provider_update_2" default="true">false</setting>
-    <setting id="1_vpn_validated" default="true" />
-    <setting id="1_vpn_validated_friendly" default="true" />
-    <setting id="2_vpn_validated" default="true" />
-    <setting id="2_vpn_validated_friendly" default="true" />
-    <setting id="3_vpn_validated" default="true" />
-    <setting id="3_vpn_validated_friendly" default="true" />
-    <setting id="4_vpn_validated" default="true" />
-    <setting id="4_vpn_validated_friendly" default="true" />
+    <setting id="1_vpn_validated">/storage/.kodi/addons/service.vpn.manager/UserDefined/UK (UDP).ovpn</setting>
+    <setting id="1_vpn_validated_friendly">UK (UDP)</setting>
+    <setting id="2_vpn_validated">/storage/.kodi/addons/service.vpn.manager/UserDefined/DE (UDP).ovpn</setting>
+    <setting id="2_vpn_validated_friendly">DE (UDP)</setting>
+    <setting id="3_vpn_validated">/storage/.kodi/addons/service.vpn.manager/UserDefined/CA (UDP).ovpn</setting>
+    <setting id="3_vpn_validated_friendly">CA (UDP)</setting>
+    <setting id="4_vpn_validated">/storage/.kodi/addons/service.vpn.manager/UserDefined/US (UDP).ovpn</setting>
+    <setting id="4_vpn_validated_friendly">US (UDP)</setting>
     <setting id="5_vpn_validated" default="true" />
     <setting id="5_vpn_validated_friendly" default="true" />
     <setting id="6_vpn_validated" default="true" />
@@ -47,11 +47,11 @@
     <setting id="vpn_reconnect">true</setting>
     <setting id="vpn_reconnect_while_playing">true</setting>
     <setting id="vpn_reconnect_while_streaming">true</setting>
-    <setting id="vpn_stop_media">false</setting>
+    <setting id="vpn_stop_media">true</setting>
     <setting id="vpn_stream_ids" default="true">http: !http://192.168 https: !https://192.168</setting>
     <setting id="vpn_force_reconnect_after_wake" default="true">false</setting>
     <setting id="vpn_reconnect_freq">10</setting>
-    <setting id="vpn_connectivity_test" default="true">false</setting>
+    <setting id="vpn_connectivity_test">true</setting>
     <setting id="vpn_reconnect_next" default="true">false</setting>
     <setting id="vpn_reconnect_reboot">false</setting>
     <setting id="vpn_reconnect_filtering">true</setting>
@@ -87,12 +87,12 @@
     <setting id="reboot_time">02:00</setting>
     <setting id="reboot_file_enabled" default="true">false</setting>
     <setting id="reboot_file" default="true" />
-    <setting id="last_boot_text">Last restart was at 2025-10-20 17:53:41, unscheduled</setting>
+    <setting id="last_boot_text">Last restart was at 2025-10-21 18:50:25, unscheduled</setting>
     <setting id="vpn_enable_debug">true</setting>
     <setting id="vpn_enable_http">true</setting>
     <setting id="vpn_enable_json" default="true">false</setting>
     <setting id="vpn_wizard_enabled">false</setting>
-    <setting id="openvpn_verb">3</setting>
+    <setting id="openvpn_verb">5</setting>
     <setting id="platform">2</setting>
     <setting id="block_outside_dns">true</setting>
     <setting id="openvpn_sudo" default="true" />
@@ -102,7 +102,7 @@
     <setting id="pidof_path" default="true" />
     <setting id="openvpn_killall" default="true">false</setting>
     <setting id="alt_pid_check" default="true">false</setting>
-    <setting id="label38" default="true" />
+    <setting id="label136" default="true" />
     <setting id="up_down_script">true</setting>
     <setting id="use_default_up_down" default="true">false</setting>
     <setting id="force_ping">true</setting>
@@ -111,32 +111,32 @@
     <setting id="fix_system_time">true</setting>
     <setting id="vpn_system_menu_item">true</setting>
     <setting id="vpn_server_info">true</setting>
-    <setting id="table_display_type" default="true">All connections</setting>
-    <setting id="display_location_on_connect" default="true">false</setting>
+    <setting id="table_display_type">Validated connections</setting>
+    <setting id="display_location_on_connect">true</setting>
     <setting id="ip_info_source" default="true">Auto select</setting>
-    <setting id="vpn_provider_validated" default="true" />
+    <setting id="vpn_provider_validated">UserDefined</setting>
     <setting id="vpn_locations_list" default="true" />
     <setting id="version_number">7.0.3</setting>
     <setting id="checked_openvpn">true</setting>
-    <setting id="ran_openvpn" default="true">false</setting>
+    <setting id="ran_openvpn">true</setting>
     <setting id="monitor_paused" default="true">false</setting>
-    <setting id="boot_time">2025-10-20 17:53:41</setting>
+    <setting id="boot_time">2025-10-21 18:50:25</setting>
     <setting id="boot_reason" default="true">unscheduled</setting>
     <setting id="last_boot_reason" default="true">unscheduled</setting>
-    <setting id="ip_service_values">3,0,0</setting>
+    <setting id="ip_service_values">14,0,0</setting>
     <setting id="ip_service_errors">0,0,0</setting>
     <setting id="ip_service_last_vpn">UserDefined</setting>
-    <setting id="location_server_view">true</setting>
+    <setting id="location_server_view" default="true">false</setting>
     <setting id="alternative_message_token" default="true" />
     <setting id="alternative_message_time" default="true">1</setting>
-    <setting id="last_connect_time">1760993560</setting>
+    <setting id="last_connect_time">1761069145</setting>
     <setting id="vpn_provider_update_ignore" default="true">false</setting>
     <setting id="vpn_short" default="true">VPN Manager</setting>
     <setting id="vpn_very" default="true">VPN Mgr</setting>
+    <setting id="label0" default="true" />
     <setting id="label1018" default="true" />
     <setting id="label1029" default="true" />
     <setting id="label1035" default="true" />
-    <setting id="label104" default="true" />
     <setting id="label1067" default="true" />
     <setting id="label1078" default="true" />
     <setting id="label1084" default="true" />
@@ -155,7 +155,6 @@
     <setting id="label1312" default="true" />
     <setting id="label1323" default="true" />
     <setting id="label1329" default="true" />
-    <setting id="label136" default="true" />
     <setting id="label1361" default="true" />
     <setting id="label1372" default="true" />
     <setting id="label1378" default="true" />
@@ -177,6 +176,7 @@
     <setting id="label332" default="true" />
     <setting id="label343" default="true" />
     <setting id="label349" default="true" />
+    <setting id="label38" default="true" />
     <setting id="label381" default="true" />
     <setting id="label392" default="true" />
     <setting id="label398" default="true" />
@@ -194,6 +194,7 @@
     <setting id="label577" default="true" />
     <setting id="label588" default="true" />
     <setting id="label594" default="true" />
+    <setting id="label6" default="true" />
     <setting id="label626" default="true" />
     <setting id="label637" default="true" />
     <setting id="label643" default="true" />
@@ -217,7 +218,6 @@
     <setting id="label931" default="true" />
     <setting id="label937" default="true" />
     <setting id="label969" default="true" />
-    <setting id="label98" default="true" />
     <setting id="label980" default="true" />
     <setting id="label986" default="true" />
 </settings>

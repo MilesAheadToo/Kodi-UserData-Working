@@ -1,11 +1,21 @@
 
 ==== service.channel_vpn_cc start ====
-2025-10-20 17:53:39 Service ready (PVR-only; add-ons handled by VPN Manager)
-2025-10-20 17:53:39 Loaded cc_map 173 entries; cc_to_profile={'GB': 'my_expressvpn_uk_-_docklands_udp (UDP)', 'DE': 'my_expressvpn_germany_-_frankfurt_-_1_udp (UDP)', 'US': 'my_expressvpn_usa_-_new_york_udp (UDP)', 'CA': 'my_expressvpn_canada_-_toronto_udp (UDP)'}
-2025-10-20 21:43:14 No country mapping for channel='PVR.ChannelName' → no VPN switch
-2025-10-20 21:43:30 No country mapping for channel='PVR.ChannelName' → no VPN switch
-2025-10-20 21:43:43 No country mapping for channel='PVR.ChannelName' → no VPN switch
-2025-10-20 21:44:06 No country mapping for channel='PVR.ChannelName' → no VPN switch
-2025-10-20 21:45:07 No country mapping for channel='PVR.ChannelName' → no VPN switch
-2025-10-20 21:45:32 No country mapping for channel='PVR.ChannelName' → no VPN switch
-2025-10-20 21:46:20 No country mapping for channel='PVR.ChannelName' → no VPN switch
+2025-10-21 12:34:04 Service ready (PVR-only; add-ons handled by VPN Manager)
+2025-10-21 12:34:04 Loaded cc_map 173 entries; cc_to_profile={'GB': 'my_expressvpn_uk_-_docklands_udp (UDP)', 'DE': 'my_expressvpn_germany_-_frankfurt_-_1_udp (UDP)', 'US': 'my_expressvpn_usa_-_new_york_udp (UDP)', 'CA': 'my_expressvpn_canada_-_toronto_udp (UDP)', 'version': 2, 'connect_mode': 'slot', 'default_when_unknown': 'leave', 'default_profile': 'UK', 'profiles': {'UK': {'slot': 1, 'label': 'UK (UDP)'}, 'DE': {'slot': 2, 'label': 'DE (UDP)'}, 'CA': {'slot': 3, 'label': 'CA (UDP)'}, 'US': {'slot': 4, 'label': 'US (UDP)'}}, 'mappings': {'by_country_code': {'UK': 'UK', 'GB': 'UK', 'uk': 'UK', 'gb': 'UK', 'DE': 'DE', 'de': 'DE', 'CA': 'CA', 'ca': 'CA', 'US': 'US', 'us': 'US'}, 'addon_overrides': {'plugin.video.iplayerwww': 'UK'}, 'channel_overrides': {}}, 'logging': {'enabled': True, 'path': 'special://profile/addon_data/service.channel_vpn_cc/service.log'}}
+2025-10-21 17:31:48 No country mapping for channel='PVR.ChannelName' → no VPN switch
+2025-10-21 17:32:14 No country mapping for channel='PVR.ChannelName' → no VPN switch
+2025-10-21 17:32:28 No country mapping for channel='PVR.ChannelName' → no VPN switch
+2025-10-21 17:32:47 No country mapping for channel='PVR.ChannelName' → no VPN switch
+2025-10-21 17:33:05 No country mapping for channel='PVR.ChannelName' → no VPN switch
+2025-10-21 17:33:49 No country mapping for channel='PVR.ChannelName' → no VPN switch
+2025-10-21 17:34:03 No country mapping for channel='PVR.ChannelName' → no VPN switch
+2025-10-21 17:34:19 No country mapping for channel='PVR.ChannelName' → no VPN switch
+2025-10-21 17:34:34 No country mapping for channel='PVR.ChannelName' → no VPN switch
+2025-10-21 17:35:38 No country mapping for channel='PVR.ChannelName' → no VPN switch
+2025-10-21 17:36:02 No country mapping for channel='PVR.ChannelName' → no VPN switch
+2025-10-21 17:36:54 Playback detected but not PVR; leaving to VPN Manager add-on rules.
+2025-10-21 17:38:18 No country mapping for channel='PVR.ChannelName' → no VPN switch
+
+==== service.channel_vpn_cc start ====
+2025-10-21 18:50:23 Service ready (PVR-only; add-ons handled by VPN Manager)
+2025-10-21 18:50:23 Loaded cc_map 173 entries; cc_to_profile={'GB': 'my_expressvpn_uk_-_docklands_udp (UDP)', 'DE': 'my_expressvpn_germany_-_frankfurt_-_1_udp (UDP)', 'US': 'my_expressvpn_usa_-_new_york_udp (UDP)', 'CA': 'my_expressvpn_canada_-_toronto_udp (UDP)', 'version': 2, 'connect_mode': 'slot', 'default_when_unknown': 'leave', 'default_profile': 'UK', 'profiles': {'UK': {'slot': 1, 'label': 'UK (UDP)'}, 'DE': {'slot': 2, 'label': 'DE (UDP)'}, 'CA': {'slot': 3, 'label': 'CA (UDP)'}, 'US': {'slot': 4, 'label': 'US (UDP)'}}, 'mappings': {'by_country_code': {'UK': 'UK', 'GB': 'UK', 'uk': 'UK', 'gb': 'UK', 'DE': 'DE', 'de': 'DE', 'CA': 'CA', 'ca': 'CA', 'US': 'US', 'us': 'US'}, 'addon_overrides': {'plugin.video.iplayerwww': 'UK'}, 'channel_overrides': {}}, 'logging': {'enabled': True, 'path': 'special://profile/addon_data/service.channel_vpn_cc/service.log'}}

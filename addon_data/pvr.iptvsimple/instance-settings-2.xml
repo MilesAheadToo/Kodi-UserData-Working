@@ -53,7 +53,7 @@
     <setting id="mediaGroupByTitle" default="true">true</setting>
     <setting id="mediaGroupBySeason" default="true">true</setting>
     <setting id="mediaTitleSeasonEpisode">true</setting>
-    <setting id="mediaM3UGroupPath" default="true">2</setting>
+    <setting id="mediaM3UGroupPath">1</setting>
     <setting id="mediaForcePlaylist" default="true">false</setting>
     <setting id="mediaVODAsRecordings" default="true">true</setting>
     <setting id="timeshiftEnabled" default="true">false</setting>
