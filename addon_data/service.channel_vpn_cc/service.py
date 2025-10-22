@@ -113,7 +113,7 @@ def save_json(path, obj):
 
 
 def load_cc_map():
-    candidates = []
+    candidates = [MAPFILE]
     try:
         getter = getattr(ADDON, "getSettingString", None) or getattr(ADDON, "getSetting", None)
         if getter:
@@ -126,7 +126,6 @@ def load_cc_map():
     if env_override:
         candidates.append(env_override)
     candidates.append(os.path.join(CFG_DIR, "channel_cc_map.json"))
-    candidates.append(MAPFILE)
 
     for raw_path in candidates:
         if not raw_path:

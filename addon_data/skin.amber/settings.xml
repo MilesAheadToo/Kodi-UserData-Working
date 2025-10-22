@@ -431,7 +431,7 @@
     <setting id="addons.background" type="string"></setting>
     <setting id="pictures.background" type="string"></setting>
     <setting id="games.background" type="string"></setting>
-    <setting id="focusedmenu.background" type="string">special://skin/backgrounds/TV.jpg</setting>
+    <setting id="focusedmenu.background" type="string">special://skin/backgrounds/Settings.jpg</setting>
     <setting id="skinshortcuts-widget-1" type="string">NewMovies</setting>
     <setting id="dvd.background" type="string"></setting>
     <setting id="TMDbHelper.MonitorContainer" type="string"></setting>

@@ -282,20 +282,20 @@
     <setting id="debug" default="true">false</setting>
     <setting id="verbose" default="true">false</setting>
     <setting id="service">idle</setting>
-    <setting id="alert_notification">1761090081</setting>
+    <setting id="alert_notification">1761137459</setting>
     <setting id="geoip">true</setting>
-    <setting id="loc1data">1761088274</setting>
+    <setting id="loc1data">1761135352</setting>
     <setting id="loc1map">1760977449</setting>
-    <setting id="loc1rv">1761088274</setting>
-    <setting id="loc1gc">1761080733</setting>
-    <setting id="loc2data">1761088275</setting>
+    <setting id="loc1rv">1761135352</setting>
+    <setting id="loc1gc">1761135044</setting>
+    <setting id="loc2data">1761135353</setting>
     <setting id="loc2map">1761039003</setting>
-    <setting id="loc2rv">1761088275</setting>
-    <setting id="loc2gc">1761080734</setting>
-    <setting id="loc3data">1761088275</setting>
+    <setting id="loc2rv">1761135353</setting>
+    <setting id="loc2gc">1761135045</setting>
+    <setting id="loc3data">1761135353</setting>
     <setting id="loc3map">1761039003</setting>
-    <setting id="loc3rv">1761088276</setting>
-    <setting id="loc3gc">1761091284</setting>
+    <setting id="loc3rv">1761135353</setting>
+    <setting id="loc3gc">1761134743</setting>
     <setting id="loc4data" default="true" />
     <setting id="loc4map" default="true" />
     <setting id="loc4rv" default="true" />

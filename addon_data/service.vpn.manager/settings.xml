@@ -87,7 +87,7 @@
     <setting id="reboot_time">02:00</setting>
     <setting id="reboot_file_enabled" default="true">false</setting>
     <setting id="reboot_file" default="true" />
-    <setting id="last_boot_text">Last restart was at 2025-10-21 19:09:48, unscheduled</setting>
+    <setting id="last_boot_text">Last restart was at 2025-10-22 10:50:11, unscheduled</setting>
     <setting id="vpn_enable_debug">true</setting>
     <setting id="vpn_enable_http">true</setting>
     <setting id="vpn_enable_json" default="true">false</setting>
@@ -120,7 +120,7 @@
     <setting id="checked_openvpn">true</setting>
     <setting id="ran_openvpn">true</setting>
     <setting id="monitor_paused" default="true">false</setting>
-    <setting id="boot_time">2025-10-21 19:09:48</setting>
+    <setting id="boot_time">2025-10-22 10:50:11</setting>
     <setting id="boot_reason" default="true">unscheduled</setting>
     <setting id="last_boot_reason" default="true">unscheduled</setting>
     <setting id="ip_service_values">35,0,0</setting>

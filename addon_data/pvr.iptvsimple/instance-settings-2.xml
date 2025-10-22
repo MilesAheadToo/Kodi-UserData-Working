@@ -44,7 +44,7 @@
     <setting id="genresPathType" default="true">0</setting>
     <setting id="genresPath" default="true">special://userdata/addon_data/pvr.iptvsimple/genres/genreTextMappings/genres.xml</setting>
     <setting id="genresUrl" default="true" />
-    <setting id="logoPathType" default="true">1</setting>
+    <setting id="logoPathType">0</setting>
     <setting id="logoPath" default="true" />
     <setting id="logoBaseUrl" default="true" />
     <setting id="useLogosLocalPathOnly" default="true">false</setting>
