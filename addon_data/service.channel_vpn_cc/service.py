@@ -136,7 +136,10 @@ def load_cc_map():
             with io.open(full, "r", encoding="utf-8") as f:
                 data = json.load(f)
             if isinstance(data, dict):
-                return data, full
+                mapping = {chan: cc.strip().upper() for chan, cc in data.items()
+                           if isinstance(chan, str) and chan.strip() and isinstance(cc, str) and cc.strip()}
+                if mapping:
+                    return mapping, full
         except FileNotFoundError:
             continue
         except json.JSONDecodeError as e:
