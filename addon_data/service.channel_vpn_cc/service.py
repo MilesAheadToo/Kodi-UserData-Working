@@ -475,6 +475,7 @@ if __name__ == "__main__":
         if LOG_ENABLED:
             with io.open(LOGFILE, "a", encoding="utf-8") as f:
                 f.write(u"\n==== service.channel_vpn_cc start ====\n")
+        klog("Running service script from {}".format(__file__))
         klog("Service ready (PVR-only; add-ons handled by VPN Manager)")
         mon = Monitor()
         player = Player()

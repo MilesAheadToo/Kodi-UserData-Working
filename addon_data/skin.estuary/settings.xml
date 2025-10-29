@@ -1,8 +1,8 @@
 <settings>
-    <setting id="homemenunomoviebutton" type="bool">false</setting>
-    <setting id="show_musicvideoposter" type="bool">false</setting>
     <setting id="tmdbhelper.disablepvr" type="bool">false</setting>
+    <setting id="show_musicvideoposter" type="bool">false</setting>
     <setting id="clearplaylist" type="bool">false</setting>
+    <setting id="homemenunomoviebutton" type="bool">false</setting>
     <setting id="tmdbhelper.disableartwork" type="bool">false</setting>
     <setting id="tmdbhelper.forcewidgetcontainer" type="bool">false</setting>
     <setting id="tmdbhelper.disableextendedproperties" type="bool">false</setting>

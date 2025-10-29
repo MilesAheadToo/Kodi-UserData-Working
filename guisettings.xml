@@ -8,7 +8,7 @@
     <setting id="gamesachievements.password" default="true" />
     <setting id="gamesachievements.token" default="true" />
     <setting id="gamesachievements.loggedin" default="true">false</setting>
-    <setting id="lookandfeel.skin" default="true">skin.estuary</setting>
+    <setting id="lookandfeel.skin">skin.amber</setting>
     <setting id="lookandfeel.skintheme" default="true">SKINDEFAULT</setting>
     <setting id="lookandfeel.skincolors" default="true">SKINDEFAULT</setting>
     <setting id="lookandfeel.font" default="true">Default</setting>
@@ -512,7 +512,7 @@
             <level>0</level>
             <showhigherlevels>true</showhigherlevels>
         </eventlog>
-        <systemtotaluptime>19883</systemtotaluptime>
+        <systemtotaluptime>19906</systemtotaluptime>
     </general>
     <defaultvideosettings>
         <interlacemethod>1</interlacemethod>

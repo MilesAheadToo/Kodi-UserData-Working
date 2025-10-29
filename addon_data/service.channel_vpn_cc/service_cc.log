@@ -1,7 +1,17 @@
 
 ==== service.channel_vpn_cc start ====
-2025-10-29 17:27:22 Service ready (PVR-only; add-ons handled by VPN Manager)
-2025-10-29 17:27:22 Loaded cc_map 195 entries; cc_to_profile={'GB': 'my_expressvpn_uk_-_docklands_udp (UDP)', 'DE': 'my_expressvpn_germany_-_frankfurt_-_1_udp (UDP)', 'US': 'my_expressvpn_usa_-_new_york_udp (UDP)', 'CA': 'my_expressvpn_canada_-_toronto_udp (UDP)', 'version': 2, 'connect_mode': 'slot', 'default_when_unknown': 'default', 'default_profile': 'UK_Midlands (UDP)', 'profiles': {'UK': {'slot': 1, 'label': 'UK_Midlands (UDP)'}, 'DE': {'slot': 2, 'label': 'DE_Frankfurt (UDP)'}, 'CA': {'slot': 3, 'label': 'CA_Toronto (UDP)'}, 'US': {'slot': 4, 'label': 'US_New_York (UDP)'}}, 'mappings': {'by_country_code': {'UK': 'UK', 'GB': 'UK', 'uk': 'UK', 'gb': 'UK', 'DE': 'DE', 'de': 'DE', 'CA': 'CA', 'ca': 'CA', 'US': 'US', 'us': 'US'}, 'addon_overrides': {}, 'channel_overrides': {}}, 'logging': {'enabled': True, 'path': 'special://profile/addon_data/service.channel_vpn_cc/service.log'}}
-2025-10-29 17:28:09 No country mapping for channel='PVR.ChannelName' → no VPN switch
-2025-10-29 17:28:22 No country mapping for channel='PVR.ChannelName' → no VPN switch
-2025-10-29 17:29:06 No country mapping for channel='PVR.ChannelName' → no VPN switch
+2025-10-29 17:56:15 Running service script from /storage/.kodi/addons/service.channel_vpn_cc/service.py
+2025-10-29 17:56:15 Service ready (PVR-only; add-ons handled by VPN Manager)
+2025-10-29 17:56:15 Loaded 195 channel country mappings from /storage/downloads/pruned_tv.m3u
+2025-10-29 17:56:15 Loaded 5 country-to-profile mappings from cc_to_profile.json
+2025-10-29 17:56:15 Fallback behaviour='default', default_profile='UK_Midlands (UDP)'
+2025-10-29 18:04:47 PVR start: channel='BBC News Europe', cc='GB', target_profile='UK_Midlands (UDP)', iface_before='tun0', rx_before=6964272
+2025-10-29 18:04:48 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-29 18:18:28 PVR start: channel='BR Fernsehen Nord (720p)', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=485239823
+2025-10-29 18:18:29 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-29 18:19:15 PVR start: channel='NDR Fernsehen', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=536062890
+2025-10-29 18:19:16 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-29 18:20:46 PVR start: channel='Blues TV', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=559494868
+2025-10-29 18:20:51 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-29 18:21:32 PVR start: channel='Bloomberg TV+ (1080p)', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=574802461
+2025-10-29 18:21:33 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
