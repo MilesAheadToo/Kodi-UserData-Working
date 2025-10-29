@@ -1,0 +1,4 @@
+<keymap><global><keyboard>
+<key id="61526">runscript(/storage/.kodi/addons/service.vpn.manager/infopopup.py)</key>
+<key id="127184">runscript(/storage/.kodi/addons/service.vpn.manager/cycle.py)</key>
+</keyboard></global></keymap>

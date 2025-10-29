@@ -5,6 +5,7 @@ import glob
 import io
 import json
 import os
+import re
 import time
 from urllib.parse import quote_plus
 
@@ -20,6 +21,25 @@ except ImportError:
 LOG_ENABLED = True  # set to False to turn off file logging
 CONNECT_TIMEOUT_SEC = 20
 COOLDOWN_SEC = 20  # avoid rapid re-switching
+CHANNEL_LABELS = (
+    "PVR.ChannelName",
+    "VideoPlayer.ChannelName",
+    "ListItem.ChannelName",
+    "ListItem.Label",
+    "ListItem.Title",
+    "VideoPlayer.Title",
+    "VideoPlayer.TVShowTitle",
+    "VideoPlayer.OriginalTitle",
+    "Player.Title",
+)
+CHANNEL_PLACEHOLDERS = {
+    "",
+    "UNKNOWN",
+    "Unknown",
+    "Unknown Title",
+    "Unknown Title (Unmatched)",
+    "Live TV",
+} | set(CHANNEL_LABELS)
 
 ADDON_ID = "service.channel_vpn_cc"
 ADDON = xbmcaddon.Addon(id=ADDON_ID)
@@ -47,30 +67,13 @@ def ensure_dir(path):
 
 
 # Source data
-MAPFILE = "/storage/downloads/channel_cc_map.json"  # legacy fallback path
+DEFAULT_M3U = "/storage/downloads/pruned_tv.m3u"
 cfg_candidate = resolve_path(ADDON.getAddonInfo("profile")).rstrip("\\/")
 if not cfg_candidate:
     cfg_candidate = os.path.join(resolve_path("special://profile/addon_data"), ADDON_ID)
 CFG_DIR = cfg_candidate
-OVERRIDE = os.path.join(CFG_DIR, "cc_to_profile.json")   # {"GB":"my_expressvpn_uk_-_docklands_udp (UDP)", ...}
+OVERRIDE = os.path.join(CFG_DIR, "cc_to_profile.json")   # {"GB":"UK_Docklands (UDP)", ...}
 STATE = os.path.join(CFG_DIR, "state.json")           # {"last_profile":"...", "ts": 1699999999}
-
-# Default fallback mapping in case override file is missing
-DEFAULT_CC2PROFILE = {
-      "UK": "UK",
-      "GB": "UK",
-      "uk": "UK",
-      "gb": "UK",
-
-      "DE": "DE",
-      "de": "DE",
-
-      "CA": "CA",
-      "ca": "CA",
-
-      "US": "US",
-      "us": "US"
-}
 
 # Logging
 LOGFILE = os.path.join(CFG_DIR, "service_cc.log")
@@ -113,7 +116,44 @@ def save_json(path, obj):
 
 
 def load_cc_map():
-    candidates = [MAPFILE]
+    def parse_m3u(full_path):
+        mapping = {}
+        pattern_country = re.compile(r'tvg-country="([^"]+)"', re.IGNORECASE)
+        pattern_tvgid = re.compile(r'tvg-id="([^"]+)"', re.IGNORECASE)
+        try:
+            with io.open(full_path, "r", encoding="utf-8") as handle:
+                for line in handle:
+                    line = line.strip()
+                    if not line.startswith("#EXTINF"):
+                        continue
+
+                    parts = line.split(",", 1)
+                    if len(parts) != 2:
+                        continue
+                    channel_name = parts[1].strip()
+                    if not channel_name:
+                        continue
+
+                    country = ""
+                    m_country = pattern_country.search(parts[0])
+                    if m_country:
+                        country = m_country.group(1).strip().upper()
+                    if not country:
+                        m_tvgid = pattern_tvgid.search(parts[0])
+                        if m_tvgid:
+                            tvg_id = m_tvgid.group(1)
+                            match = re.search(r'\.([A-Za-z]{2})(?:[^A-Za-z]|$)', tvg_id)
+                            if match:
+                                country = match.group(1).upper()
+                    if country:
+                        mapping[channel_name] = country
+        except FileNotFoundError:
+            raise
+        except Exception as e:
+            klog("WARN cannot parse m3u {}: {}".format(full_path, e))
+        return mapping
+
+    candidates = []
     try:
         getter = getattr(ADDON, "getSettingString", None) or getattr(ADDON, "getSetting", None)
         if getter:
@@ -122,30 +162,81 @@ def load_cc_map():
                 candidates.append(configured)
     except Exception:
         pass
+
     env_override = os.environ.get("CHANNEL_CC_MAP", "").strip()
     if env_override:
         candidates.append(env_override)
-    candidates.append(os.path.join(CFG_DIR, "channel_cc_map.json"))
+
+    candidates.extend([
+        os.path.join(CFG_DIR, "pruned_tv.m3u"),
+        DEFAULT_M3U
+    ])
 
     for raw_path in candidates:
         if not raw_path:
             continue
         full = resolve_path(raw_path)
+        if not os.path.isfile(full):
+            continue
         try:
-            with io.open(full, "r", encoding="utf-8") as f:
-                data = json.load(f)
-            if isinstance(data, dict):
-                mapping = {chan: cc.strip().upper() for chan, cc in data.items()
-                           if isinstance(chan, str) and chan.strip() and isinstance(cc, str) and cc.strip()}
-                if mapping:
-                    return mapping, full
+            mapping = parse_m3u(full)
+            if mapping:
+                return mapping, full
         except FileNotFoundError:
             continue
-        except json.JSONDecodeError as e:
-            klog("WARN cannot parse {}: {}".format(raw_path, e))
-        except Exception as e:
-            klog("WARN cannot read {}: {}".format(raw_path, e))
     return {}, ""
+
+
+def load_cc_profile_map():
+    data = load_json(OVERRIDE, {})
+    if not isinstance(data, dict):
+        data = {}
+
+    profiles = data.get("profiles")
+    if not isinstance(profiles, dict):
+        profiles = {}
+
+    def resolve_profile_name(profile_key):
+        if not isinstance(profile_key, str):
+            return ""
+        key = profile_key.strip()
+        if not key:
+            return ""
+        profile_data = profiles.get(key)
+        if isinstance(profile_data, dict):
+            label = profile_data.get("label")
+            if isinstance(label, str) and label.strip():
+                return label.strip()
+        return key
+
+    default_profile_key = str(data.get("default_profile") or "").strip()
+    default_profile = resolve_profile_name(default_profile_key) if default_profile_key else ""
+    default_when_unknown = str(data.get("default_when_unknown", "leave")).strip().lower()
+
+    cc_map = {}
+    by_country = data.get("mappings", {}).get("by_country_code")
+    if isinstance(by_country, dict):
+        for cc, profile_key in by_country.items():
+            if not isinstance(cc, str):
+                continue
+            profile_name = resolve_profile_name(profile_key)
+            if profile_name:
+                cc_map[cc.strip().upper()] = profile_name
+
+    # Support legacy top-level structures that map directly
+    for cc, profile in data.items():
+        if not isinstance(cc, str) or not isinstance(profile, str):
+            continue
+        cc_clean = cc.strip()
+        profile_clean = profile.strip()
+        if len(cc_clean) in (2, 3) and cc_clean.isalpha():
+            cc_map.setdefault(cc_clean.upper(), profile_clean)
+
+    return {
+        "map": cc_map,
+        "default_profile": default_profile,
+        "default_when_unknown": default_when_unknown
+    }
 
 
 def playing_is_pvr():
@@ -158,11 +249,61 @@ def playing_is_pvr():
     return False
 
 
-def get_channel_name():
-    name = (xbmc.getInfoLabel('PVR.ChannelName') or
-            xbmc.getInfoLabel('VideoPlayer.ChannelName') or
-            xbmc.getInfoLabel('Player.Title') or "")
-    return name.strip()
+def _jsonrpc_channel_name():
+    try:
+        payload = json.dumps({
+            "jsonrpc": "2.0",
+            "method": "Player.GetItem",
+            "params": {
+                "playerid": 1,
+                "properties": [
+                    "channel",
+                    "channeltype",
+                    "title",
+                    "showtitle",
+                    "label",
+                ],
+            },
+            "id": 1,
+        })
+        raw = xbmc.executeJSONRPC(payload)
+        data = json.loads(raw)
+        item = (data.get("result") or {}).get("item") or {}
+        for key in ("channel", "label", "title", "showtitle"):
+            val = item.get(key)
+            if isinstance(val, str):
+                val = val.strip()
+                if val and val not in CHANNEL_PLACEHOLDERS:
+                    return val
+    except Exception as exc:
+        klog("WARN JSONRPC channel lookup failed: {}".format(exc))
+    return ""
+
+
+def get_channel_name(max_wait_ms=5000):
+    """Resolve a stable channel name, waiting briefly until info labels populate."""
+    deadline = time.time() + (max_wait_ms / 1000.0)
+    last_seen = {}
+    while True:
+        for label in CHANNEL_LABELS:
+            value = (xbmc.getInfoLabel(label) or "").strip()
+            if value:
+                last_seen[label] = value
+            if value and value not in CHANNEL_PLACEHOLDERS:
+                return value
+        if time.time() >= deadline:
+            break
+        xbmc.sleep(200)
+
+    # JSON-RPC fallback (may have fresher metadata)
+    via_jsonrpc = _jsonrpc_channel_name()
+    if via_jsonrpc:
+        return via_jsonrpc
+
+    if last_seen:
+        pairs = ["{}='{}'".format(k, v) for k, v in sorted(last_seen.items())]
+        klog("Channel labels unresolved; last seen: {}".format("; ".join(pairs)))
+    return ""
 
 
 def run_vpn_switch(profile_name):
@@ -238,14 +379,22 @@ class Player(xbmc.Player):
     def __init__(self):
         super(Player, self).__init__()
         self.cc_map, self.cc_map_path = load_cc_map()
-        self.cc2profile = DEFAULT_CC2PROFILE.copy()
-        self.cc2profile.update(load_json(OVERRIDE, {}))
+        profile_cfg = load_cc_profile_map()
+        self.cc2profile = profile_cfg["map"]
+        self.default_profile = profile_cfg["default_profile"]
+        self.default_when_unknown = profile_cfg["default_when_unknown"]
         self.state = load_json(STATE, {})
         if self.cc_map_path:
-            klog("Loaded cc_map {} entries from {}; cc_to_profile={}".format(
-                len(self.cc_map), self.cc_map_path, self.cc2profile))
+            klog("Loaded {} channel country mappings from {}".format(
+                len(self.cc_map), self.cc_map_path))
         else:
-            klog("No cc_map found; cc_to_profile={}".format(self.cc2profile))
+            klog("No channel country map found; VPN switching disabled until data is available.")
+        if self.cc2profile:
+            klog("Loaded {} country-to-profile mappings from cc_to_profile.json".format(len(self.cc2profile)))
+        else:
+            klog("cc_to_profile.json is missing or has no mappings; VPN switching disabled.")
+        klog("Fallback behaviour='{}', default_profile='{}'".format(
+            self.default_when_unknown, self.default_profile or ""))
 
     def onAVStarted(self):
         # small delay for labels to populate
@@ -264,15 +413,32 @@ class Player(xbmc.Player):
         cc = (self.cc_map.get(channel) or
               self.cc_map.get(channel.replace(" HD", "").strip()) or
               "")
-        if not cc:
-            klog("No country mapping for channel='{}'; no VPN switch".format(channel))
-            return
+        if cc:
+            cc = cc.upper()
 
-        # profile to use
-        target = self.cc2profile.get(cc)
-        if not target:
-            klog("No profile mapped for cc='{}' (channel='{}')".format(cc, channel))
-            return
+        target = None
+        cc_for_log = cc or "UNKNOWN"
+
+        if not cc:
+            if self.default_profile and self.default_when_unknown == "default":
+                target = self.default_profile
+                cc_for_log = "DEFAULT"
+                klog("No country mapping for channel='{}'; using default VPN profile '{}'".format(
+                    channel, target))
+            else:
+                klog("No country mapping for channel='{}'; no VPN switch".format(channel))
+                return
+        else:
+            target = self.cc2profile.get(cc)
+            if not target:
+                if self.default_profile and self.default_when_unknown == "default":
+                    target = self.default_profile
+                    cc_for_log = "DEFAULT"
+                    klog("No profile mapped for cc='{}' (channel='{}'); falling back to default profile '{}'".format(
+                        cc, channel, target))
+                else:
+                    klog("No profile mapped for cc='{}' (channel='{}')".format(cc, channel))
+                    return
 
         # cooldown / dedupe
         now = int(time.time())
@@ -286,7 +452,7 @@ class Player(xbmc.Player):
         iface_before = get_vpn_iface()
         rx_before = read_rx_bytes(iface_before) if iface_before else -1
         klog("PVR start: channel='{}', cc='{}', target_profile='{}', iface_before='{}', rx_before={}".format(
-            channel, cc, target, iface_before, rx_before))
+            channel, cc_for_log, target, iface_before, rx_before))
 
         # perform switch
         run_vpn_switch(target)

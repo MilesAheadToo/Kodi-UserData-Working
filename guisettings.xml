@@ -29,7 +29,7 @@
     <setting id="locale.use24hourclock" default="true">regional</setting>
     <setting id="locale.temperatureunit" default="true">regional</setting>
     <setting id="locale.speedunit">kts</setting>
-    <setting id="screensaver.mode" default="true">default</setting>
+    <setting id="screensaver.mode" default="true">screensaver.xbmc.builtin.dim</setting>
     <setting id="screensaver.time" default="true">3</setting>
     <setting id="screensaver.disableforaudio" default="true">true</setting>
     <setting id="screensaver.usedimonpause" default="true">true</setting>
@@ -384,7 +384,7 @@
     <setting id="addons.updatemode" default="true">0</setting>
     <setting id="debug.showloginfo" default="true">false</setting>
     <setting id="debug.extralogging">true</setting>
-    <setting id="debug.setextraloglevel">1048576,2097152</setting>
+    <setting id="debug.setextraloglevel" default="true" />
     <setting id="debug.screenshotpath" default="true">/storage/screenshots/</setting>
     <setting id="eventlog.enabled" default="true">true</setting>
     <setting id="eventlog.enablednotifications">true</setting>
@@ -507,12 +507,12 @@
         </videonavyears>
     </viewstates>
     <general>
-        <settinglevel>3</settinglevel>
+        <settinglevel>2</settinglevel>
         <eventlog>
             <level>0</level>
             <showhigherlevels>true</showhigherlevels>
         </eventlog>
-        <systemtotaluptime>17316</systemtotaluptime>
+        <systemtotaluptime>19883</systemtotaluptime>
     </general>
     <defaultvideosettings>
         <interlacemethod>1</interlacemethod>

@@ -1,3290 +1,3689 @@
 1
-00:00:00,40 --> 00:00:04,08
-<font color="#0000ff">Herzlich willkommen zur Live-</font>
-<font color="#0000ff">Untertitelung des NDR (12.10.2025)</font>
+00:00:00,76 --> 00:00:04,08
+<font color="#ffffff">Hier geht es weiter mit</font>
+<font color="#ffffff">dem "Weltspiegel" und Natalie Amiri.</font>
 
 2
-00:00:04,40 --> 00:00:05,80
-<font color="#00ffff">Willkommen zum Weltspiegel.</font>
+00:00:06,40 --> 00:00:08,44
+<font color="#ffffff">.</font>
 
 3
-00:00:06,08 --> 00:00:09,36
-<font color="#00ffff">Heute mit Antworten dazu,</font>
-<font color="#00ffff">was die nächsten Tagen und Wochen</font>
+00:00:08,68 --> 00:00:10,08
+<font color="#0000ff">Live-Untertitelung BR</font>
 
 4
-00:00:09,64 --> 00:00:12,60
-<font color="#00ffff">für die Palästinenser und Israelis</font>
-<font color="#00ffff">bereithalten könnten.</font>
+00:00:10,96 --> 00:00:13,16
+<font color="#ffff00">      Danke, Anna Engelke,      </font>
+<font color="#ffff00">und guten Abend zum WELTSPIEGEL,</font>
 
 5
-00:00:12,92 --> 00:00:15,84
-<font color="#00ffff">Warum in Großbritannien</font>
-<font color="#00ffff">"Pink Ladies" demonstrieren.</font>
+00:00:13,48 --> 00:00:15,32
+<font color="#ffff00">den wir mit einem Nahost-Schwerpunkt</font>
+<font color="#ffff00">             beginnen.             </font>
 
 6
-00:00:16,12 --> 00:00:19,24
-<font color="#00ffff">Und wie es um einen weltweit</font>
-<font color="#00ffff">bekannten Kindheitshelden </font>
+00:00:16,04 --> 00:00:18,12
+<font color="#ffff00">Es ist genau zwei Jahre her,</font>
+<font color="#ffff00">   als am 7. Oktober 2023   </font>
 
 7
-00:00:19,48 --> 00:00:20,88
-<font color="#00ffff">in Madagaskar gerade steht.</font>
+00:00:18,40 --> 00:00:20,40
+<font color="#ffff00">Hamas-Terroristen den tragischsten</font>
+<font color="#ffff00">   Angriff auf Israel verübten.   </font>
 
 8
-00:00:22,24 --> 00:00:25,36
-<font color="#00ffff">Zuerst schauen wir nach Ägypten,</font>
-<font color="#00ffff">nach Sharm El Scheikh.</font>
+00:00:20,64 --> 00:00:23,52
+<font color="#ffff00">Nie wurden mehr Juden an einem Tag</font>
+<font color="#ffff00">   seit dem Holocaust getötet.    </font>
 
 9
-00:00:25,68 --> 00:00:28,04
-<font color="#00ffff">Wo über die Zukunft</font>
-<font color="#00ffff">der israelischen Geiseln</font>
+00:00:23,80 --> 00:00:27,36
+<font color="#ffff00">Chaim Shilo hat das Massaker</font>
+<font color="#ffff00"> im Kibbuz Nirim überlebt.  </font>
 
 10
-00:00:28,32 --> 00:00:31,52
-<font color="#00ffff">und der palästinensischen</font>
-<font color="#00ffff">Zivilbevölkerung verhandelt wird.</font>
+00:00:27,60 --> 00:00:29,00
+<font color="#ffff00">In Leipzig geboren,</font>
 
 11
-00:00:31,84 --> 00:00:33,88
-<font color="#00ffff">Jetzt fragen sich </font>
-<font color="#00ffff">viele Palästinenser,</font>
+00:00:29,28 --> 00:00:32,72
+<font color="#ffff00">        vor den Nazis ins        </font>
+<font color="#ffff00">Mandatsgebiet Palästina geflohen,</font>
 
 12
-00:00:34,20 --> 00:00:36,12
-<font color="#00ffff">was diese Gespräche</font>
-<font color="#00ffff">für sie bedeuten.</font>
+00:00:33,00 --> 00:00:36,16
+<font color="#ffff00">      baute er dann      </font>
+<font color="#ffff00">das Kibbuz Nirim mit auf.</font>
 
 13
-00:00:36,36 --> 00:00:37,76
-<font color="#00ffff">Vor allem die Menschen,</font>
+00:00:36,44 --> 00:00:39,12
+<font color="#ffff00">Es liegt nur 2 km von Gaza entfernt.</font>
 
 14
-00:00:38,08 --> 00:00:41,52
-<font color="#00ffff">die seit Wochen im Gazastreifen</font>
-<font color="#00ffff">um ihr Leben fürchten mussten. </font>
+00:00:39,36 --> 00:00:41,52
+<font color="#ffff00">Dort wollte er für immer bleiben,</font>
 
 15
-00:00:41,72 --> 00:00:45,28
-<font color="#00ffff">Denn die beschlossene Waffenruhe</font>
-<font color="#00ffff">soll nur der erste Schritt sein.</font>
+00:00:41,80 --> 00:00:45,96
+<font color="#ffff00">   bis er nach dem Terrorangriff   </font>
+<font color="#ffff00">aus seinem Kibbuz wegziehen musste.</font>
 
 16
-00:00:45,60 --> 00:00:47,72
-<font color="#00ffff">Trump möchte den Konflikt</font>
-<font color="#00ffff">komplett lösen.</font>
+00:00:46,24 --> 00:00:49,84
+<font color="#ffff00">     Und heute? Meine Kollegin     </font>
+<font color="#ffff00">Sophie von der Tann hat ihn besucht.</font>
 
 17
-00:00:48,04 --> 00:00:49,08
-<font color="#00ffff">Karin Feltes hat</font>
+00:00:51,88 --> 00:00:56,08
+<font color="#00ffff">   Wir sind schon fertig.   </font>
+<font color="#00ffff">Wir warten nur auf das Auto.</font>
 
 18
-00:00:49,32 --> 00:00:52,00
-<font color="#00ffff">mit einer palästinensischen Familie</font>
-<font color="#00ffff">gesprochen.</font>
+00:00:56,36 --> 00:01:00,84
+<font color="#00ffff">       Der ist auf dem Weg.        </font>
+<font color="#00ffff">Der wird hier in einer Stunde sein.</font>
 
 19
-00:00:52,24 --> 00:00:54,80
-<font color="#00ffff">Die hat Angst um ihre Verwandten</font>
-<font color="#00ffff">im Gazastreifen.</font>
+00:01:01,08 --> 00:01:03,32
+<font color="#ffffff">Ein aufregender Tag für Chaim Shilo.</font>
 
 20
-00:00:57,12 --> 00:00:59,80
-<font color="#ffffff">Ein Anruf beim Sohn,</font>
-<font color="#ffffff">von Ägypten nach Gaza.</font>
+00:01:03,64 --> 00:01:06,64
+<font color="#ffffff">Nach fast zwei Jahren in diesem </font>
+<font color="#ffffff">Altersheim nördlich von Tel Aviv</font>
 
 21
-00:01:00,04 --> 00:01:03,24
-<font color="#ffffff">Zum ersten Mal seit langer Zeit</font>
-<font color="#ffffff">mit guten Nachrichten.</font>
+00:01:06,88 --> 00:01:08,32
+<font color="#ffffff">wird er nun dahin zurückkehren,</font>
 
 22
-00:01:05,72 --> 00:01:07,28
-<font color="#ffff00">Wie geht's dir, Onkel?</font>
+00:01:08,60 --> 00:01:11,36
+<font color="#ffffff">wo er den Terror-Angriff </font>
+<font color="#ffffff">vom 7. Oktober überlebte.</font>
 
 23
-00:01:08,52 --> 00:01:10,40
-<font color="#ffff00">Ich vermisse dich sehr.</font>
+00:01:11,60 --> 00:01:14,48
+<font color="#ffffff">Chaim Shilo wurde vor 100 Jahren</font>
+<font color="#ffffff">      in Leipzig geboren,       </font>
 
 24
-00:01:14,44 --> 00:01:16,04
-<font color="#00ff00">Geh noch nicht zurück.</font>
+00:01:14,80 --> 00:01:17,16
+<font color="#ffffff">floh als Junge mit seiner Familie</font>
+<font color="#ffffff">          vor den Nazis          </font>
 
 25
-00:01:16,44 --> 00:01:18,96
-<font color="#00ff00">Warte,</font>
-<font color="#00ff00">bis sich die Lage beruhigt hat.</font>
+00:01:17,44 --> 00:01:19,24
+<font color="#ffffff">in das Mandatsgebiet Palästina.</font>
 
 26
-00:01:20,92 --> 00:01:24,68
-<font color="#ffffff">Sein Sohn - im Süden Gazas,</font>
-<font color="#ffffff">im Flüchtlingslager.</font>
+00:01:19,52 --> 00:01:21,56
+<font color="#00ff00">Also geht's jetzt zurück nach Hause?</font>
 
 27
-00:01:28,48 --> 00:01:30,12
-<font color="#ffff00">Wir bleiben noch hier.</font>
+00:01:23,04 --> 00:01:25,00
+<font color="#00ffff">Ich hoffe, es wird gut sein.</font>
 
 28
-00:01:30,40 --> 00:01:33,32
-<font color="#ffff00">Wir wollten uns nach euch erkundigen</font>
-<font color="#ffff00">und euch beruhigen,</font>
+00:01:26,48 --> 00:01:29,64
+<font color="#00ffff"> Denn in der Nacht hört man </font>
+<font color="#00ffff">das Schießen und das Bomben,</font>
 
 29
-00:01:33,56 --> 00:01:35,96
-<font color="#ffff00">weil ich mich heute</font>
-<font color="#ffff00">noch nicht gemeldet habe.</font>
+00:01:31,40 --> 00:01:36,56
+<font color="#00ffff">      obwohl wir wissen,      </font>
+<font color="#00ffff">dass es von unserer Seite ist.</font>
 
 30
-00:01:36,20 --> 00:01:39,44
-<font color="#ffffff">Abdel Rahman ist mit seiner Familie</font>
-<font color="#ffffff">aus Gaza-Stadt geflohen.</font>
+00:01:36,84 --> 00:01:41,12
+<font color="#ffffff">        Sein Ziel ist Nirim,        </font>
+<font color="#ffffff">nur 2,5 km vom Gazastreifen entfernt.</font>
 
 31
-00:01:39,72 --> 00:01:42,48
-<font color="#ffffff">Seitdem leben sie</font>
-<font color="#ffffff">mehr oder weniger auf der Straße.</font>
+00:01:41,36 --> 00:01:44,92
+<font color="#ffffff">Er hat den Kibbuz mit aufgebaut,</font>
+<font color="#ffffff">   fast 80 Jahre dort gelebt,   </font>
 
 32
-00:01:42,72 --> 00:01:44,92
-<font color="#ffffff">Ohne Nachrichten,</font>
-<font color="#ffffff">ohne stabiles Internet.</font>
+00:01:45,16 --> 00:01:48,28
+<font color="#ffffff">bis zum 7. Oktober 2023.</font>
 
 33
-00:01:45,24 --> 00:01:48,88
-<font color="#ffffff">Vom Friedensabkommen hat er durch</font>
-<font color="#ffffff">seine Eltern in Ägypten erfahren.</font>
+00:01:48,52 --> 00:01:49,80
+<font color="#ffffff">Mit seiner philippinischen Pflegerin</font>
 
 34
-00:01:51,24 --> 00:01:54,16
-<font color="#ffff00">Ich bin optimistisch,</font>
-<font color="#ffff00">aber auch beunruhigt.</font>
+00:01:50,08 --> 00:01:53,84
+<font color="#ffffff">versteckte er sich an dem Tag</font>
+<font color="#ffffff">im Schutzraum seines Hauses. </font>
 
 35
-00:01:54,44 --> 00:01:57,12
-<font color="#ffff00">Die anderen Vertriebenen</font>
-<font color="#ffff00">kehren zurück,</font>
+00:01:54,08 --> 00:01:55,68
+<font color="#00ff00">You're not afraid?</font>
 
 36
-00:01:57,32 --> 00:01:59,28
-<font color="#ffff00">aber es gibt noch keine Straßen.</font>
+00:01:55,92 --> 00:01:57,72
+<font color="#00ffff">Ich habe etwas Angst,</font>
+<font color="#00ffff">   zurückzukehren.   </font>
 
 37
-00:01:59,60 --> 00:02:01,08
-<font color="#ffff00">Wir fühlen uns nicht sicher.</font>
+00:01:59,60 --> 00:02:02,24
+<font color="#00ffff">    Aber er will es     </font>
+<font color="#00ffff">und ich arbeite für ihn.</font>
 
 38
-00:02:01,32 --> 00:02:04,28
-<font color="#ffff00">Nicht solange die Geiseln</font>
-<font color="#ffff00">nicht übergeben worden sind</font>
+00:02:04,80 --> 00:02:08,56
+<font color="#ffffff">1,5 Stunden Autofahrt</font>
+<font color="#ffffff">  liegen vor ihnen.  </font>
 
 39
-00:02:04,56 --> 00:02:07,00
-<font color="#ffff00">und sich das Leben</font>
-<font color="#ffff00">halbwegs normalisiert hat.</font>
+00:02:08,80 --> 00:02:13,24
+<font color="#ffffff">In die Gegend, wo vor zwei Jahren</font>
+<font color="#ffffff">Terroristen aus dem Gazastreifen </font>
 
 40
-00:02:07,28 --> 00:02:09,76
-<font color="#ffffff">Sie konnten nicht viel</font>
-<font color="#ffffff">aus ihrem Haus retten.</font>
+00:02:13,48 --> 00:02:16,32
+<font color="#ffffff">     israelische Orte     </font>
+<font color="#ffffff">nahe der Grenze angriffen,</font>
 
 41
-00:02:10,00 --> 00:02:12,32
-<font color="#ffffff">Ein paar Teppiche,</font>
-<font color="#ffffff">Bettlaken und Vorhänge.</font>
+00:02:16,60 --> 00:02:19,12
+<font color="#ffffff">etwa 1200 Menschen töteten</font>
 
 42
-00:02:12,60 --> 00:02:14,56
-<font color="#ffffff">Jetzt befestigt an einem Baum.</font>
+00:02:19,44 --> 00:02:22,92
+<font color="#ffffff">und mehr als 250 Geiseln</font>
+<font color="#ffffff">nach Gaza verschleppten.</font>
 
 43
-00:02:14,96 --> 00:02:18,24
-<font color="#ffffff">Für Abdel Rahman,</font>
-<font color="#ffffff">seine Frau und ihre zwei Kinder</font>
+00:02:28,88 --> 00:02:30,64
+<font color="#ffffff">So wichtig der Kibbuz für ihn ist:</font>
 
 44
-00:02:18,52 --> 00:02:19,80
-<font color="#ffffff">eine Notunterkunft.</font>
+00:02:30,92 --> 00:02:34,84
+<font color="#ffffff">  Nach dem, was hier passiert ist,  </font>
+<font color="#ffffff">hat Chaim Shilo lange damit gehadert,</font>
 
 45
-00:02:26,72 --> 00:02:29,80
-<font color="#ffff00">Die Kinder haben Tage erlebt,</font>
-<font color="#ffff00">Tage ihrer Kindheit,</font>
+00:02:35,08 --> 00:02:37,52
+<font color="#ffffff">ob er nach Nirim zurückkehren will.</font>
 
 46
-00:02:30,12 --> 00:02:32,92
-<font color="#ffff00">die die schönsten ihres Lebens</font>
-<font color="#ffff00">hätten sein sollen.</font>
+00:02:39,84 --> 00:02:44,20
+<font color="#ffffff">* Er spricht hebräisch. *</font>
 
 47
-00:02:33,20 --> 00:02:35,28
-<font color="#ffff00">Es fehlt ihnen</font>
-<font color="#ffff00">an den einfachsten Dingen:</font>
+00:02:46,56 --> 00:02:50,32
+<font color="#ffffff">"Ich bin zu Hause angekommen",</font>
+<font color="#ffffff">    sagt er auf Hebräisch.    </font>
 
 48
-00:02:35,56 --> 00:02:37,00
-<font color="#ffff00">An einem Schlafplatz,</font>
+00:02:51,00 --> 00:02:53,44
+<font color="#00ffff">Ein wunderbares Gefühl,</font>
 
 49
-00:02:37,20 --> 00:02:40,80
-<font color="#ffff00">geschützt vor Insekten, Wind, Regen</font>
-<font color="#ffff00">oder giftigen Achlangen.</font>
+00:02:53,68 --> 00:02:56,96
+<font color="#00ffff">  nach Hause zu kommen   </font>
+<font color="#00ffff">und alles wiederzufinden.</font>
 
 50
-00:02:45,84 --> 00:02:49,48
-<font color="#ffffff">70 Prozent des Gazastreifens </font>
-<font color="#ffffff">ist durch den Krieg zerstört.</font>
+00:02:58,96 --> 00:03:00,84
+<font color="#00ffff">Schön.</font>
 
 51
-00:02:50,40 --> 00:02:53,00
-<font color="#ffffff">Die Straßen kaum befahrbar.</font>
+00:03:01,08 --> 00:03:03,16
+<font color="#00ffff">Hier sind alle Bücher.</font>
 
 52
-00:02:53,24 --> 00:02:56,96
-<font color="#ffffff">Gaza-Stadt, die Heimat von</font>
-<font color="#ffffff">Abdel Rahman, liegt in Trümmern.</font>
+00:03:06,40 --> 00:03:10,56
+<font color="#00ffff">Die Bilder von meinem Bruder</font>
+<font color="#00ffff">    und anderen Malern.     </font>
 
 53
-00:03:03,44 --> 00:03:06,92
-<font color="#ffffff">Trotzdem machen sich seit</font>
-<font color="#ffffff">dem Friedensabkommen am Donnerstag</font>
+00:03:10,80 --> 00:03:12,08
+<font color="#00ffff">Sehr schön.</font>
 
 54
-00:03:07,20 --> 00:03:08,20
-<font color="#ffffff">Tausende auf:</font>
+00:03:12,32 --> 00:03:14,52
+<font color="#ffffff">          Im Schutzraum          </font>
+<font color="#ffffff">kommen aber auch die Erinnerungen</font>
 
 55
-00:03:08,44 --> 00:03:12,40
-<font color="#ffffff">Von den Flüchtlingscamps im Süden</font>
-<font color="#ffffff">zu dem, was mal ihr Zuhause war. </font>
+00:03:14,84 --> 00:03:17,72
+<font color="#ffffff">an den 7. Oktober vor zwei Jahren</font>
+<font color="#ffffff">          wieder hoch.           </font>
 
 56
-00:03:16,16 --> 00:03:19,64
-<font color="#ffffff">Über die Grenze aus Ägypten</font>
-<font color="#ffffff">kommen Hilfslieferungen ins Land.</font>
+00:03:17,96 --> 00:03:20,56
+<font color="#00ffff">Der ist jetzt voll.</font>
 
 57
-00:03:19,96 --> 00:03:21,36
-<font color="#ffffff">Ein Hoffnungsschimmer.</font>
+00:03:23,48 --> 00:03:26,48
+<font color="#00ffff">Wir haben die Türe geschlossen.</font>
 
 58
-00:03:21,64 --> 00:03:22,76
-<font color="#ffffff">Auch für Abdel Rahman.</font>
+00:03:26,80 --> 00:03:30,08
+<font color="#00ffff">Und das war im letzten Moment.</font>
 
 59
-00:03:23,04 --> 00:03:25,04
-<font color="#ffffff">Doch die Hilfe reicht nicht für alle.</font>
+00:03:30,32 --> 00:03:34,76
+<font color="#00ffff">    Nachher fielen die Bomben    </font>
+<font color="#00ffff">und in dem Zimmer waren Splitter.</font>
 
 60
-00:03:25,32 --> 00:03:28,96
-<font color="#ffffff">Bei ihm ist noch nichts angekommen,</font>
-<font color="#ffffff">erzählt er seiner Mutter.</font>
+00:03:35,08 --> 00:03:38,68
+<font color="#ffffff">  Dass Terroristen im Kibbuz waren, </font>
+<font color="#ffffff">wusste er zu dem Zeitpunkt gar nicht.</font>
 
 61
-00:03:30,12 --> 00:03:32,32
-<font color="#ffff00">Eine Dose Thunfisch</font>
-<font color="#ffff00">hatten wir heute.</font>
+00:03:39,00 --> 00:03:41,68
+<font color="#00ffff">Immer, wenn ein Alarm war,</font>
+<font color="#00ffff">  sind wir reingegangen   </font>
 
 62
-00:03:32,64 --> 00:03:34,24
-<font color="#ffff00">Das ist alles, was wir haben.</font>
+00:03:41,88 --> 00:03:43,68
+<font color="#00ffff">und haben die geschlossen.</font>
 
 63
-00:03:35,48 --> 00:03:37,28
-<font color="#00ff00">Du willst zum Markt gehen?</font>
+00:03:43,96 --> 00:03:48,88
+<font color="#00ffff">In den anderen Zimmern haben die</font>
+<font color="#00ffff">  mit Kraft die Türen geöffnet  </font>
 
 64
-00:03:37,56 --> 00:03:40,48
-<font color="#00ff00">Pass auf, man hört noch</font>
-<font color="#00ff00">Drohnen im Hintergrund.</font>
+00:03:49,16 --> 00:03:52,76
+<font color="#00ffff">und sind reingekommen,</font>
+<font color="#00ffff">  und bei mir nicht.  </font>
 
 65
-00:03:41,52 --> 00:03:43,32
-<font color="#ffffff">Die Familie in Ägypten</font>
+00:03:53,04 --> 00:03:55,04
+<font color="#00ffff">Eine Sache von Glück.</font>
 
 66
-00:03:43,68 --> 00:03:46,04
-<font color="#ffffff">ist erleichtert</font>
-<font color="#ffffff">über das Friedensabkommen.</font>
+00:03:55,36 --> 00:03:57,28
+<font color="#ffffff">Am Tag danach hat das Militär</font>
 
 67
-00:03:46,24 --> 00:03:48,08
-<font color="#ffffff">Doch Trauer mischt sich darunter.</font>
+00:03:57,56 --> 00:04:01,96
+<font color="#ffffff">Chaim Shilo und andere Kibbuz- </font>
+<font color="#ffffff">Bewohner schließlich evakuiert.</font>
 
 68
-00:03:48,36 --> 00:03:49,92
-<font color="#ffffff">Die älteste Tochter Shaimaa</font>
+00:04:02,24 --> 00:04:03,84
+<font color="#ffffff">Einige Tage nach seiner Rückkehr.</font>
 
 69
-00:03:50,16 --> 00:03:52,36
-<font color="#ffffff">wurde durch israelische Angriffe</font>
-<font color="#ffffff">getötet.</font>
+00:04:04,16 --> 00:04:07,48
+<font color="#ffffff">    Wir begleiten Chaim Shilo zu    </font>
+<font color="#ffffff">einem Workshop im Gemeinschaftsraum.</font>
 
 70
-00:03:52,64 --> 00:03:55,96
-<font color="#ffffff">Sie ist eine von Zehntausenden</font>
-<font color="#ffffff">Todesopfern dieses Krieges. </font>
+00:04:07,76 --> 00:04:09,28
+<font color="#ffffff">        Hier sprechen        </font>
+<font color="#ffffff">die älteren Bewohner darüber,</font>
 
 71
-00:03:56,24 --> 00:04:00,28
-<font color="#ffffff">Die vergangenen zwei Jahre seien</font>
-<font color="#ffffff">die schlimmsten ihres Lebens gewesen,</font>
+00:04:09,52 --> 00:04:11,56
+<font color="#ffffff">       wie es ist,        </font>
+<font color="#ffffff">wieder im Kibbuz zu leben.</font>
 
 72
-00:04:00,56 --> 00:04:01,64
-<font color="#ffffff">sagt Mutter Soheir.</font>
+00:04:11,88 --> 00:04:14,76
+<font color="#ffffff">Eine Frau, deren Enkel getötet wurde,</font>
+<font color="#ffffff">        bricht in Tränen aus.       </font>
 
 73
-00:04:01,96 --> 00:04:05,84
-<font color="#ffffff">Zum Glück hat es ihre jüngste Tochter</font>
-<font color="#ffffff"> Shorouk herausgeschafft aus Gaza.</font>
+00:04:15,08 --> 00:04:17,80
+<font color="#ffffff">Jeden Abend kontrolliere sie Fenster</font>
+<font color="#ffffff">        und Türen, sagt sie.        </font>
 
 74
-00:04:06,08 --> 00:04:08,76
-<font color="#ffffff">Kurz bevor der Grenzübergang</font>
-<font color="#ffffff">geschlossen wurde.</font>
+00:04:18,12 --> 00:04:19,88
+<font color="#ffffff">Gedreht werden möchte sie nicht.</font>
 
 75
-00:04:09,00 --> 00:04:10,16
-<font color="#ffffff">Mit ihren drei Kindern.</font>
+00:04:20,20 --> 00:04:21,36
+<font color="#ffffff">Chaim Shilo wirkt gefasst,</font>
 
 76
-00:04:10,40 --> 00:04:13,60
-<font color="#ffffff">Der Jüngste, Mahmoud, ist vier</font>
-<font color="#ffffff">und traumatisiert.</font>
+00:04:21,60 --> 00:04:25,32
+<font color="#ffffff">    doch das Erlebte     </font>
+<font color="#ffffff">lässt auch ihn nicht los.</font>
 
 77
-00:04:15,80 --> 00:04:19,84
-<font color="#ffff00">Als wir aus Gaza kamen, erzählte </font>
-<font color="#ffff00">Mahmoud mir ständig von dem Moment,</font>
+00:04:25,60 --> 00:04:29,60
+<font color="#00ffff">Vor dem 7. Oktober habe ich mich</font>
+<font color="#00ffff">  hier nicht unsicher gefühlt,  </font>
 
 78
-00:04:20,12 --> 00:04:22,52
-<font color="#ffff00">als die Flugzeuge</font>
-<font color="#ffff00">unser Haus bombardierten.</font>
+00:04:29,88 --> 00:04:30,88
+<font color="#00ffff">jetzt schon.</font>
 
 79
-00:04:22,80 --> 00:04:24,84
-<font color="#ffff00">Als sein Großvater getötet wurde.</font>
+00:04:31,16 --> 00:04:35,20
+<font color="#00ffff">    Wir leben nah an der Grenze.   </font>
+<font color="#00ffff">Auf der anderen Seite ist ein Krieg.</font>
 
 80
-00:04:25,16 --> 00:04:27,84
-<font color="#ffff00">Er hat es nachgespielt</font>
-<font color="#ffff00">wie ein Theaterstück. </font>
+00:04:35,48 --> 00:04:38,68
+<font color="#00ffff">Was für ein Krieg.</font>
+<font color="#00ffff">Wie wird er enden?</font>
 
 81
-00:04:28,12 --> 00:04:31,28
-<font color="#ffff00">Bis heute hat er Angst, </font>
-<font color="#ffff00">wenn er Flugzeuglärm hört.</font>
+00:04:41,04 --> 00:04:42,88
+<font color="#ffffff">Er fährt zum Zaun des Kibbuzes.</font>
 
 82
-00:04:32,36 --> 00:04:35,04
-<font color="#ffffff">In Ägypten</font>
-<font color="#ffffff">ist die Familie nur geduldet.</font>
+00:04:43,12 --> 00:04:46,60
+<font color="#ffffff">Dort sind vor zwei Jahren Terroristen</font>
+<font color="#ffffff"> aus dem Gazastreifen eingedrungen. </font>
 
 83
-00:04:35,28 --> 00:04:37,76
-<font color="#ffffff">Sie haben</font>
-<font color="#ffffff">keine Aufenthaltsgenehmigung.</font>
+00:04:46,84 --> 00:04:48,08
+<font color="#ffffff">Die Häuser, die sie zerstört hatten,</font>
 
 84
-00:04:38,00 --> 00:04:40,72
-<font color="#ffffff">Ob sie hier eine Zukunft haben,</font>
-<font color="#ffffff">wissen sie nicht.</font>
+00:04:48,32 --> 00:04:50,40
+<font color="#ffffff">  wurden mittlerweile   </font>
+<font color="#ffffff">durch Neubauten ersetzt.</font>
 
 85
-00:04:44,04 --> 00:04:46,24
-<font color="#ffff00">Aber in Gaza gibt's keine Zukunft.</font>
+00:04:50,68 --> 00:04:53,12
+<font color="#ffffff">          Den Gazastreifen          </font>
+<font color="#ffffff">können wir von hier aus nicht sehen,</font>
 
 86
-00:04:46,52 --> 00:04:48,80
-<font color="#ffff00">Es dauert Jahre,</font>
-<font color="#ffff00">bis alles aufgebaut wird.</font>
+00:04:53,40 --> 00:04:57,48
+<font color="#ffffff">israelische Bombardierungen</font>
+<font color="#ffffff"> aber immer wieder hören.  </font>
 
 87
-00:04:49,08 --> 00:04:51,92
-<font color="#ffff00">Erst dann können wir</font>
-<font color="#ffff00">an unsere Zukunft dort denken.</font>
+00:04:57,72 --> 00:05:03,60
+<font color="#00ffff">         Manchmal sitze ich        </font>
+<font color="#00ffff">oder liege im Bett und höre: "Bumm!"</font>
 
 88
-00:04:53,20 --> 00:04:57,08
-<font color="#ffffff">An den ewig währenden Frieden,</font>
-<font color="#ffffff">von dem Donald Trump spricht, </font>
+00:05:03,92 --> 00:05:07,60
+<font color="#00ffff">Als ob hier neben mir</font>
+<font color="#00ffff"> was gefallen wäre.  </font>
 
 89
-00:04:57,36 --> 00:04:58,40
-<font color="#ffffff">glauben sie nicht.</font>
+00:05:07,88 --> 00:05:10,68
+<font color="#00ff00">Denken Sie da auch an die Menschen</font>
+<font color="#00ff00">      auf der anderen Seite?      </font>
 
 90
-00:04:58,68 --> 00:05:01,04
-<font color="#ffffff">Weder hier in Ägypten </font>
-<font color="#ffffff">noch der Sohn in Gaza.</font>
+00:05:10,92 --> 00:05:13,88
+<font color="#00ffff">Natürlich, natürlich.</font>
 
 91
-00:05:01,36 --> 00:05:04,20
-<font color="#ffffff">Zu viel Kriege</font>
-<font color="#ffffff">haben sie schon erlebt.</font>
+00:05:14,20 --> 00:05:18,20
+<font color="#00ffff">       Auf der anderen Seite       </font>
+<font color="#00ffff">ist keine Elektrizität, kein Wasser,</font>
 
 92
-00:05:04,44 --> 00:05:07,44
-<font color="#ffffff">Aber diesen kleinen Frieden</font>
-<font color="#ffffff">wollen sie trotzdem genießen.</font>
+00:05:18,48 --> 00:05:20,16
+<font color="#00ffff">keine Erziehung.</font>
 
 93
-00:05:09,52 --> 00:05:12,92
-<font color="#00ffff">Jetzt ist mir Christian Limpert</font>
-<font color="#00ffff">aus Tel Aviv zugeschaltet.</font>
+00:05:22,24 --> 00:05:24,28
+<font color="#00ffff">Schrecklich.</font>
 
 94
-00:05:13,20 --> 00:05:15,48
-<font color="#00ffff">Christian, wir haben gerade gehört,</font>
+00:05:24,56 --> 00:05:26,08
+<font color="#00ffff">Unglaublich.</font>
 
 95
-00:05:15,76 --> 00:05:19,12
-<font color="#00ffff">wie eine palästinensische Familie</font>
-<font color="#00ffff">auf die Verhandlungen blickt.</font>
+00:05:26,36 --> 00:05:27,92
+<font color="#00ffff">Aber ...</font>
 
 96
-00:05:19,44 --> 00:05:21,92
-<font color="#00ffff">In Israel gab es Proteste</font>
-<font color="#00ffff">der Zivilbevölkerung</font>
+00:05:31,24 --> 00:05:37,36
+<font color="#00ffff"> ... wenn wir das nicht erobern, </font>
+<font color="#00ffff">werden sie uns erobern und töten.</font>
 
 97
-00:05:22,24 --> 00:05:26,24
-<font color="#00ffff">für die Freilassung der Geiseln und</font>
-<font color="#00ffff">ein Ende des Kriegs im Gazastreifen.</font>
+00:05:39,64 --> 00:05:41,32
+<font color="#ffffff">So sehen es viele Israelis,</font>
 
 98
-00:05:26,52 --> 00:05:29,32
-<font color="#00ffff">Wie ist die Stimmung in Tel Aviv</font>
-<font color="#00ffff">seit der Waffenruhe?</font>
+00:05:41,56 --> 00:05:44,20
+<font color="#ffffff">auch nach zwei Jahren Krieg</font>
+<font color="#ffffff"> mit Zehntausenden Toten.  </font>
 
 99
-00:05:37,32 --> 00:05:40,32
-<font color="#ffffff">Ich stehe auf dem Platz der Geiseln.</font>
+00:05:44,48 --> 00:05:47,76
+<font color="#ffffff">Die nächsten Tage werden zeigen,</font>
+<font color="#ffffff">    ob der Krieg nun endet.     </font>
 
 100
-00:05:47,16 --> 00:05:52,36
-<font color="#ffffff">Hier demonstrierten die Menschen seit</font>
-<font color="#ffffff">Kriegsbeginn für ein Ende des Kriegs.</font>
+00:05:49,72 --> 00:05:51,16
+<font color="#ffff00">Dass der Krieg endet,</font>
 
 101
-00:05:52,68 --> 00:05:56,28
-<font color="#ffffff">Das ist geschehen,</font>
-<font color="#ffffff">die Waffenruhe ist in Kraft.</font>
+00:05:51,44 --> 00:05:55,16
+<font color="#ffff00">darauf warten die Palästinenser</font>
+<font color="#ffff00"> im Gazastreifen sehnsüchtig.  </font>
 
 102
-00:05:57,16 --> 00:06:01,12
-<font color="#ffffff">Hier blicken alle auf das Thema</font>
-<font color="#ffffff">der Rückkehr der Geiseln.</font>
+00:05:55,40 --> 00:05:58,68
+<font color="#ffff00"> Jeder Tag ist für sie  </font>
+<font color="#ffff00">ein Kampf ums Überleben.</font>
 
 103
-00:06:01,36 --> 00:06:03,32
-<font color="#ffffff">In den Medien heißt es,</font>
+00:05:58,92 --> 00:06:01,92
+<font color="#ffff00">   Seit zwei Jahren schlagen   </font>
+<font color="#ffff00">täglich israelische Bomben ein,</font>
 
 104
-00:06:05,00 --> 00:06:09,64
-<font color="#ffffff">in der Nacht würde ein großer </font>
-<font color="#ffffff">Teil der Geiseln zurückkommen.</font>
+00:06:02,24 --> 00:06:05,00
+<font color="#ffff00">             zig Male             </font>
+<font color="#ffff00">mussten Hunderttausende umsiedeln.</font>
 
 105
-00:06:09,96 --> 00:06:13,72
-<font color="#ffffff">Die Lebenden und ein großer</font>
-<font color="#ffffff">Teil der Getöteten.</font>
+00:06:05,28 --> 00:06:07,96
+<font color="#ffff00">Um die 80% der Infrastruktur</font>
+<font color="#ffff00">      im Gazastreifen       </font>
 
 106
-00:06:16,84 --> 00:06:21,72
-<font color="#ffffff">Es geht nicht nur darum, dass man</font>
-<font color="#ffffff">sich über die Lebenden freut.</font>
+00:06:08,24 --> 00:06:11,12
+<font color="#ffff00">ist vom israelischen Militär</font>
+<font color="#ffff00">      zerstört worden.      </font>
 
 107
-00:06:25,40 --> 00:06:29,32
-<font color="#00ffff">Wie viele Geiseln leben,</font>
-<font color="#00ffff">wie viele kommen tot an?</font>
+00:06:11,40 --> 00:06:13,00
+<font color="#ffff00">Die Menschen können nicht mehr.</font>
 
 108
-00:06:30,00 --> 00:06:32,44
-<font color="#ffffff">Das ist nicht genau bekannt.</font>
+00:06:13,24 --> 00:06:16,64
+<font color="#ffff00">Meine Kollegin Pia Steckelbach</font>
+<font color="#ffff00">  über die dramatische Lage   </font>
 
 109
-00:06:35,28 --> 00:06:38,40
-<font color="#ffffff">48 Menschen sind</font>
-<font color="#ffffff">noch in Geiselhaft der Hamas.</font>
+00:06:16,92 --> 00:06:21,48
+<font color="#ffff00">  und ein winzig kleines bisschen  </font>
+<font color="#ffff00">Hoffnung auf einen Waffenstillstand.</font>
 
 110
-00:06:38,72 --> 00:06:40,88
-<font color="#ffffff">Etwa 20 könnte noch leben.</font>
+00:06:21,72 --> 00:06:23,68
+<font color="#ffff00">         An Frieden          </font>
+<font color="#ffff00">glauben sie noch lange nicht.</font>
 
 111
-00:06:42,80 --> 00:06:46,04
-<font color="#ffffff">Es könnten auch 22 </font>
-<font color="#ffffff">sein, heißt es heute.</font>
+00:06:25,32 --> 00:06:28,08
+<font color="#ffffff">      Er hört genau zu,      </font>
+<font color="#ffffff">was ihm die Ärzte hier sagen:</font>
 
 112
-00:06:46,72 --> 00:06:49,40
-<font color="#ffffff">Das treibt die Angehörigen auf.</font>
+00:06:28,36 --> 00:06:31,84
+<font color="#ffffff">   James Elder ist Sprecher    </font>
+<font color="#ffffff">des UN-Kinderhilfswerks UNICEF.</font>
 
 113
-00:06:52,52 --> 00:06:56,80
-<font color="#ffffff">Gerade die, für die unklar ist,</font>
-<font color="#ffffff">ob die Angehörigen noch leben. </font>
+00:06:32,12 --> 00:06:35,72
+<font color="#ffffff">  Am Samstagmittag besucht er das   </font>
+<font color="#ffffff">Al-Aksa-Krankenhaus in Deir al-Balah</font>
 
 114
-00:06:57,08 --> 00:07:00,64
-<font color="#ffffff">Das sind für sie Stunden</font>
-<font color="#ffffff">wahnsinnig Anspannung.</font>
+00:06:36,00 --> 00:06:37,76
+<font color="#ffffff">im Zentrum des Gazastreifens.</font>
 
 115
-00:07:02,68 --> 00:07:06,40
-<font color="#ffffff">Hinter uns ist große Hoffnung,</font>
-<font color="#ffffff">aber auch Angst.</font>
+00:06:38,08 --> 00:06:40,48
+<font color="#ffffff">Ein ARD-Kameramann </font>
+<font color="#ffffff">kann ihn begleiten.</font>
 
 116
-00:07:07,44 --> 00:07:11,36
-<font color="#ffffff">Die Frage ist, in welcher Verfassung</font>
-<font color="#ffffff">die Menschen zurückkommen.</font>
+00:06:42,04 --> 00:06:44,44
+<font color="#00ffff">In Ihrem Beruf geht es darum,</font>
+<font color="#00ffff">     Menschen zu retten.     </font>
 
 117
-00:07:11,92 --> 00:07:14,32
-<font color="#00ffff">Am Montag kommt Trump</font>
-<font color="#00ffff">nach Sharm El Sheikh </font>
+00:06:45,92 --> 00:06:48,08
+<font color="#00ffff">   Und dann müssen Sie    </font>
+<font color="#00ffff">eine Entscheidung treffen,</font>
 
 118
-00:07:14,60 --> 00:07:15,88
-<font color="#00ffff">zu einem Friedensgipfel.</font>
+00:06:48,32 --> 00:06:49,80
+<font color="#00ffff">die kein Arzt treffen sollte.</font>
 
 119
-00:07:16,20 --> 00:07:18,88
-<font color="#00ffff">Auch Merz hat angekündigt,</font>
-<font color="#00ffff">dass er dabei sein wird.</font>
+00:06:50,00 --> 00:06:52,32
+<font color="#ffffff">Denn nicht für alle Kinder</font>
+<font color="#ffffff">sei Platz im Krankenhaus, </font>
 
 120
-00:07:19,16 --> 00:07:21,04
-<font color="#00ffff">Die Hamas sagte ihre Teilnahme ab.</font>
+00:06:52,60 --> 00:06:54,24
+<font color="#ffffff">es gebe kaum Schmerzmittel.</font>
 
 121
-00:07:21,32 --> 00:07:23,60
-<font color="#00ffff">Was können wir</font>
-<font color="#00ffff">von diesem Gipfel erwarten?</font>
+00:06:54,52 --> 00:06:57,20
+<font color="#ffffff">     Der Arzt sagt noch,      </font>
+<font color="#ffffff">das sei das schlimmste Gefühl.</font>
 
 122
-00:07:28,48 --> 00:07:31,92
-<font color="#ffffff">Der Gipfel wird entscheidend</font>
-<font color="#ffffff">sein bei den Fragen,</font>
+00:06:57,48 --> 00:06:59,96
+<font color="#ffffff">            James Elder             </font>
+<font color="#ffffff">besucht den Gazastreifen regelmäßig.</font>
 
 123
-00:07:32,16 --> 00:07:33,12
-<font color="#ffffff">die unklar sind.</font>
+00:07:00,20 --> 00:07:02,00
+<font color="#ffffff">Er soll auch mit Patienten sprechen.</font>
 
 124
-00:07:33,40 --> 00:07:36,76
-<font color="#ffffff">Etwa, wie die Hamas</font>
-<font color="#ffffff">zu entwaffnen sein wird.</font>
+00:07:02,32 --> 00:07:05,80
+<font color="#ffffff">Die Notaufnahme des Krankenhauses</font>
+<font color="#ffffff">    ist vollkommen überfüllt.    </font>
 
 125
-00:07:37,00 --> 00:07:39,96
-<font color="#ffffff">Und ob sich Israels</font>
-<font color="#ffffff">Armee zurückzieht. </font>
+00:07:06,08 --> 00:07:08,12
+<font color="#ffffff">    Es fehlt an Betten     </font>
+<font color="#ffffff">und medizinischem Material,</font>
 
 126
-00:07:42,20 --> 00:07:46,16
-<font color="#ffffff">Entscheidend ist die Frage,</font>
-<font color="#ffffff">wie ein Wiederaufbau gelingt.</font>
+00:07:08,44 --> 00:07:11,08
+<font color="#ffffff"> wie in den anderen wenigen </font>
+<font color="#ffffff">verbleibenden Krankenhäusern</font>
 
 127
-00:07:46,44 --> 00:07:49,32
-<font color="#ffffff">Und wer langfristig</font>
-<font color="#ffffff">die Kontrolle übernimmt.</font>
+00:07:11,32 --> 00:07:12,68
+<font color="#ffffff">im Gazastreifen.</font>
 
 128
-00:07:49,60 --> 00:07:50,88
-<font color="#ffffff">Das sind offene Punkte.</font>
+00:07:13,00 --> 00:07:15,60
+<font color="#ffffff">Dieses Mädchen heißt Samar,</font>
+<font color="#ffffff">       10 Jahre alt.       </font>
 
 129
-00:07:51,36 --> 00:07:53,88
-<font color="#00ffff">Wenn Sie diesen QR-Code einscannen,</font>
+00:07:15,92 --> 00:07:18,80
+<font color="#ffffff">   Es sei bei einem israelischen   </font>
+<font color="#ffffff">Luftangriff schwer verletzt worden.</font>
 
 130
-00:07:54,16 --> 00:07:57,64
-<font color="#00ffff">kommen Sie in die ARD Audiothek</font>
-<font color="#00ffff">zum Weltspiegel-Podcast.</font>
+00:07:19,08 --> 00:07:21,08
+<font color="#ffffff">Reagieren kann es kaum.</font>
 
 131
-00:07:58,72 --> 00:08:03,32
-<font color="#00ffff">Was der Frieden im Gazastreifen</font>
-<font color="#00ffff">für die umliegenden Länder bedeutet,</font>
+00:07:21,32 --> 00:07:23,68
+<font color="#ffffff">James Elder will festhalten,</font>
+<font color="#ffffff">   was ihr passiert ist,    </font>
 
 132
-00:08:03,56 --> 00:08:06,96
-<font color="#00ffff">analysieren wir in der Folge</font>
-<font color="#00ffff">vom Weltspiegel-Podcast.</font>
+00:07:24,00 --> 00:07:26,64
+<font color="#ffffff">   aufzeigen, was Krieg    </font>
+<font color="#ffffff">für die Kleinsten bedeutet.</font>
 
 133
-00:08:07,64 --> 00:08:10,48
-<font color="#00ffff">Denn bei den Menschen in Iran</font>
-<font color="#00ffff">wächst die Sorge,</font>
+00:07:26,92 --> 00:07:28,92
+<font color="#ffffff">       Und klarstellen,       </font>
+<font color="#ffffff">dass die israelischen Angriffe</font>
 
 134
-00:08:10,76 --> 00:08:14,84
-<font color="#00ffff">dass Israel seine militärischen</font>
-<font color="#00ffff">Kräfte wieder bündeln könnte.</font>
+00:07:29,20 --> 00:07:32,20
+<font color="#ffffff">  trotz der Nachrichten über einen  </font>
+<font color="#ffffff">nahenden Waffenstillstand am Samstag</font>
 
 135
-00:08:16,12 --> 00:08:19,16
-<font color="#00ffff">Hören Sie rein</font>
-<font color="#00ffff">in den Weltspiegel-Podcast</font>
+00:07:32,52 --> 00:07:33,80
+<font color="#ffffff">weitergehen.</font>
 
 136
-00:08:19,40 --> 00:08:20,92
-<font color="#00ffff">in der ARD Audiothek.</font>
+00:07:34,08 --> 00:07:35,72
+<font color="#00ffff">Jede Nachricht darüber,</font>
 
 137
-00:08:22,52 --> 00:08:25,56
-<font color="#00ffff">Der Friedensnobelpreis</font>
-<font color="#00ffff">ging am Freitag</font>
+00:07:36,00 --> 00:07:38,60
+<font color="#00ffff">       dass das Töten von       </font>
+<font color="#00ffff">Jungen und Mädchen beendet wird,</font>
 
 138
-00:08:25,84 --> 00:08:29,88
-<font color="#00ffff">an die Oppositionsführerin</font>
-<font color="#00ffff">Maria Corina Machado aus Venezuela.</font>
+00:07:38,92 --> 00:07:40,60
+<font color="#00ffff">ist eine gute Nachricht.</font>
 
 139
-00:08:30,20 --> 00:08:32,12
-<font color="#00ffff">Und nicht an Donald Trump.</font>
+00:07:40,88 --> 00:07:43,48
+<font color="#00ffff">Aber es ist Samstag, 13 Uhr</font>
+<font color="#00ffff">       hier in Gaza.       </font>
 
 140
-00:08:33,08 --> 00:08:35,96
-<font color="#00ffff">Dabei findet Trump,</font>
-<font color="#00ffff">dass er den verdient hätte,</font>
+00:07:43,76 --> 00:07:46,24
+<font color="#00ffff">   Das ist Samar.    </font>
+<font color="#00ffff">Sie ist 10 Jahre alt.</font>
 
 141
-00:08:36,20 --> 00:08:37,72
-<font color="#00ffff">wie er mehrfach betonte.</font>
+00:07:46,52 --> 00:07:48,72
+<font color="#00ffff">      Vor 2 Stunden      </font>
+<font color="#00ffff">gab es einen Luftangriff,</font>
 
 142
-00:08:38,00 --> 00:08:41,72
-<font color="#00ffff">Er feiert die Waffenruhe im</font>
-<font color="#00ffff">Nahen Osten als persönlichen Erfolg.</font>
+00:07:48,96 --> 00:07:52,68
+<font color="#00ffff">   nachdem die Bombardierungen    </font>
+<font color="#00ffff">eigentlich hätten aufhören sollen.</font>
 
 143
-00:08:42,16 --> 00:08:44,96
-<font color="#00ffff">Sarah Schmidt erklärt, </font>
-<font color="#00ffff">was hinter den Kulissen</font>
+00:07:52,96 --> 00:07:55,48
+<font color="#00ffff">        Vor 2 Stunden,        </font>
+<font color="#00ffff">als Samar Wasser holen wollte.</font>
 
 144
-00:08:45,24 --> 00:08:47,24
-<font color="#00ffff">in den vergangenen Wochen</font>
-<font color="#00ffff">passiert ist.</font>
+00:07:55,80 --> 00:07:58,48
+<font color="#00ffff">Das muss aufhören!</font>
 
 145
-00:08:47,56 --> 00:08:50,76
-<font color="#00ffff">Und wie Trump versucht, sein</font>
-<font color="#00ffff">"Friedensprojekt" durchzusetzen.</font>
+00:07:58,72 --> 00:08:00,60
+<font color="#ffffff">Nach fast 2 Jahren Krieg</font>
+<font color="#ffffff">  wurden nach Angaben   </font>
 
 146
-00:08:52,36 --> 00:08:54,92
-<font color="#ffffff">Ein Zettel, ein langer Blick darauf.</font>
+00:08:00,88 --> 00:08:03,20
+<font color="#ffffff">     der auch von der Hamas      </font>
+<font color="#ffffff">kontrollierten Gesundheitsbehörde</font>
 
 147
-00:08:55,24 --> 00:08:59,08
-<font color="#ffffff">In diesem Moment dürfte</font>
-<font color="#ffffff">dem US-Präsidenten klar gewesen sein:</font>
+00:08:03,44 --> 00:08:05,88
+<font color="#ffffff">mehr als 67.000 Menschen getötet.</font>
 
 148
-00:08:59,40 --> 00:09:01,84
-<font color="#ffffff">Seine Verhandlungstaktik</font>
-<font color="#ffffff">ist aufgegangen.</font>
+00:08:06,12 --> 00:08:08,96
+<font color="#ffffff">Über 20.000 von ihnen</font>
+<font color="#ffffff"> sollen Kinder sein. </font>
 
 149
-00:09:02,08 --> 00:09:05,24
-<font color="#ffffff">Inhalt der handschriftlichen Notiz</font>
-<font color="#ffffff">seines Außenministers:</font>
+00:08:09,20 --> 00:08:12,36
+<font color="#ffffff">  Internationale Organisationen   </font>
+<font color="#ffffff">halten die Zahlen für realistisch.</font>
 
 150
-00:09:05,56 --> 00:09:06,92
-<font color="#ffffff">Ein Deal sei sehr nah.</font>
+00:08:12,60 --> 00:08:14,28
+<font color="#ffffff"> Tausende Menschen  </font>
+<font color="#ffffff">gelten als vermisst.</font>
 
 151
-00:09:08,84 --> 00:09:12,16
-<font color="#ffffff">Dass die US-Regierung unter Trump</font>
-<font color="#ffffff">großen Einfluss hatte -</font>
+00:08:14,52 --> 00:08:16,84
+<font color="#ffffff">Der Gazastreifen liegt in Trümmern.</font>
 
 152
-00:09:12,44 --> 00:09:14,52
-<font color="#ffffff">die gängige Lesart</font>
-<font color="#ffffff">in den Tagen danach.</font>
+00:08:17,16 --> 00:08:18,20
+<font color="#ffffff">Mehr als 90% der Menschen</font>
 
 153
-00:09:14,80 --> 00:09:16,08
-<font color="#ffffff">Auch unter Experten.</font>
+00:08:18,48 --> 00:08:20,80
+<font color="#ffffff">sind innerhalb des Gazastreifens</font>
+<font color="#ffffff">       vertrieben worden.       </font>
 
 154
-00:09:16,40 --> 00:09:19,92
-<font color="#ffff00">Der größte Teil des Verdienstes</font>
-<font color="#ffff00">gebührt Donald Trump.</font>
+00:08:21,04 --> 00:08:22,84
+<font color="#ffffff">Viele mussten mehrmals fliehen.</font>
 
 155
-00:09:20,40 --> 00:09:22,32
-<font color="#00ff00">Das war der richtige Moment.</font>
+00:08:23,12 --> 00:08:24,00
+<font color="#ffffff">Die Versorgungslage</font>
 
 156
-00:09:22,60 --> 00:09:25,20
-<font color="#00ff00">Aber man </font>        <font color="#00ff00">muss Trump</font>
-<font color="#00ff00">viel Anerkennung zollen,</font>
+00:08:24,24 --> 00:08:27,68
+<font color="#ffffff">beschreiben humanitäre Organisationen</font>
+<font color="#ffffff">   immer wieder als katastrophal.   </font>
 
 157
-00:09:25,48 --> 00:09:26,88
-<font color="#00ff00">dass er das hinbekommen hat.</font>
+00:08:28,00 --> 00:08:31,20
+<font color="#ffffff">Immer wieder auch Bilder wie diese</font>
+<font color="#ffffff">     von hungernden Menschen.     </font>
 
 158
-00:09:27,16 --> 00:09:30,12
-<font color="#ffffff">Es ist nicht die erste Waffenruhe</font>
-<font color="#ffffff">in diesem Krieg,</font>
+00:08:31,48 --> 00:08:33,64
+<font color="#ffffff">             Im August             </font>
+<font color="#ffffff">bestätigen internationale Experten,</font>
 
 159
-00:09:30,36 --> 00:09:32,80
-<font color="#ffffff">inklusive Austausch</font>
-<font color="#ffffff">von Geiseln und Häftlingen.</font>
+00:08:33,84 --> 00:08:35,96
+<font color="#ffffff">            darunter            </font>
+<font color="#ffffff">die Weltgesundheitsorganisation,</font>
 
 160
-00:09:33,08 --> 00:09:35,28
-<font color="#ffffff">Das gab es schon</font>
-<font color="#ffffff">unter US-Präsident Biden.</font>
+00:08:36,24 --> 00:08:40,12
+<font color="#ffffff">dass in Gaza-Stadt und Umgebung</font>
+<font color="#ffffff">   eine Hungersnot besteht.    </font>
 
 161
-00:09:35,60 --> 00:09:36,96
-<font color="#ffffff">Was ist jetzt anders?</font>
+00:08:40,40 --> 00:08:43,12
+<font color="#ffffff">Zuvor hatte das israelische Militär</font>
+<font color="#ffffff">     im Frühjahr dieses Jahres     </font>
 
 162
-00:09:37,20 --> 00:09:40,88
-<font color="#ffffff">Ein Angriff im September</font>
-<font color="#ffffff">könnte der Wendepunkt gewesen sein:</font>
+00:08:43,40 --> 00:08:44,52
+<font color="#ffffff">fast drei Monate lang</font>
 
 163
-00:09:41,20 --> 00:09:44,24
-<font color="#ffffff">Um Anführer der Hamas zu töten,</font>
-<font color="#ffffff">bombardiert Israel Katar,</font>
+00:08:44,80 --> 00:08:47,64
+<font color="#ffffff">     jegliche Lieferungen     </font>
+<font color="#ffffff">in den Gazastreifen blockiert.</font>
 
 164
-00:09:44,56 --> 00:09:47,36
-<font color="#ffffff">einen US-Verbündeten</font>
-<font color="#ffffff">und wichtigen Handelspartner.</font>
+00:08:47,96 --> 00:08:52,24
+<font color="#ffffff">Im September startet die israelische</font>
+<font color="#ffffff">Armee eine Offensive auf Gaza-Stadt,</font>
 
 165
-00:09:47,60 --> 00:09:50,32
-<font color="#ffffff">Erst im Mai hatte Trump</font>
-<font color="#ffffff">einen Wirtschaftsdeal</font>
+00:08:52,48 --> 00:08:55,80
+<font color="#ffffff">sprengt verbliebene Hochhäuser</font>
+<font color="#ffffff">  und rückt mit Truppen vor.  </font>
 
 166
-00:09:50,56 --> 00:09:52,24
-<font color="#ffffff">mit dem Emirat geschlossen.</font>
+00:08:56,04 --> 00:08:57,08
+<font color="#ffffff">Laut israelischem Militär</font>
 
 167
-00:09:53,12 --> 00:09:57,32
-<font color="#ffff00">Ich denke, Katar hat um Schutz</font>
-<font color="#ffff00">gebeten und Trump sagte:</font>
+00:08:57,36 --> 00:09:00,72
+<font color="#ffffff">sind mehr als 900.000 Menschen</font>
+<font color="#ffffff">   aus der Stadt geflohen.    </font>
 
 168
-00:09:58,04 --> 00:10:00,04
-<font color="#ffff00">Der Preis ist die Hamas.</font>
+00:09:01,04 --> 00:09:02,80
+<font color="#ffffff">Für viele ist das aber unmöglich.</font>
 
 169
-00:10:00,32 --> 00:10:04,32
-<font color="#ffff00">Und als die Katarer und die Türkei,</font>
-<font color="#ffff00">ein weiterer Unterstützer der Hamas,</font>
+00:09:03,04 --> 00:09:04,88
+<font color="#ffffff">So auch für Familie Shihada.</font>
 
 170
-00:10:04,64 --> 00:10:06,84
-<font color="#ffff00">begannen,</font>
-<font color="#ffff00">die Hamas unter Druck zu setzen:</font>
+00:09:05,16 --> 00:09:08,08
+<font color="#ffffff">    Einen Transport in den Süden    </font>
+<font color="#ffffff">können sich die Eltern nicht leisten.</font>
 
 171
-00:10:07,16 --> 00:10:09,76
-<font color="#ffff00">Das hat wohl den Ausschlag gegeben.</font>
+00:09:08,40 --> 00:09:11,20
+<font color="#ffffff">       Sie und ihre Kinder       </font>
+<font color="#ffffff">harren weiter in diesem Zelt aus.</font>
 
 172
-00:10:14,16 --> 00:10:18,44
-<font color="#ffffff">Nicht nur bei Unterstützern der Hamas</font>
-<font color="#ffffff">wusste Trump, sein Blatt zu spielen.</font>
+00:09:11,48 --> 00:09:12,68
+<font color="#ffffff">Das, obwohl sie wissen:</font>
 
 173
-00:10:18,68 --> 00:10:20,72
-<font color="#ffffff">Der Angriff</font>
-<font color="#ffffff">dürfte auch ein Wendepunkt</font>
+00:09:12,96 --> 00:09:15,28
+<font color="#ffffff">Hier könnten sie jederzeit</font>
+<font color="#ffffff">    getroffen werden.     </font>
 
 174
-00:10:20,96 --> 00:10:23,00
-<font color="#ffffff">im Verhältnis zu Netanjahu</font>
-<font color="#ffffff">gewesen sein.</font>
+00:09:15,56 --> 00:09:18,36
+<font color="#ffffff">    Einer der Söhne, Oday,    </font>
+<font color="#ffffff">ist vor Kurzem getötet worden.</font>
 
 175
-00:10:23,28 --> 00:10:24,68
-<font color="#ffffff">Israel soll die Amerikaner</font>
+00:09:18,64 --> 00:09:20,48
+<font color="#ffffff">Er liegt in der Nähe begraben.</font>
 
 176
-00:10:24,96 --> 00:10:27,68
-<font color="#ffffff">sehr kurzfristig</font>
-<font color="#ffffff">über die Attacke informiert haben.</font>
+00:09:20,72 --> 00:09:21,60
+<font color="#ffffff">Auch am Samstag,</font>
 
 177
-00:10:27,96 --> 00:10:31,60
-<font color="#ffffff">Sodass eine Warnung der USA in</font>
-<font color="#ffffff">Richtung des wichtigen Partners Katar</font>
+00:09:21,88 --> 00:09:24,76
+<font color="#ffffff">als ein Kamerateam die Familie</font>
+<font color="#ffffff"> im Auftrag der ARD besucht,  </font>
 
 178
-00:10:31,88 --> 00:10:32,84
-<font color="#ffffff">zu spät kam.</font>
+00:09:25,00 --> 00:09:27,20
+<font color="#ffffff">sind Angriffe in Hörweite.</font>
 
 179
-00:10:33,04 --> 00:10:34,40
-<font color="#ffff00">Ich bin nicht begeistert.</font>
+00:09:27,52 --> 00:09:29,32
+<font color="#ffffff">* entfernte Schüsse *</font>
 
 180
-00:10:34,68 --> 00:10:38,92
-<font color="#ffffff">Im Oval Office zwingt Trump Netanjahu</font>
-<font color="#ffffff">danach zu einem Telefonat mit Katar.</font>
+00:09:29,60 --> 00:09:31,32
+<font color="#00ffff"> Was soll das Gerede </font>
+<font color="#00ffff">über eine Waffenruhe?</font>
 
 181
-00:10:39,12 --> 00:10:41,00
-<font color="#ffffff">Seine Miene spricht Bände.</font>
+00:09:32,08 --> 00:09:34,92
+<font color="#00ffff">        Seit gestern         </font>
+<font color="#00ffff">schweigen die Angriffe nicht.</font>
 
 182
-00:10:42,28 --> 00:10:46,56
-<font color="#ffff00">Präsident Trump übte Druck</font>
-<font color="#ffff00">auf Premierminister Netanjahu aus,</font>
+00:09:35,20 --> 00:09:38,72
+<font color="#00ffff">Jeden Tag gibt es Massaker.</font>
 
 183
-00:10:46,80 --> 00:10:49,76
-<font color="#ffff00">indem er alle</font>
-<font color="#ffff00">für seinen Deal gewonnen hatte.</font>
+00:09:38,96 --> 00:09:41,44
+<font color="#ffffff">Seiner Tochter Hala</font>
+<font color="#ffffff">gibt es Zuversicht,</font>
 
 184
-00:10:50,04 --> 00:10:52,80
-<font color="#ffff00">Netanjahu hatte keine andere Wahl.</font>
+00:09:41,68 --> 00:09:44,36
+<font color="#ffffff">dass gerade ein Abkommen</font>
+<font color="#ffffff">    verhandelt wird.    </font>
 
 185
-00:10:54,20 --> 00:10:58,20
-<font color="#ffffff">Traditionell gelten die USA als </font>
-<font color="#ffffff">der wichtigste Verbündete Israels,</font>
+00:09:46,08 --> 00:09:49,44
+<font color="#00ffff">       Ich hoffe, dass wir       </font>
+<font color="#00ffff">unser altes Leben zurückbekommen,</font>
 
 186
-00:10:58,44 --> 00:11:00,16
-<font color="#ffffff">auch unter Donald Trump.</font>
+00:09:49,72 --> 00:09:50,88
+<font color="#00ffff">zur Schule gehen.</font>
 
 187
-00:11:00,48 --> 00:11:04,00
-<font color="#ffffff">Wie dieses Social-Media-Video</font>
-<font color="#ffffff">mit Aussagen des Präsidenten zeigt.</font>
+00:09:51,88 --> 00:09:54,68
+<font color="#00ffff">Ich will, dass mich meine Mutter</font>
+<font color="#00ffff">  morgens weckt und mir sagt,   </font>
 
 188
-00:11:04,32 --> 00:11:06,84
-<font color="#ffffff">Die Beziehungen zu Israel:</font>
-<font color="#ffffff">unzerbrechlich.</font>
+00:09:54,92 --> 00:09:57,24
+<font color="#00ffff">dass ich meine Schuluniform</font>
+<font color="#00ffff">      anziehen soll.       </font>
 
 189
-00:11:08,12 --> 00:11:10,88
-<font color="#ffffff">Dass Trump die Geduld</font>
-<font color="#ffffff">mit ihm verlieren könnte -</font>
+00:09:57,52 --> 00:09:59,72
+<font color="#00ffff">Ich will lernen.</font>
 
 190
-00:11:11,20 --> 00:11:12,52
-<font color="#ffffff">ein Problem für Netanjahu.</font>
+00:10:01,12 --> 00:10:04,08
+<font color="#ffffff">Zurück zum UNICEF-Sprecher</font>
+<font color="#ffffff"> im Al-Aksa-Krankenhaus.  </font>
 
 191
-00:11:12,84 --> 00:11:15,88
-<font color="#ffffff">Sagt Jonathan Rynhold,</font>
-<font color="#ffffff">Politikwissenschaftler in Israel.</font>
+00:10:04,40 --> 00:10:06,96
+<font color="#ffffff">     James Elder will sich     </font>
+<font color="#ffffff">noch weitere Patienten ansehen.</font>
 
 192
-00:11:16,56 --> 00:11:18,64
-<font color="#ffff00">Er ist in Europa nicht beliebt.</font>
+00:10:07,24 --> 00:10:09,52
+<font color="#ffffff">Das Gesicht dieses Kindes</font>
+<font color="#ffffff">     ist abgedeckt,      </font>
 
 193
-00:11:18,88 --> 00:11:22,60
-<font color="#ffff00">Und der gesamte Nahe Osten, außer</font>
-<font color="#ffff00">der erbittertsten Feinde Israels,</font>
+00:10:09,80 --> 00:10:11,96
+<font color="#ffffff">um es vor Fliegen zu schützen.</font>
 
 194
-00:11:22,84 --> 00:11:24,64
-<font color="#ffff00">hat das Abkommen befürwortet.</font>
+00:10:12,24 --> 00:10:15,44
+<font color="#00ffff">        Die Kinder        </font>
+<font color="#00ffff">brauchen humanitäre Hilfe.</font>
 
 195
-00:11:24,96 --> 00:11:27,92
-<font color="#ffff00">Hätte er dem Plan des Präsidenten</font>
-<font color="#ffff00">nicht zugestimmt,</font>
+00:10:15,72 --> 00:10:18,72
+<font color="#00ffff">Die Beschränkungen der israelischen</font>
+<font color="#00ffff">     Behörden müssen aufhören.     </font>
 
 196
-00:11:28,20 --> 00:11:30,52
-<font color="#ffff00">wäre Israel</font>
-<font color="#ffff00">komplett isoliert worden.</font>
+00:10:18,96 --> 00:10:20,12
+<font color="#00ffff">Sie brauchen Zelte.</font>
 
 197
-00:11:31,40 --> 00:11:35,88
-<font color="#ffffff">Der Frieden soll Trumps Namen tragen,</font>
-<font color="#ffffff">wie dieser 20-Punkte-Plan.</font>
+00:10:20,36 --> 00:10:22,84
+<font color="#00ffff">         80% der Häuser         </font>
+<font color="#00ffff">wurden zerstört oder beschädigt,</font>
 
 198
-00:11:36,52 --> 00:11:39,84
-<font color="#ffffff">Der wurde Ende September</font>
-<font color="#ffffff">als erster Durchbruch gewertet.</font>
+00:10:23,08 --> 00:10:26,44
+<font color="#00ffff">also müssen sie in Zelten leben, </font>
+<font color="#00ffff">von denen es nicht genügend gibt.</font>
 
 199
-00:11:40,16 --> 00:11:42,52
-<font color="#ffffff">Trump will den Friedensnobelpreis.</font>
+00:10:26,76 --> 00:10:29,32
+<font color="#00ffff">       Sie brauchen Essen,       </font>
+<font color="#00ffff">eine Hungersnot wurde ausgerufen.</font>
 
 200
-00:11:42,84 --> 00:11:45,64
-<font color="#ffffff">Gaza böte wirtschaftliche Chancen</font>
-<font color="#ffffff">für die USA:</font>
+00:10:29,56 --> 00:10:30,72
+<font color="#00ffff">Sie brauchen Wasser.</font>
 
 201
-00:11:45,92 --> 00:11:48,28
-<font color="#ffffff">Diese Botschaft</font>
-<font color="#ffffff">sendet er an die Amerikaner.</font>
+00:10:30,96 --> 00:10:33,16
+<font color="#00ffff">Ich habe mit dem Chef-Anästhesisten</font>
+<font color="#00ffff">         hier gesprochen.          </font>
 
 202
-00:11:48,56 --> 00:11:52,32
-<font color="#ffffff">Zum Beispiel mit diesem Video,</font>
-<font color="#ffffff">erzeugt mit künstlicher Intelligenz.</font>
+00:10:33,44 --> 00:10:35,12
+<font color="#00ffff">Er hat keine Betäubungsmittel mehr.</font>
 
 203
-00:11:55,28 --> 00:11:58,44
-<font color="#ffffff">Welche Rolle spielt Trumps</font>
-<font color="#ffffff">persönlicher Politik-Stil?</font>
+00:10:35,36 --> 00:10:38,40
+<font color="#00ffff">         Er muss bestimmen,        </font>
+<font color="#00ffff">wen er operieren kann und wen nicht.</font>
 
 204
-00:11:58,96 --> 00:12:01,00
-<font color="#ffffff">Der menschliche Faktor</font>
-<font color="#ffffff">sei wichtig gewesen,</font>
+00:10:38,72 --> 00:10:42,36
+<font color="#00ffff">All diese Dinge sind entscheidend.</font>
 
 205
-00:12:01,28 --> 00:12:03,28
-<font color="#ffffff">sagt US-Außenminister Marco Rubio.</font>
+00:10:43,52 --> 00:10:46,16
+<font color="#ffffff">            2 Jahre Krieg           </font>
+<font color="#ffffff">hätten vielen ihre Kindheit genommen,</font>
 
 206
-00:12:03,56 --> 00:12:06,84
-<font color="#ffffff">Belegen oder widerlegen</font>
-<font color="#ffffff">lässt sich das unabhängig kaum.</font>
+00:10:46,44 --> 00:10:48,20
+<font color="#ffffff">sagt der Sprecher der UNICEF.</font>
 
 207
-00:12:07,16 --> 00:12:10,32
-<font color="#ffffff">Elliott Abrams hat die Präsidenten</font>
-<font color="#ffffff">Trump und Bush beraten.</font>
+00:10:48,48 --> 00:10:50,56
+<font color="#ffffff">           Es brauche            </font>
+<font color="#ffffff">einen sofortigen Waffenstillstand</font>
 
 208
-00:12:10,60 --> 00:12:12,32
-<font color="#ffffff">Ein weiterer Faktor sei wichtig</font>
+00:10:50,80 --> 00:10:53,00
+<font color="#ffffff">     und der Gazastreifen     </font>
+<font color="#ffffff">müsse wieder aufgebaut werden,</font>
 
 209
-00:12:12,56 --> 00:12:15,00
-<font color="#ffffff">und auf den habe Trump</font>
-<font color="#ffffff">wenig Einfluss gehabt:</font>
+00:10:53,28 --> 00:10:55,24
+<font color="#ffffff">um ihnen eine Zukunft zu geben.</font>
 
 210
-00:12:15,24 --> 00:12:17,20
-<font color="#ffffff">Die Dauer und das Leid des Krieges.</font>
+00:10:57,08 --> 00:10:58,00
+<font color="#ffff00">Ich spreche jetzt</font>
 
 211
-00:12:17,68 --> 00:12:20,68
-<font color="#ffff00">Meinungsumfragen haben gezeigt,</font>
-<font color="#ffff00">dass die Israelis</font>
+00:10:58,32 --> 00:11:01,92
+<font color="#ffff00">  mit unserer Korrespondentin   </font>
+<font color="#ffff00">Sophie von der Tann in Tel Aviv.</font>
 
 212
-00:12:21,00 --> 00:12:24,24
-<font color="#ffff00">ein Ende des Krieges und</font>
-<font color="#ffff00">die Freilassung der Geiseln wollen.</font>
+00:11:02,20 --> 00:11:04,08
+<font color="#ffff00">Trump hatte ja Netanjahu angeordnet,</font>
 
 213
-00:12:24,48 --> 00:12:26,80
-<font color="#ffff00">Viele israelische Militärs</font>
-<font color="#ffff00">waren der Meinung,</font>
+00:11:04,36 --> 00:11:07,84
+<font color="#ffff00">    die israelischen Angriffe     </font>
+<font color="#ffff00">im Gazastreifen sofort zu stoppen.</font>
 
 214
-00:12:27,16 --> 00:12:31,00
-<font color="#ffff00">dass die Vorteile einer Fortsetzung</font>
-<font color="#ffff00">des Krieges weniger werden.</font>
+00:11:08,12 --> 00:11:09,72
+<font color="#ffff00">Haben sie aufgehört?</font>
 
 215
-00:12:31,48 --> 00:12:33,80
-<font color="#ffffff">Das sei auch</font>
-<font color="#ffffff">für die Hamas ein Faktor,</font>
+00:11:13,12 --> 00:11:15,28
+<font color="#00ff00">Wir haben es gerade im Beitrag</font>
+<font color="#00ff00">           gesehen.           </font>
 
 216
-00:12:34,04 --> 00:12:36,28
-<font color="#ffffff">neben dem Druck</font>
-<font color="#ffffff">ihrer Unterstützerstaaten.</font>
+00:11:15,52 --> 00:11:17,24
+<font color="#00ff00">Die Angriffe gehen weiter.</font>
 
 217
-00:12:36,96 --> 00:12:40,44
-<font color="#ffff00">Die israelische Armee</font>
-<font color="#ffff00">hat die Hamas quasi zerquetscht -</font>
+00:11:18,24 --> 00:11:20,80
+<font color="#00ff00">Auch wenn das israelische Militär</font>
+<font color="#00ff00">              sagt,              </font>
 
 218
-00:12:40,72 --> 00:12:41,64
-<font color="#ffff00">immer stärker.</font>
+00:11:21,12 --> 00:11:22,44
+<font color="#00ff00">man operiert defensiv,</font>
 
 219
-00:12:42,00 --> 00:12:44,52
-<font color="#ffff00">Zuletzt durch ihr Eindringen</font>
-<font color="#ffff00">in Gaza-Stadt,</font>
+00:11:23,60 --> 00:11:26,12
+<font color="#00ff00">gibt es nach wie vor Luftangriffe.</font>
 
 220
-00:12:44,76 --> 00:12:46,64
-<font color="#ffff00">die letzte Hochburg der Hamas.</font>
+00:11:27,44 --> 00:11:31,08
+<font color="#00ff00">Die Menschen hoffen, dass die</font>
+<font color="#00ff00">    Waffenruhe eintritt.     </font>
 
 221
-00:12:46,92 --> 00:12:49,04
-<font color="#ffff00">Die Hamas will nicht,</font>
-<font color="#ffff00">dass das weitergeht. </font>
+00:11:32,60 --> 00:11:37,16
+<font color="#00ff00">   Nach zwei Jahren Krieg und   </font>
+<font color="#00ff00">Vertreibung sind die Menschen am</font>
+<font color="#00ff00">             Ende.              </font>
 
 222
-00:12:49,32 --> 00:12:52,96
-<font color="#ffffff">Trump hat einen ersten Schritt</font>
-<font color="#ffffff">in Richtung Frieden eingeleitet.</font>
+00:11:37,48 --> 00:11:40,40
+<font color="#ffff00"> Die Hamas hat der Übergabe der  </font>
+<font color="#ffff00">verbliebenen israelischen Geiseln</font>
 
 223
-00:12:53,24 --> 00:12:55,12
-<font color="#ffffff">Doch der Prozess steht am Anfang.</font>
+00:11:40,64 --> 00:11:43,12
+<font color="#ffff00">im Austausch gegen knapp 2000</font>
+<font color="#ffff00"> palästinensische Häftlinge  </font>
 
 224
-00:12:55,36 --> 00:12:57,96
-<font color="#ffffff">Ob Frieden sein Vermächtnis wird,</font>
-<font color="#ffffff">ist noch offen.</font>
+00:11:43,40 --> 00:11:46,40
+<font color="#ffff00">    zugestimmt, aber nicht dem    </font>
+<font color="#ffff00">gesamten 20-Punkte-Plan von Trump.</font>
 
 225
-00:12:59,44 --> 00:13:02,64
-<font color="#00ffff">Mir ist Gudrun Engel</font>
-<font color="#00ffff">aus Washington zugeschaltet.</font>
+00:11:46,68 --> 00:11:48,00
+<font color="#ffff00">Wo hakt es?</font>
 
 226
-00:13:02,92 --> 00:13:05,40
-<font color="#00ffff">Trump hat eine sehr spezielle,</font>
+00:11:51,60 --> 00:11:54,36
+<font color="#00ff00">Bei diesem Plan ist einiges vage</font>
+<font color="#00ff00">           gehalten.            </font>
 
 227
-00:13:05,64 --> 00:13:08,60
-<font color="#00ffff">aber wohl erfolgreiche Art,</font>
-<font color="#00ffff">Politik zu machen.</font>
+00:11:54,68 --> 00:11:56,00
+<font color="#00ff00">Es geht um zwei Teile.</font>
 
 228
-00:13:08,84 --> 00:13:11,08
-<font color="#00ffff">Wie sehr setzt Trump auf Druck?</font>
+00:11:56,96 --> 00:12:00,00
+<font color="#00ff00">Einerseits um die Freilassung der</font>
+<font color="#00ff00">             Geiseln             </font>
 
 229
-00:13:22,60 --> 00:13:24,92
-<font color="#ffffff">Das ist ein Erfolgsrezept.</font>
+00:12:00,32 --> 00:12:03,72
+<font color="#00ff00">im Austausch gegen palästinensische</font>
+<font color="#00ff00">            Gefangene.             </font>
 
 230
-00:13:27,12 --> 00:13:30,72
-<font color="#ffffff">Er versucht es immer wieder</font>
-<font color="#ffffff">mit Drohungen und Druck. </font>
+00:12:06,40 --> 00:12:11,44
+<font color="#00ff00">Da hat die Hamas zugestimmt, aber</font>
+<font color="#00ff00">Details zum Ablauf müssen geklärt</font>
+<font color="#00ff00">             werden.             </font>
 
 231
-00:13:31,00 --> 00:13:33,56
-<font color="#ffffff">So wieder zu seinem Ziel kommen.</font>
+00:12:11,72 --> 00:12:15,20
+<font color="#00ff00">    Und im zweiten Teil:     </font>
+<font color="#00ff00">Die langfristige Perspektive.</font>
 
 232
-00:13:35,16 --> 00:13:38,16
-<font color="#ffffff">Am Anfang hat er</font>
-<font color="#ffffff">das überstrapaziert.</font>
+00:12:15,96 --> 00:12:19,00
+<font color="#00ff00">Es soll eine technokratische Führung</font>
+<font color="#00ff00">         eingesetzt werden.        </font>
 
 233
-00:13:39,72 --> 00:13:43,36
-<font color="#ffffff">Da hieß es, dass er am Ende</font>
-<font color="#ffffff">immer zurückzieht.</font>
+00:12:19,28 --> 00:12:22,16
+<font color="#00ff00">Wer soll das sein und wie soll es</font>
+<font color="#00ff00">            ablaufen?            </font>
 
 234
-00:13:46,56 --> 00:13:50,72
-<font color="#ffffff">Aber dann hatte angefangen,</font>
-<font color="#ffffff">wirklich Konsequenzen zu ziehen.</font>
+00:12:24,24 --> 00:12:26,72
+<font color="#00ff00">     Und wie ist das      </font>
+<font color="#00ff00">mit der Hamas-Entwaffnung?</font>
 
 235
-00:13:51,04 --> 00:13:53,88
-<font color="#ffffff">Jetzt ist er willens,</font>
-<font color="#ffffff">nicht nur zu drohen. </font>
+00:12:27,04 --> 00:12:29,60
+<font color="#00ff00">Dazu hat sich die Hamas nicht</font>
+<font color="#00ff00">          geäußert.          </font>
 
 236
-00:13:54,16 --> 00:13:57,04
-<font color="#ffffff">Er setzt jetzt seine Drohungen</font>
-<font color="#ffffff">auch durch.</font>
+00:12:29,96 --> 00:12:32,52
+<font color="#00ff00">Sie hat sich zwar bereit erklärt,</font>
+<font color="#00ff00">      die Macht abzugeben.       </font>
 
 237
-00:13:57,32 --> 00:14:00,20
-<font color="#ffffff">Diesmal kann man dadurch zum Erfolg.</font>
+00:12:32,80 --> 00:12:34,20
+<font color="#00ff00">Aber sie will weiterhin eine</font>
+<font color="#00ff00">     irgendwie geartete     </font>
 
 238
-00:14:03,28 --> 00:14:07,00
-<font color="#ffffff">Egal, was man davon hält, es</font>
-<font color="#ffffff">scheint ein Erfolgsrezept zu sein.</font>
+00:12:34,52 --> 00:12:36,08
+<font color="#00ff00">politische Rolle spielen.</font>
 
 239
-00:14:07,48 --> 00:14:10,00
-<font color="#00ffff">Was bedeutet Trumps Art,</font>
-<font color="#00ffff">Politik zu machen</font>
+00:12:38,96 --> 00:12:40,84
+<font color="#ffff00">Ab Montag soll es Gespräche in Kairo</font>
 
 240
-00:14:10,24 --> 00:14:12,20
-<font color="#00ffff">für die Zukunft der Diplomatie?</font>
+00:12:41,12 --> 00:12:43,00
+<font color="#ffff00">  zwischen Vertretern Israels und  </font>
+<font color="#ffff00">der Terrororganisation Hamas geben.</font>
 
 241
-00:14:19,20 --> 00:14:23,16
-<font color="#ffffff">Wir sehen gerade eine Abkehr</font>
-<font color="#ffffff">von der alten Diplomatie. </font>
+00:12:43,24 --> 00:12:45,16
+<font color="#ffff00">Wie blickt man in Israel</font>
+<font color="#ffff00"> auf den Friedensplan?  </font>
 
 242
-00:14:23,40 --> 00:14:26,20
-<font color="#ffffff">Von multilateralen Bündnissen etwa.</font>
+00:12:47,24 --> 00:12:49,92
+<font color="#00ff00">In Israel unterstützen viele</font>
+<font color="#00ff00">   Menschen diesen Plan.    </font>
 
 243
-00:14:28,52 --> 00:14:31,56
-<font color="#ffffff">Bei den UN hat rund klar gesprochen.</font>
+00:12:50,24 --> 00:12:52,92
+<font color="#00ff00">Dadurch sollen alle Menschen</font>
+<font color="#00ff00">        freikommen.         </font>
 
 244
-00:14:33,12 --> 00:14:37,60
-<font color="#ffffff">Er hat gesagt, er hält das Projekt</font>
-<font color="#ffffff">für wenig erfolgreich.</font>
+00:12:57,08 --> 00:13:01,44
+<font color="#00ff00">Sie hoffen auf Trump, der Druck auf</font>
+<font color="#00ff00">      Netanjahu ausüben kann.      </font>
 
 245
-00:14:38,12 --> 00:14:41,12
-<font color="#ffffff">Er reist auch nicht zum G 20-Gipfel.</font>
+00:13:06,40 --> 00:13:10,64
+<font color="#00ff00">Netanjahu habe immer wieder einen</font>
+<font color="#00ff00">     Geiseln-Deal sabotiert.     </font>
 
 246
-00:14:41,72 --> 00:14:44,72
-<font color="#ffffff">Da war bisher der US</font>
-<font color="#ffffff">Präsident immer.</font>
+00:13:11,56 --> 00:13:13,52
+<font color="#ffff00">Und jetzt zu Gudrun Engel,</font>
 
 247
-00:14:45,04 --> 00:14:47,24
-<font color="#ffffff">Das lehnt Donald Trump ab.</font>
+00:13:13,76 --> 00:13:15,84
+<font color="#ffff00">unserer Korrespondentin</font>
+<font color="#ffff00">    in Washington.     </font>
 
 248
-00:14:49,44 --> 00:14:53,36
-<font color="#ffffff">Stattdessen schmiedet er kleine,</font>
-<font color="#ffffff">eigene Bündnisse.</font>
+00:13:16,12 --> 00:13:18,24
+<font color="#ffff00">Präsident Trump hat gestern</font>
+<font color="#ffff00">eine Karte veröffentlicht, </font>
 
 249
-00:14:55,52 --> 00:14:59,72
-<font color="#ffffff">Seinen diplomatischen Stab</font>
-<font color="#ffffff">in Washington nutzt er nicht mehr.</font>
+00:13:18,52 --> 00:13:20,56
+<font color="#ffff00">      auf der der Rückzug der      </font>
+<font color="#ffff00">israelischen Armee dargestellt wird.</font>
 
 250
-00:15:00,00 --> 00:15:02,60
-<font color="#ffffff">Sondern er hat Haupt-Vermittler.</font>
+00:13:20,84 --> 00:13:22,80
+<font color="#ffff00">Wie sieht dieser Rückzug aus?</font>
 
 251
-00:15:03,52 --> 00:15:06,52
-<font color="#ffffff">Das sind ehemalige Immobilienmakler.</font>
+00:13:27,88 --> 00:13:32,36
+<font color="#00ff00">Donald Trump hat auf dieser Karte</font>
+<font color="#00ff00"> den Gazastreifen eingezeichnet  </font>
 
 252
-00:15:08,04 --> 00:15:11,08
-<font color="#ffffff">Die haben den Stil</font>
-<font color="#ffffff">von Trump ausgehandelt.</font>
+00:13:32,64 --> 00:13:33,88
+<font color="#00ff00">mit einer schwarzen,</font>
 
 253
-00:15:11,36 --> 00:15:14,00
-<font color="#ffffff">Auch das ist offenbar ein Erfolg.</font>
+00:13:37,04 --> 00:13:39,96
+<font color="#00ff00">und einer gelben Linie den Bereich,</font>
+<font color="#00ff00">     den die israelische Armee     </font>
 
 254
-00:15:15,60 --> 00:15:19,00
-<font color="#ffffff">Man sieht, welchen Eindruck er</font>
-<font color="#ffffff">auf die Diplomatie nimmt.</font>
+00:13:40,24 --> 00:13:41,08
+<font color="#00ff00">freigeben soll.</font>
 
 255
-00:15:19,32 --> 00:15:21,00
-<font color="#00ffff">Wir bleiben in den USA:</font>
+00:13:44,32 --> 00:13:47,20
+<font color="#00ff00">       Er hat einen        </font>
+<font color="#00ff00">Drei Phasen Plan ausgemalt.</font>
 
 256
-00:15:21,24 --> 00:15:23,80
-<font color="#00ffff">In New York sorgt ein Wahlkampf</font>
-<font color="#00ffff">für Aufsehen,</font>
+00:13:49,16 --> 00:13:51,64
+<font color="#00ff00">In der ersten Phase einen Rückzug,</font>
 
 257
-00:15:24,08 --> 00:15:26,28
-<font color="#00ffff">der weit</font>
-<font color="#00ffff">über die Stadt hinausreicht.</font>
+00:13:59,88 --> 00:14:03,64
+<font color="#00ff00"> in der letzten Phase sollen </font>
+<font color="#00ff00">nur noch 15 % Kontrolle sein.</font>
 
 258
-00:15:26,48 --> 00:15:30,40
-<font color="#00ffff">Er verbindet alles in sich,</font>
-<font color="#00ffff">was Donald Trump hasst:</font>
+00:14:03,88 --> 00:14:07,76
+<font color="#00ff00">Er hat diese Linie sogar mit genauen</font>
+<font color="#00ff00">      Mieterangaben versehen.      </font>
 
 259
-00:15:30,68 --> 00:15:34,08
-<font color="#00ffff">Links, muslimisch</font>
-<font color="#00ffff">und der Sohn von Einwanderern.</font>
+00:14:08,04 --> 00:14:10,64
+<font color="#00ff00">Aber er hat keinen Zeitplan</font>
+<font color="#00ff00">       dazugegeben.        </font>
 
 260
-00:15:35,12 --> 00:15:39,16
-<font color="#00ffff">Zohran Mamdani begeistert</font>
-<font color="#00ffff">junge Wählerinnen und Wähler,</font>
+00:14:10,88 --> 00:14:13,04
+<font color="#00ff00">Wir lesen aber auch immer wieder,</font>
 
 261
-00:15:39,48 --> 00:15:43,40
-<font color="#00ffff">die genug haben von Stillstand</font>
-<font color="#00ffff">und Trump - mit Erfolg.</font>
+00:14:14,20 --> 00:14:17,64
+<font color="#00ff00">dass er ziemlich ungeduldig</font>
+<font color="#00ff00">    ist mit Netanjahu.     </font>
 
 262
-00:15:43,68 --> 00:15:47,76
-<font color="#00ffff">Bei den Vorwahlen gewann Mamdani </font>
-<font color="#00ffff">gegen Ex-Gouverneur Andrew Cuomo,</font>
+00:14:20,20 --> 00:14:25,68
+<font color="#00ff00">Der hat sich durch den Luftangriff</font>
+<font color="#00ff00"> vor vier Wochen keinen Gefallen  </font>
+<font color="#00ff00">              getan.              </font>
 
 263
-00:15:48,08 --> 00:15:51,68
-<font color="#00ffff">der mal einer der mächtigsten</font>
-<font color="#00ffff">Demokraten des Landes war. </font>
+00:14:25,96 --> 00:14:28,84
+<font color="#00ff00">Da gab es enge Beziehungen</font>
+<font color="#00ff00">     zu Donald Trump.     </font>
 
 264
-00:15:52,00 --> 00:15:54,28
-<font color="#00ffff">Cuomo tritt jetzt </font>
-<font color="#00ffff">als Unabhängiger an.</font>
+00:14:33,96 --> 00:14:37,56
+<font color="#00ff00">Das steht im Moment zwischen</font>
+<font color="#00ff00">    Netanjahu und Trump.    </font>
 
 265
-00:15:54,56 --> 00:15:57,36
-<font color="#00ffff">Korrespondentin Marion Schmickler</font>
-<font color="#00ffff">zeigt:</font>
+00:14:39,88 --> 00:14:43,96
+<font color="#00ff00">Man muss jetzt gucken, auf den </font>
+<font color="#00ff00">Truump mehr Druck ausüben wird.</font>
 
 266
-00:15:57,60 --> 00:16:00,44
-<font color="#00ffff">Warum diese Bürgermeisterwahl</font>
-<font color="#00ffff">zu einem Stimmungstest</font>
+00:14:44,28 --> 00:14:46,60
+<font color="#ffff00"> Die Hamas müsse jetzt schnell  </font>
+<font color="#ffff00">handeln, hieß es aus Washington,</font>
 
 267
-00:16:00,76 --> 00:16:02,52
-<font color="#00ffff">für Amerikas Zukunft werden könnte.</font>
+00:14:46,88 --> 00:14:48,76
+<font color="#ffff00">sonst breche die Hölle</font>
+<font color="#ffff00">   über sie herein.   </font>
 
 268
-00:16:04,32 --> 00:16:07,80
-<font color="#ffffff">Klapptisch, ein paar Sticker</font>
-<font color="#ffffff">gute Laune im Gepäck.</font>
+00:14:49,00 --> 00:14:51,08
+<font color="#ffff00">Wird dieser Drohung etwas folgen?</font>
 
 269
-00:16:08,28 --> 00:16:11,72
-<font color="#ffffff">Kathleen und Ananya</font>
-<font color="#ffffff">gehören zu den Hot Girls for Zohran.</font>
+00:14:56,00 --> 00:14:59,28
+<font color="#00ff00">Heute feiert Donald Trump 250</font>
+<font color="#00ff00">       Jahre US Navy.        </font>
 
 270
-00:16:11,92 --> 00:16:15,00
-<font color="#ffffff">Eine Gruppe von jungen Frauen,</font>
-<font color="#ffffff">die nicht weniger wollen</font>
+00:14:59,60 --> 00:15:01,76
+<font color="#00ff00">Er ist auf einem Flugzeugträger.</font>
 
 271
-00:16:15,28 --> 00:16:18,00
-<font color="#ffffff">als eine Revolution</font>
-<font color="#ffffff">in der größten Stadt der USA.</font>
+00:15:02,36 --> 00:15:04,20
+<font color="#00ff00">Er hat sich dort geäußert.</font>
 
 272
-00:16:19,16 --> 00:16:22,28
-<font color="#ffff00">Das ist eine</font>
-<font color="#ffff00">echte Graswurzelbewegung.</font>
+00:15:06,20 --> 00:15:09,76
+<font color="#00ff00">Die Verhandlungen laufen</font>
+<font color="#00ff00">seiner Ansicht nach gut.</font>
 
 273
-00:16:23,00 --> 00:16:26,92
-<font color="#ffff00">Zohran hat's wie wenige andere</font>
-<font color="#ffff00">Politiker in den USA drauf, </font>
+00:15:13,60 --> 00:15:15,88
+<font color="#00ff00">  Er hat den Eindruck,   </font>
+<font color="#00ff00">man müsse dem Zeitgewinn.</font>
 
 274
-00:16:27,16 --> 00:16:30,64
-<font color="#ffff00">die Leute zu motivieren,</font>
-<font color="#ffff00">sie für Politik zu begeistern.</font>
+00:15:16,12 --> 00:15:18,36
+<font color="#00ff00">Das würde noch eine Weile dauern.</font>
 
 275
-00:16:30,88 --> 00:16:34,56
-<font color="#ffff00">In einer Zeit, in der sich</font>
-<font color="#ffff00">alles so hoffnungslos anfühlt.</font>
+00:15:19,12 --> 00:15:20,88
+<font color="#ffff00">Ab morgen werden in Ägypten</font>
 
 276
-00:16:36,68 --> 00:16:39,04
-<font color="#ffffff">Jung, laut und divers.</font>
+00:15:21,12 --> 00:15:23,52
+<font color="#ffff00">   wieder Verhandlungen   </font>
+<font color="#ffff00">mit der Hamas aufgenommen.</font>
 
 277
-00:16:40,72 --> 00:16:42,60
-<font color="#ffffff">Das Gegenprogramm zu dem,</font>
+00:15:23,76 --> 00:15:26,00
+<font color="#ffff00">        Dafür werden         </font>
+<font color="#ffff00">der US-Sondergesandte Witkoff</font>
 
 278
-00:16:42,88 --> 00:16:46,40
-<font color="#ffffff">was die beiden Frauen</font>
-<font color="#ffffff">sonst erleben in Trumps Amerika.</font>
+00:15:26,32 --> 00:15:28,00
+<font color="#ffff00">und Jared Kushner</font>
+<font color="#ffff00">  vor Ort sein.  </font>
 
 279
-00:16:47,60 --> 00:16:50,24
-<font color="#ffff00">Es ist beängstigend,</font>
-<font color="#ffff00">Zeitung zu lesen. </font>
+00:15:28,28 --> 00:15:30,96
+<font color="#ffff00">          Wie schnell          </font>
+<font color="#ffff00">ist ein Durchbruch zu erwarten?</font>
 
 280
-00:16:50,60 --> 00:16:52,20
-<font color="#ffff00">Mich zu engagieren,</font>
+00:15:36,88 --> 00:15:38,76
+<font color="#00ff00">Rubio, der Außenminister,</font>
 
 281
-00:16:52,48 --> 00:16:55,64
-<font color="#ffff00">ist die beste Medizin</font>
-<font color="#ffff00">gegen meine Angst vor der Politik.</font>
+00:15:40,20 --> 00:15:44,20
+<font color="#00ff00">    behalte morgen in allen     </font>
+<font color="#00ff00">Fernsehsendungen und hat gesagt,</font>
 
 282
-00:16:59,56 --> 00:17:02,48
-<font color="#ffffff">Vor einem Jahr noch</font>
-<font color="#ffffff">ein politischer Nobody,</font>
+00:15:44,44 --> 00:15:46,20
+<font color="#00ff00">   war heute morgen in allen    </font>
+<font color="#00ff00">Fernsehsendungen und hat gesagt,</font>
 
 283
-00:17:02,76 --> 00:17:05,64
-<font color="#ffffff">jetzt vor allem</font>
-<font color="#ffffff">für die jungen Wähler ein Superstar.</font>
+00:15:46,48 --> 00:15:48,24
+<font color="#00ff00">es wird einige Tage dauern,</font>
 
 284
-00:17:05,88 --> 00:17:08,64
-<font color="#ffffff">Seine Botschaft</font>
-<font color="#ffffff">geht viral in den sozialen Medien.</font>
+00:15:49,48 --> 00:15:52,16
+<font color="#00ff00">bis die Geiseln freigelassen werden.</font>
 
 285
-00:17:09,72 --> 00:17:11,32
-<font color="#ffff00">Alle Politiker sagen:</font>
+00:15:53,48 --> 00:15:55,48
+<font color="#00ff00">Idealerweise am 7. Oktober.</font>
 
 286
-00:17:11,56 --> 00:17:13,76
-<font color="#ffff00">New York ist</font>
-<font color="#ffff00">die tollste Stadt der Welt.</font>
+00:15:57,68 --> 00:15:59,72
+<font color="#00ff00">Es wird also noch einige Tage</font>
+<font color="#00ff00">           dauern.           </font>
 
 287
-00:17:14,00 --> 00:17:17,24
-<font color="#ffff00">Aber was bringt das, wenn es sich</font>
-<font color="#ffff00">keiner mehr leisten kann?</font>
+00:16:00,04 --> 00:16:03,16
+<font color="#00ff00">Man geht nicht von einer schnellen</font>
+<font color="#00ff00">           Lösung aus.            </font>
 
 288
-00:17:17,52 --> 00:17:20,24
-<font color="#ffff00">Die Lebenshaltungskosten -</font>
-<font color="#ffff00">das ist die wahre Krise.</font>
+00:16:05,16 --> 00:16:07,96
+<font color="#00ff00"> Aber man hat Steve Witkoff </font>
+<font color="#00ff00">und Jared Kushner geschickt,</font>
 
 289
-00:17:20,52 --> 00:17:22,84
-<font color="#ffff00">Die New Yorker</font>
-<font color="#ffff00">werden erdrückt von den Mieten</font>
+00:16:08,20 --> 00:16:11,84
+<font color="#00ff00">die bereits große Erfahrung auf</font>
+<font color="#00ff00">     diesem Gebiet haben.      </font>
 
 290
-00:17:23,12 --> 00:17:25,04
-<font color="#ffff00">und den Kosten für Kinderbetreuung.</font>
+00:16:12,48 --> 00:16:14,64
+<font color="#ffff00">Wenn es um den Nahen Osten geht,</font>
 
 291
-00:17:28,80 --> 00:17:33,08
-<font color="#ffffff">33 Jahre, geboren in Uganda,</font>
-<font color="#ffffff">indisch-amerikanische Wurzeln.</font>
+00:16:14,88 --> 00:16:17,36
+<font color="#ffff00">       spielt auch der Iran,       </font>
+<font color="#ffff00">2000 km entfernt, eine große Rolle.</font>
 
 292
-00:17:33,40 --> 00:17:36,04
-<font color="#ffffff">Charismatisch, sagen die,</font>
-<font color="#ffffff">die ihn erleben.</font>
+00:16:17,64 --> 00:16:19,24
+<font color="#ffff00">      Verwunderlich,      </font>
+<font color="#ffff00">dass das Regime in Teheran</font>
 
 293
-00:17:38,08 --> 00:17:41,64
-<font color="#ffffff">Er wäre der erste muslimische </font>
-<font color="#ffffff">und sozialistische Bürgermeister</font>
+00:16:19,48 --> 00:16:23,08
+<font color="#ffff00">im 20-Punkte-Plan von Trump</font>
+<font color="#ffff00">  gar keine Rolle spielt.  </font>
 
 294
-00:17:41,88 --> 00:17:43,08
-<font color="#ffffff">in New York.</font>
+00:16:23,40 --> 00:16:24,36
+<font color="#ffff00">Am Freitag</font>
 
 295
-00:17:45,20 --> 00:17:47,20
-<font color="#ffffff">Kathleen liebt ihre Heimatstadt,</font>
+00:16:24,60 --> 00:16:27,56
+<font color="#ffff00">drohte ein Vertreter des Regimes</font>
+<font color="#ffff00">der Islamischen Republik damit, </font>
 
 296
-00:17:47,48 --> 00:17:49,56
-<font color="#ffffff">aber die Mieten</font>
-<font color="#ffffff">machen ihr zu schaffen.</font>
+00:16:27,88 --> 00:16:30,64
+<font color="#ffff00">dass Iran die Vernichtung Israels</font>
+<font color="#ffff00">        anstreben werde.         </font>
 
 297
-00:17:49,80 --> 00:17:53,12
-<font color="#ffffff">Ein-Zimmer-Apartments</font>
-<font color="#ffffff">kosten hier oft mehr als 3000 Dollar.</font>
+00:16:30,96 --> 00:16:32,68
+<font color="#ffff00">Die typische Propaganda.</font>
 
 298
-00:17:53,36 --> 00:17:54,76
-<font color="#ffffff">Sie wohnt in einer WG.</font>
+00:16:32,96 --> 00:16:36,56
+<font color="#ffff00">Eine Propaganda, die große Teile</font>
+<font color="#ffff00">   der Zivilbevölkerung Irans   </font>
 
 299
-00:17:55,52 --> 00:17:57,44
-<font color="#ffff00">Das sind meine Sachen.</font>
+00:16:36,88 --> 00:16:39,72
+<font color="#ffff00">       verzweifelt       </font>
+<font color="#ffff00">den Kopf schütteln lässt.</font>
 
 300
-00:17:57,72 --> 00:18:01,00
-<font color="#ffffff">Nicht viel Platz für</font>
-<font color="#ffffff">knapp 2000 Dollar, die sie zahlt.</font>
+00:16:40,00 --> 00:16:41,56
+<font color="#ffff00">Das ist nicht unser Krieg,</font>
+<font color="#ffff00">        sagen sie         </font>
 
 301
-00:18:03,36 --> 00:18:07,20
-<font color="#ffff00">Ich hab 'ne Essecke im Wohnzimmer,</font>
-<font color="#ffff00">Bad und Küche teilen wir uns.</font>
+00:16:41,88 --> 00:16:44,88
+<font color="#ffff00">           und fürchten           </font>
+<font color="#ffff00">eine zweite Angriffswelle Israels.</font>
 
 302
-00:18:07,64 --> 00:18:09,72
-<font color="#ffffff">Trotzdem ist sie happy hier.</font>
+00:16:45,16 --> 00:16:46,92
+<font color="#ffff00">  Katharina Willinger  </font>
+<font color="#ffff00">hat Künstler getroffen,</font>
 
 303
-00:18:10,00 --> 00:18:12,56
-<font color="#ffffff">Ihr letzter Vermieter</font>
-<font color="#ffffff">hatte ihr nach einem Jahr</font>
+00:16:47,20 --> 00:16:51,56
+<font color="#ffff00">      die einfach nur hoffen,      </font>
+<font color="#ffff00">dass ihr Leben endlich besser wird.</font>
 
 304
-00:18:12,84 --> 00:18:15,32
-<font color="#ffffff">eine Mieterhöhung von 1000 Dollar</font>
-<font color="#ffffff">aufgebrummt.</font>
+00:16:53,56 --> 00:16:55,04
+<font color="#ffffff">Wenn Hannaneh malt,</font>
 
 305
-00:18:16,04 --> 00:18:19,64
-<font color="#ffff00">Die meisten jungen New Yorker</font>
-<font color="#ffff00">müssen kämpfen,</font>
+00:16:55,36 --> 00:16:59,96
+<font color="#ffffff">kann es sein, dass sie die Welt</font>
+<font color="#ffffff"> um sich herum kurz vergisst.  </font>
 
 306
-00:18:19,88 --> 00:18:21,76
-<font color="#ffff00">um über die Runden zu kommen.</font>
+00:17:00,28 --> 00:17:04,48
+<font color="#ffffff">Ich besuche sie und ihren Mann Nima</font>
+<font color="#ffffff">in ihrem Keller-Atelier in Teheran.</font>
 
 307
-00:18:22,04 --> 00:18:26,48
-<font color="#ffff00">Jetzt wird's noch härter</font>
-<font color="#ffff00">mit der steigenden Arbeitslosigkeit.</font>
+00:17:04,80 --> 00:17:06,40
+<font color="#ffffff">Ein wichtiger Ort für die beiden,</font>
 
 308
-00:18:27,92 --> 00:18:30,92
-<font color="#ffffff">Seit Trump habe sich</font>
-<font color="#ffffff">viel verändert, sagt sie.</font>
+00:17:06,72 --> 00:17:10,20
+<font color="#ffffff">auch während des Zwölf-Tage-Kriegs</font>
+<font color="#ffffff">       mit Israel im Juni.        </font>
 
 309
-00:18:31,24 --> 00:18:35,36
-<font color="#ffffff">Dennoch sei Mamdani einer der wenigen</font>
-<font color="#ffffff">Demokraten, der verstanden habe,</font>
+00:17:10,48 --> 00:17:13,68
+<font color="#ffffff">    Daran erinnern noch immer     </font>
+<font color="#ffffff">die Klebestreifen an den Fenstern.</font>
 
 310
-00:18:35,64 --> 00:18:39,96
-<font color="#ffffff">wie wichtig kostenlose Busse und</font>
-<font color="#ffffff">stabile Mieten für junge Leute sind.</font>
+00:17:13,92 --> 00:17:18,48
+<font color="#ffffff">    Ein Schutz, damit das Glas    </font>
+<font color="#ffffff">nicht in Tausend Teile zerspringt.</font>
 
 311
-00:18:43,20 --> 00:18:45,08
-<font color="#ffff00">Das sind keine radikalen Ideen.</font>
+00:17:20,08 --> 00:17:21,68
+<font color="#00ffff">Ich dachte sehr oft:</font>
 
 312
-00:18:45,36 --> 00:18:48,32
-<font color="#ffff00">Woanders gibt's finanzielle</font>
-<font color="#ffff00">Unterstützung für Menschen,</font>
+00:17:23,12 --> 00:17:25,60
+<font color="#00ffff">"Jetzt ist direkt neben uns</font>
+<font color="#00ffff">   etwas eingeschlagen."   </font>
 
 313
-00:18:48,56 --> 00:18:51,52
-<font color="#ffff00">die sich die Lebenshaltungskosten</font>
-<font color="#ffff00">nicht leisten können.</font>
+00:17:25,88 --> 00:17:28,72
+<font color="#00ffff">          Aber meistens          </font>
+<font color="#00ffff">waren es nur Flugabwehrgeschosse.</font>
 
 314
-00:18:51,80 --> 00:18:53,64
-<font color="#ffff00">In Amerika und in anderen Ländern.</font>
+00:17:29,00 --> 00:17:31,08
+<font color="#00ffff">         Um uns rum         </font>
+<font color="#00ffff">wurde kein Gebäude zerstört,</font>
 
 315
-00:18:53,88 --> 00:18:54,92
-<font color="#ffff00">Und es funktioniert.</font>
+00:17:31,36 --> 00:17:36,48
+<font color="#00ffff">   aber die Luftabwehr   </font>
+<font color="#00ffff">schoss alle zwei Stunden.</font>
 
 316
-00:18:55,44 --> 00:18:57,68
-<font color="#ffffff">Ein Yogastudio in Brooklyn.</font>
+00:17:37,56 --> 00:17:40,28
+<font color="#ffffff">   Fast alle ihre Freunde   </font>
+<font color="#ffffff">und der Großteil der Familie</font>
 
 317
-00:18:58,72 --> 00:19:01,08
-<font color="#ffffff">Die Hot Girls basteln für Zohran.</font>
+00:17:40,60 --> 00:17:42,28
+<font color="#ffffff">verließ damals Teheran.</font>
 
 318
-00:19:01,32 --> 00:19:04,36
-<font color="#ffffff">Kennengelernt haben sie sich</font>
-<font color="#ffffff">über die sozialen Medien. </font>
+00:17:42,52 --> 00:17:43,52
+<font color="#ffffff">Die beiden blieben,</font>
 
 319
-00:19:04,64 --> 00:19:07,48
-<font color="#ffffff">Politik ist wieder sexy,</font>
-<font color="#ffffff">Spaß als Form der Rebellion:</font>
+00:17:43,80 --> 00:17:47,08
+<font color="#ffffff">auch weil sie nicht so recht wussten,</font>
+<font color="#ffffff">          wohin eigentlich.         </font>
 
 320
-00:19:07,76 --> 00:19:09,76
-<font color="#ffffff">Gegen Trump</font>
-<font color="#ffffff">und gegen die Demokraten,</font>
+00:17:50,08 --> 00:17:52,56
+<font color="#00ffff">Einerseits haben wir gearbeitet</font>
+<font color="#00ffff">         und versucht,         </font>
 
 321
-00:19:10,00 --> 00:19:12,88
-<font color="#ffffff">die sich bis heute schwer tun,</font>
-<font color="#ffffff">Mamdani zu unterstützen.</font>
+00:17:54,32 --> 00:17:56,52
+<font color="#00ffff">uns von den lauten Geräuschen</font>
+<font color="#00ffff">     draußen abzulenken.     </font>
 
 322
-00:19:13,60 --> 00:19:15,76
-<font color="#ffff00">Viele junge Leute sind frustriert:</font>
+00:17:56,80 --> 00:17:58,68
+<font color="#00ffff">Andererseits haben wir natürlich</font>
+<font color="#00ffff">        ständig gedacht:        </font>
 
 323
-00:19:16,04 --> 00:19:18,08
-<font color="#ffff00">Dass Politiker</font>
-<font color="#ffff00">sie nicht priorisieren,</font>
+00:17:58,92 --> 00:18:02,28
+<font color="#00ffff">Was passiert da gerade?</font>
+<font color="#00ffff"> Was kommt auf uns zu? </font>
 
 324
-00:19:18,36 --> 00:19:20,40
-<font color="#ffff00">Konzerne und Milliardäre</font>
-<font color="#ffff00">unterstützen.</font>
+00:18:05,52 --> 00:18:08,60
+<font color="#ffffff">     Dass Hannaneh und Nima     </font>
+<font color="#ffffff">vor der Kamera mit mir sprechen,</font>
 
 325
-00:19:20,64 --> 00:19:23,60
-<font color="#ffff00">Darum ist Zohran für uns </font>
-<font color="#ffff00">ein Leuchtturm der Hoffnung</font>
+00:18:08,88 --> 00:18:10,72
+<font color="#ffffff">ist nicht selbstverständlich.</font>
 
 326
-00:19:23,84 --> 00:19:26,84
-<font color="#ffff00">bei all den Politikern,</font>
-<font color="#ffff00">die nicht vertrauenswürdig sind.</font>
+00:18:11,00 --> 00:18:13,32
+<font color="#ffffff">In einer Zeit voller Spannungen</font>
+<font color="#ffffff">  weiß keiner mehr so recht,   </font>
 
 327
-00:19:27,44 --> 00:19:32,08
-<font color="#ffffff">Sonntag in Harlem -</font>
-<font color="#ffffff">die Fans tanzen sich warm für Zohran.</font>
+00:18:13,60 --> 00:18:16,40
+<font color="#ffffff">    was er sagen kann,    </font>
+<font color="#ffffff">ohne Probleme zu bekommen.</font>
 
 328
-00:19:35,08 --> 00:19:37,72
-<font color="#ffffff">Es gibt Softeis gratis für alle.</font>
+00:18:16,68 --> 00:18:21,48
+<font color="#ffffff"> Umso mehr beeindrucken mich ihre  </font>
+<font color="#ffffff">klaren Worte über die Lage im Land.</font>
 
 329
-00:19:38,88 --> 00:19:42,96
-<font color="#ffffff">Hoffnung statt Hass, gute Laune</font>
-<font color="#ffffff">statt Weltuntergangsstimmung.</font>
+00:18:24,80 --> 00:18:27,36
+<font color="#00ffff">Nichts liegt hier in unserer Hand.</font>
 
 330
-00:19:44,80 --> 00:19:46,52
-<font color="#ffff00">Wir sind die Zukunft.</font>
+00:18:27,64 --> 00:18:29,88
+<font color="#00ffff">Man kann maximal versuchen,</font>
+<font color="#00ffff">den Ist-Zustand zu halten, </font>
 
 331
-00:19:46,88 --> 00:19:49,48
-<font color="#ffff00">Dass wir Zohran treffen können,</font>
-<font color="#ffff00">ist super,</font>
+00:18:30,12 --> 00:18:33,20
+<font color="#00ffff">damit es nicht noch schlimmer wird.</font>
+<font color="#00ffff">   Und dann denke ich manchmal:    </font>
 
 332
-00:19:49,68 --> 00:19:52,40
-<font color="#ffff00">denn wir wollen unsere Stimmen</font>
-<font color="#ffff00">in den Medien hören.</font>
+00:18:33,48 --> 00:18:38,12
+<font color="#00ffff"> "Ob wir einen möglichen nächsten </font>
+<font color="#00ffff">Krieg überhaupt überleben würden?"</font>
 
 333
-00:19:52,72 --> 00:19:53,72
-<font color="#ffff00">Er sorgt dafür.</font>
+00:18:38,40 --> 00:18:41,52
+<font color="#00ffff">      Auf der einen Seite      </font>
+<font color="#00ffff">trage ich noch Hoffnung in mir.</font>
 
 334
-00:19:55,16 --> 00:19:58,12
-<font color="#ffffff">In den Vorwahlen</font>
-<font color="#ffffff">war er der Überraschungssieger,</font>
+00:18:41,80 --> 00:18:45,72
+<font color="#00ffff">Aber in erster Linie werde ich immer</font>
+<font color="#00ffff">  wütender über unsere Situation.  </font>
 
 335
-00:19:58,36 --> 00:20:01,12
-<font color="#ffffff">jetzt liegt Mamdani</font>
-<font color="#ffffff">in allen Umfragen weit vorn.</font>
+00:18:46,04 --> 00:18:48,72
+<font color="#00ffff">  Man wartet nur noch,  </font>
+<font color="#00ffff">kann nichts mehr planen.</font>
 
 336
-00:20:03,00 --> 00:20:05,48
-<font color="#ffffff">Soll Trump ihn doch</font>
-<font color="#ffffff">als Kommunisten verteufeln,</font>
+00:18:49,00 --> 00:18:52,40
+<font color="#00ffff">Ich mache mir wirklich große Sorgen,</font>
+<font color="#00ffff">          auch finanziell.         </font>
 
 337
-00:20:05,80 --> 00:20:08,04
-<font color="#ffffff">hier feiern sie ihn </font>
-<font color="#ffffff">als Mann aus dem Volk.</font>
+00:18:57,56 --> 00:18:59,48
+<font color="#ffffff">Der Verkauf läuft schlecht.</font>
 
 338
-00:20:08,32 --> 00:20:10,96
-<font color="#ffffff">Auch wenn er längst klingt</font>
-<font color="#ffffff">wie ein Polit-Profi.</font>
+00:18:59,72 --> 00:19:03,28
+<font color="#ffffff">Die Menschen haben kein Geld,</font>
+<font color="#ffffff"> schon gar nicht für Kunst.  </font>
 
 339
-00:20:11,64 --> 00:20:15,48
-<font color="#ffff00">Zu lange haben wir den Leuten</font>
-<font color="#ffff00">gesagt, besucht die Freiheitsstatue.</font>
+00:19:03,52 --> 00:19:06,52
+<font color="#ffffff">       Denn der Iran steckt        </font>
+<font color="#ffffff">in einer schweren Wirtschaftskrise.</font>
 
 340
-00:20:15,80 --> 00:20:18,64
-<font color="#ffff00">Haben aber die Worte,</font>
-<font color="#ffff00">die auf ihr eingraviert sind,</font>
+00:19:06,80 --> 00:19:08,72
+<font color="#ffffff">Die Währung verliert rasant an Wert.</font>
 
 341
-00:20:18,88 --> 00:20:20,48
-<font color="#ffff00">in unserer Politik ignoriert.</font>
+00:19:09,00 --> 00:19:13,08
+<font color="#ffffff">    Vieles daran ist hausgemacht,   </font>
+<font color="#ffffff">durch Korruption oder Misswirtschaft.</font>
 
 342
-00:20:21,04 --> 00:20:22,56
-<font color="#ffffff">Am nächsten Morgen.</font>
+00:19:13,36 --> 00:19:16,00
+<font color="#ffffff">Hinzu kommen mehr als 6000</font>
+<font color="#ffffff">internationale Sanktionen </font>
 
 343
-00:20:22,80 --> 00:20:23,92
-<font color="#ffffff">Mamdani in Queens.</font>
+00:19:16,32 --> 00:19:19,08
+<font color="#ffffff">         gegen das Land,         </font>
+<font color="#ffffff">die auch die Bevölkerung treffen.</font>
 
 344
-00:20:24,24 --> 00:20:26,96
-<font color="#ffffff">Das Event wie immer</font>
-<font color="#ffffff">in letzter Minute angekündigt,</font>
+00:19:19,32 --> 00:19:22,00
+<font color="#ffffff">Vor einer Woche traten im Streit</font>
+<font color="#ffffff"> um das iranische Atomprogramm  </font>
 
 345
-00:20:27,24 --> 00:20:28,88
-<font color="#ffffff">aus Sorge um seine Sicherheit.</font>
+00:19:22,28 --> 00:19:24,64
+<font color="#ffffff">weitere Strafmaßnahmen der UN</font>
+<font color="#ffffff">          in Kraft,          </font>
 
 346
-00:20:29,20 --> 00:20:31,04
-<font color="#ffffff">Er erklärt,</font>
-<font color="#ffffff">wie viele jeder Einzelne</font>
+00:19:24,96 --> 00:19:28,00
+<font color="#ffffff">die seit Jahren ausgesetzt waren.</font>
 
 347
-00:20:31,32 --> 00:20:33,60
-<font color="#ffffff">unter ihm als Bürgermeister</font>
-<font color="#ffffff">sparen würden.</font>
+00:19:28,68 --> 00:19:31,96
+<font color="#00ff00">Zwischen Sanktionen und der Sorge</font>
+<font color="#00ff00">    vor einem weiteren Krieg.    </font>
 
 348
-00:20:33,92 --> 00:20:36,52
-<font color="#ffffff">Finanziert durch Steuerhöhungen</font>
-<font color="#ffffff">für die Reichen.</font>
+00:19:32,24 --> 00:19:34,52
+<font color="#00ff00"> So wie Hannaneh und Nima, </font>
+<font color="#00ff00">die beiden jungen Künstler,</font>
 
 349
-00:20:36,72 --> 00:20:38,44
-<font color="#ffffff">Das gefällt nicht allen.</font>
+00:19:34,80 --> 00:19:36,96
+<font color="#00ff00">leben hier viele Menschen im Iran.</font>
 
 350
-00:20:38,72 --> 00:20:41,32
-<font color="#00ff00">Verzapf den Mist</font>
-<font color="#00ff00">in deinem eigenen Land!</font>
+00:19:37,28 --> 00:19:41,36
+<font color="#00ff00">Man spürt bei ihnen eine Anspannung</font>
+<font color="#00ff00"> und Wut, die seit Jahren wächst.  </font>
 
 351
-00:20:43,64 --> 00:20:46,92
-<font color="#ffff00">Wenn man was erreichen will,</font>
-<font color="#ffff00">muss man dafür kämpfen.</font>
+00:19:41,68 --> 00:19:43,88
+<font color="#00ff00">       Ihnen gegenüber        </font>
+<font color="#00ff00">steht eine politische Führung,</font>
 
 352
-00:20:47,20 --> 00:20:50,60
-<font color="#ffff00">Stabile Mieten, gratis Busse</font>
-<font color="#ffff00">und Kinderbetreuung für alle -</font>
+00:19:44,20 --> 00:19:47,52
+<font color="#00ff00">          die trotz allem          </font>
+<font color="#00ff00">weiter an ihrer Ideologie festhält.</font>
 
 353
-00:20:50,88 --> 00:20:53,80
-<font color="#ffff00">das ist das Minimum, </font>
-<font color="#ffff00">das die Stadt verdient.</font>
+00:19:47,80 --> 00:19:50,68
+<font color="#ffffff"> Das zeigte sich diese Woche </font>
+<font color="#ffffff">auch im iranischen Parlament,</font>
 
 354
-00:20:55,56 --> 00:20:58,08
-<font color="#ffffff">Ross Barkan</font>
-<font color="#ffffff">kennt Mamdani seit Jahren.</font>
+00:19:50,96 --> 00:19:52,96
+<font color="#ffffff">das von Hardlinern dominiert wird.</font>
 
 355
-00:20:58,32 --> 00:21:00,92
-<font color="#ffffff">Die beiden haben früher</font>
-<font color="#ffffff">zusammen Politik gemacht.</font>
+00:19:53,28 --> 00:19:56,08
+<font color="#ffffff">Statt im Streit um das Atomprogramm</font>
+<font color="#ffffff">           einzulenken,            </font>
 
 356
-00:21:01,20 --> 00:21:04,32
-<font color="#ffffff">Dass selbst demokratische</font>
-<font color="#ffffff">Kongressmitglieder aus New York</font>
+00:19:56,36 --> 00:19:59,44
+<font color="#ffffff">             sehen viele            </font>
+<font color="#ffffff">das vorläufige Ende des Atomabkommens</font>
 
 357
-00:21:04,64 --> 00:21:08,12
-<font color="#ffffff">ihn nicht unterstützen, weil er </font>
-<font color="#ffffff">Israel Genozid in Gaza vorwirft:</font>
+00:19:59,72 --> 00:20:01,48
+<font color="#ffffff">als etwas Positives.</font>
 
 358
-00:21:08,40 --> 00:21:09,96
-<font color="#ffffff">Für ihn eine verpasste Chance.</font>
+00:20:01,76 --> 00:20:03,48
+<font color="#00ffff">Wir sehen es als Gelegenheit.</font>
 
 359
-00:21:11,00 --> 00:21:14,04
-<font color="#ffff00">Viele Demokraten</font>
-<font color="#ffff00">wollen kompromisslose Politiker,</font>
+00:20:05,28 --> 00:20:06,88
+<font color="#00ffff">Durch das Atom-Abkommen</font>
 
 360
-00:21:14,32 --> 00:21:17,40
-<font color="#ffff00">die klare Botschaften haben,</font>
-<font color="#ffff00">Leute inspirieren.</font>
+00:20:07,16 --> 00:20:09,04
+<font color="#00ffff">     waren uns unglaubliche     </font>
+<font color="#00ffff">Beschränkungen auferlegt worden.</font>
 
 361
-00:21:20,96 --> 00:21:23,40
-<font color="#ffff00">So hat es damals</font>
-<font color="#ffff00">Barack Obama geschafft,</font>
+00:20:09,32 --> 00:20:11,04
+<font color="#00ffff">Jetzt können wir endlich</font>
+<font color="#00ffff">   die Chance nutzen,   </font>
 
 362
-00:21:23,68 --> 00:21:26,16
-<font color="#ffff00">an die Macht zu kommen</font>
-<font color="#ffff00">und berühmt zu werden.</font>
+00:20:11,28 --> 00:20:14,40
+<font color="#00ffff">unser Atomprogramm </font>
+<font color="#00ffff">weiterzuentwickeln.</font>
 
 363
-00:21:26,40 --> 00:21:28,36
-<font color="#ffff00">Mamdani hat</font>
-<font color="#ffff00">viele seiner Fähigkeiten.</font>
+00:20:17,92 --> 00:20:21,68
+<font color="#ffffff">Aussagen, die den militärischen</font>
+<font color="#ffffff">  Konflikt befeuern dürften.   </font>
 
 364
-00:21:31,84 --> 00:21:34,08
-<font color="#ffffff">Die Hot Girls treffen die Hot Moms.</font>
+00:20:21,92 --> 00:20:23,24
+<font color="#ffffff">Immer wieder gibt es Gerüchte,</font>
 
 365
-00:21:34,40 --> 00:21:37,20
-<font color="#ffffff">Die Linke einig wie lange nicht.</font>
-<font color="#ffffff">Mamdani verbindet.</font>
+00:20:23,48 --> 00:20:27,44
+<font color="#ffffff">dass ein zweiter Angriff durch Israel</font>
+<font color="#ffffff">       und die USA bevorsteht.      </font>
 
 366
-00:21:37,48 --> 00:21:39,76
-<font color="#ffffff">Doch Kathleen weiß,</font>
-<font color="#ffffff">der Anfang wird hart.</font>
+00:20:29,40 --> 00:20:32,68
+<font color="#ffffff">Das befürchten auch</font>
+<font color="#ffffff">Nima und Hannaneh. </font>
 
 367
-00:21:40,08 --> 00:21:42,80
-<font color="#ffffff">Trump droht bereits,</font>
-<font color="#ffffff">New York Gelder zu streichen.</font>
+00:20:33,00 --> 00:20:36,96
+<font color="#ffffff"> Jeden Tag verfolgen die beiden  </font>
+<font color="#ffffff">die Nachrichten mit großer Sorge.</font>
 
 368
-00:21:43,60 --> 00:21:46,32
-<font color="#ffff00">Wir fühlen uns schon</font>
-<font color="#ffff00">von Trump bedroht.</font>
+00:20:40,60 --> 00:20:42,96
+<font color="#00ffff">Das alles macht mich so nervös.</font>
 
 369
-00:21:46,56 --> 00:21:49,24
-<font color="#ffff00">Darum ist Zohran</font>
-<font color="#ffff00">so wichtig für unser Stadt.</font>
+00:20:43,24 --> 00:20:48,44
+<font color="#00ffff">    Ich muss viel Energie am Tag   </font>
+<font color="#00ffff">darauf verwenden, mich zu beruhigen.</font>
 
 370
-00:21:49,52 --> 00:21:53,20
-<font color="#ffff00">Dann haben wir jemanden hinter uns,</font>
-<font color="#ffff00">der zurückschlägt gegen Trump.</font>
+00:20:48,68 --> 00:20:49,96
+<font color="#ffffff">Ein Ventil neben der Malerei</font>
 
 371
-00:21:54,24 --> 00:21:58,40
-<font color="#ffffff">Selten wurde über eine</font>
-<font color="#ffffff">Bürgermeisterwahl so viel diskutiert.</font>
+00:20:50,24 --> 00:20:54,60
+<font color="#ffffff">ist für sie seit etwa einem Jahr</font>
+<font color="#ffffff">       Trompete spielen.        </font>
 
 372
-00:21:58,92 --> 00:22:02,00
-<font color="#ffffff">Kathleen hofft,</font>
-<font color="#ffffff">dass sie bei den Demokraten</font>
+00:20:55,32 --> 00:20:58,68
+<font color="#ffffff">  Kurz ist das Paar dann  </font>
+<font color="#ffffff">mit den Gedanken woanders,</font>
 
 373
-00:22:02,28 --> 00:22:05,60
-<font color="#ffffff">einen Richtungswechsel einläutet -</font>
-<font color="#ffffff">nach links.</font>
+00:20:58,92 --> 00:21:01,52
+<font color="#ffffff">ehe die Realität sie wieder einholt.</font>
 
 374
-00:22:05,88 --> 00:22:08,96
-<font color="#ffffff">Ihre Freunde überall im Land </font>
-<font color="#ffffff">seien neidisch auf New York -</font>
+00:21:01,80 --> 00:21:06,04
+<font color="#00ffff">Ich bin wütend, weil ich denke,</font>
+<font color="#00ffff">   dass Schritt für Schritt    </font>
 
 375
-00:22:09,24 --> 00:22:11,84
-<font color="#ffffff">auch sie wünschten sich</font>
-<font color="#ffffff">einen Zohran in ihrer Stadt.</font>
+00:21:06,32 --> 00:21:09,00
+<font color="#00ffff">falsche Entscheidungen</font>
+<font color="#00ffff">  getroffen werden.   </font>
 
 376
-00:22:13,96 --> 00:22:18,32
-<font color="#00ffff">Mitte September marschierten</font>
-<font color="#00ffff">in London Hunderttausende - </font>
+00:21:09,28 --> 00:21:11,44
+<font color="#00ffff">             Es wirkt,             </font>
+<font color="#00ffff">als gäbe es einen festgelegten Pfad,</font>
 
 377
-00:22:18,72 --> 00:22:22,44
-<font color="#00ffff">aufgerufen vom rechtsextremen</font>
-<font color="#00ffff">Aktivisten Tommy Robinson. </font>
+00:21:11,76 --> 00:21:13,44
+<font color="#00ffff">       auf dem wir       </font>
+<font color="#00ffff">mit Höchstgeschwindigkeit</font>
 
 378
-00:22:23,24 --> 00:22:26,80
-<font color="#00ffff">Ein Protest, dessen Größe </font>
-<font color="#00ffff">viele Briten überrascht hat.</font>
+00:21:13,72 --> 00:21:18,68
+<font color="#00ffff">    auf einen Abgrund zufahren,    </font>
+<font color="#00ffff">in den wir nicht reinfahren wollen.</font>
 
 379
-00:22:27,12 --> 00:22:31,08
-<font color="#00ffff">Und der zeigt, wie stark</font>
-<font color="#00ffff">rechte und rechtsextreme Gruppen</font>
+00:21:23,96 --> 00:21:27,24
+<font color="#ffffff">Ein Abgrund, den die Regime-Treuen</font>
+<font color="#ffffff">       im Land kleinreden.        </font>
 
 380
-00:22:31,36 --> 00:22:33,20
-<font color="#00ffff">im Land mobilisieren können.</font>
+00:21:27,52 --> 00:21:30,00
+<font color="#ffffff">        Vor wenigen Tagen         </font>
+<font color="#ffffff">demonstrieren Anhänger der Führung</font>
 
 381
-00:22:33,68 --> 00:22:37,40
-<font color="#00ffff">In den Umfragen liegt</font>
-<font color="#00ffff">der Rechtspopulist Nigel Farage</font>
+00:21:30,28 --> 00:21:31,96
+<font color="#ffffff">im Zentrum von Teheran.</font>
 
 382
-00:22:37,68 --> 00:22:39,72
-<font color="#00ffff">mit seiner Reform-Partei vorne.</font>
+00:21:32,20 --> 00:21:33,88
+<font color="#ffffff">Anlass ist der erste Todestag</font>
 
 383
-00:22:39,92 --> 00:22:44,36
-<font color="#00ffff">Und jetzt ziehen auf der Straße jene</font>
-<font color="#00ffff">los, die noch weiter rechts stehen.</font>
+00:21:34,16 --> 00:21:37,96
+<font color="#ffffff">     des von Israel getöteten      </font>
+<font color="#ffffff">Hisbollah-Führers Hassan Nasrallah.</font>
 
 384
-00:22:44,64 --> 00:22:47,04
-<font color="#00ffff">Mareike Aden über ein Land,</font>
-<font color="#00ffff">das sich fragt,</font>
+00:21:38,20 --> 00:21:41,36
+<font color="#ffffff">Hier wird gegen den Westen</font>
+<font color="#ffffff">       ausgeteilt.        </font>
 
 385
-00:22:47,28 --> 00:22:49,20
-<font color="#00ffff">wie weit es nach rechts gerückt ist.</font>
+00:21:41,60 --> 00:21:43,04
+<font color="#00ffff">Sie sollen wissen:</font>
 
 386
-00:22:53,56 --> 00:22:57,48
-<font color="#ffffff">"Wem gehören diese Straßen? Uns!",</font>
-<font color="#ffffff">rufen sie.</font>
+00:21:44,60 --> 00:21:47,16
+<font color="#00ffff">Die Islamische Republik Iran</font>
+<font color="#00ffff">      ist zu mächtig,       </font>
 
 387
-00:22:57,84 --> 00:23:00,08
-<font color="#ffffff">Im nordenglischen Newcastle</font>
+00:21:47,40 --> 00:21:50,48
+<font color="#00ffff">um von irgendjemandem</font>
+<font color="#00ffff"> bedroht zu werden.  </font>
 
 388
-00:23:00,36 --> 00:23:03,28
-<font color="#ffffff">hat die Rechtsaußen-Partei UKIP</font>
-<font color="#ffffff">zum Protest aufgerufen.</font>
+00:21:51,40 --> 00:21:55,68
+<font color="#ffffff">  Worte, auf die hier  </font>
+<font color="#ffffff">große Zustimmung folgt.</font>
 
 389
-00:23:03,52 --> 00:23:06,00
-<font color="#ffffff">Sie fordern "Massendeportationen".</font>
+00:21:56,00 --> 00:21:59,08
+<font color="#ffffff">   Und die bei ihnen    </font>
+<font color="#ffffff">noch mehr Angst schüren.</font>
 
 390
-00:23:07,88 --> 00:23:11,04
-<font color="#ffffff">Premier Keir Starmer sei ein Bastard,</font>
-<font color="#ffffff">ein Verräter.</font>
+00:21:59,36 --> 00:22:01,76
+<font color="#ffffff">     Hannaneh und Nima     </font>
+<font color="#ffffff">sind auf einer Ausstellung.</font>
 
 391
-00:23:12,16 --> 00:23:16,08
-<font color="#ffffff">Im Kampf gegen eine schwache</font>
-<font color="#ffffff">Regierung fühlen sie sich im Aufwind.</font>
+00:22:02,08 --> 00:22:03,60
+<font color="#ffffff">   Junge Iraner    </font>
+<font color="#ffffff">versuchen sich hier</font>
 
 392
-00:23:20,28 --> 00:23:24,00
-<font color="#ffff00">Niemand stimmte für unkontrollierte</font>
-<font color="#ffff00">illegale Masseneinwanderung.</font>
+00:22:03,84 --> 00:22:06,20
+<font color="#ffffff">ein kleines Stück Freiheit</font>
+<font color="#ffffff">       zu schaffen.       </font>
 
 393
-00:23:24,32 --> 00:23:27,44
-<font color="#ffff00">Das ist eine islamische Invasion</font>
-<font color="#ffff00">über den Ärmelkanal.</font>
+00:22:06,44 --> 00:22:07,68
+<font color="#ffffff">Zu dieser Freiheit gehört auch,</font>
 
 394
-00:23:27,72 --> 00:23:31,24
-<font color="#ffff00">95 Prozent in den Booten</font>
-<font color="#ffff00">sind Männer im kampffähigen Alter.</font>
+00:22:07,92 --> 00:22:10,48
+<font color="#ffffff">dass die meisten Besucherinnen</font>
+<font color="#ffffff">    kein Kopftuch tragen.     </font>
 
 395
-00:23:31,52 --> 00:23:34,84
-<font color="#ffff00">Das islamische Kalifat</font>
-<font color="#ffff00">will unser Land übernehmen.</font>
+00:22:10,76 --> 00:22:12,80
+<font color="#ffffff">Etwas, das nach wie vor verboten ist,</font>
 
 396
-00:23:35,68 --> 00:23:37,16
-<font color="#ffffff">Auch sie laufen mit.</font>
+00:22:13,08 --> 00:22:15,84
+<font color="#ffffff">doch von immer mehr Frauen</font>
+<font color="#ffffff">     ignoriert wird.      </font>
 
 397
-00:23:37,48 --> 00:23:40,84
-<font color="#ffffff">Sie nennen sich die Pink Ladies,</font>
-<font color="#ffffff">haben Ableger im ganzen Land. </font>
+00:22:16,12 --> 00:22:20,40
+<font color="#ffffff"> Viele der Werke sind ein stiller  </font>
+<font color="#ffffff">Protest gegen die Zustände im Land.</font>
 
 398
-00:23:41,44 --> 00:23:44,32
-<font color="#ffffff">Der Ursprung</font>
-<font color="#ffffff">liegt in der Kleinstadt Epping.</font>
+00:22:20,68 --> 00:22:25,80
+<font color="#ffffff">Alles eine Gratwanderung,</font>
+<font color="#ffffff"> erzählt Malerin Tooloo. </font>
 
 399
-00:23:44,60 --> 00:23:46,80
-<font color="#ffffff">Dort hatte</font>
-<font color="#ffffff">ein Asylsuchender im Sommer</font>
+00:22:26,00 --> 00:22:28,48
+<font color="#00ffff">Die Stärke von Kunst ist ja gerade,</font>
 
 400
-00:23:47,04 --> 00:23:49,92
-<font color="#ffffff">eine 14-Jährige sexuell belästigt</font>
-<font color="#ffffff">und wurde verurteilt.</font>
+00:22:30,28 --> 00:22:33,44
+<font color="#00ffff">dass man etwas ausdrücken kann,</font>
+<font color="#00ffff"> ohne es direkt anzusprechen,  </font>
 
 401
-00:23:50,24 --> 00:23:52,40
-<font color="#ffffff">Der Fall sorgte</font>
-<font color="#ffffff">landesweit für Aufruhr.</font>
+00:22:33,76 --> 00:22:38,24
+<font color="#00ffff">und die Menschen trotzdem</font>
+<font color="#00ffff">   den Kern erfassen.    </font>
 
 402
-00:23:52,68 --> 00:23:55,84
-<font color="#ffffff">Und mobilisierte gegen</font>
-<font color="#ffffff">die irregulären Bootsüberquerungen</font>
+00:22:39,80 --> 00:22:41,76
+<font color="#ffffff">Bleibt die Frage nach der Zukunft.</font>
 
 403
-00:23:56,12 --> 00:23:57,40
-<font color="#ffffff">über den Ärmelkanal.</font>
+00:22:42,00 --> 00:22:45,60
+<font color="#ffffff">Nima sprach von einem Abgrund,</font>
+<font color="#ffffff"> auf den sein Land zusteuert. </font>
 
 404
-00:23:58,40 --> 00:24:02,32
-<font color="#ffff00">Unsere Regierung weiß nicht, wen sie</font>
-<font color="#ffff00">reinlassen, das sind Tausende.</font>
+00:22:45,88 --> 00:22:49,40
+<font color="#ffffff">        Vorher aussteigen,        </font>
+<font color="#ffffff">etwa indem sie das Land verlassen,</font>
 
 405
-00:24:02,60 --> 00:24:05,76
-<font color="#ffff00">Vielleicht sind sie Terroristen.</font>
-<font color="#ffff00">Die Kriminalität steigt.</font>
+00:22:49,68 --> 00:22:52,56
+<font color="#ffffff">wollen er und seine Frau aber nicht.</font>
 
 406
-00:24:06,04 --> 00:24:08,04
-<font color="#ffff00">Das ist nicht mehr unser Land.</font>
+00:22:52,84 --> 00:22:56,72
+<font color="#00ffff">Das liegt nicht unbedingt daran,</font>
+<font color="#00ffff">dass wir so viel Hoffnung haben,</font>
 
 407
-00:24:08,92 --> 00:24:13,88
-<font color="#00ff00">Unsere Straßen sind nicht sicher,</font>
-<font color="#00ff00">es gibt Vergewaltigungen, Raub.</font>
+00:22:56,96 --> 00:23:01,68
+<font color="#00ffff">       sondern eher daran,        </font>
+<font color="#00ffff">dass wir versuchen weiterzumachen.</font>
 
 408
-00:24:16,56 --> 00:24:20,56
-<font color="#ffffff">Aussagen, die landesweit</font>
-<font color="#ffffff">auf rechten Protesten zu hören sind.</font>
+00:23:02,00 --> 00:23:05,84
+<font color="#00ffff">Aufgeben wäre für mich unerträglich.</font>
 
 409
-00:24:21,08 --> 00:24:24,64
-<font color="#ffffff">Joyce und ihre Nachbarinnen</font>
-<font color="#ffffff">sind seit zwei Monaten dabei.</font>
+00:23:08,92 --> 00:23:12,68
+<font color="#ffffff">        Jeder finde irgendwie       </font>
+<font color="#ffffff">einen Weg für sich, sagen die beiden.</font>
 
 410
-00:24:25,72 --> 00:24:29,04
-<font color="#ffffff">Mehrere Pink Ladies</font>
-<font color="#ffffff">reisen Mitte September nach London,</font>
+00:23:12,92 --> 00:23:15,60
+<font color="#ffffff">  Auch wenn aktuell   </font>
+<font color="#ffffff">vieles düster aussehe.</font>
 
 411
-00:24:29,36 --> 00:24:33,00
-<font color="#ffffff">als der rechtsextreme Aktivist</font>
-<font color="#ffffff">Tommy Robinson zum Protest aufruft.</font>
+00:23:18,60 --> 00:23:20,80
+<font color="#ffff00">Und jetzt nach Europa:</font>
 
 412
-00:24:33,80 --> 00:24:35,84
-<font color="#ffffff">Und Hunderttausende folgen.</font>
+00:23:21,12 --> 00:23:26,36
+<font color="#ffff00">Stabilität, ein Zustand, nach dem</font>
+<font color="#ffff00"> sich in Deutschland, in Europa  </font>
 
 413
-00:24:36,52 --> 00:24:38,56
-<font color="#ffffff">Stolz zeigen sie ihre Fotos.</font>
+00:23:26,60 --> 00:23:28,84
+<font color="#ffff00">Millionen Menschen sehnen.</font>
 
 414
-00:24:38,84 --> 00:24:41,84
-<font color="#ffffff">Seine Anhänger</font>
-<font color="#ffffff">sehen Robinson als Volkshelden.</font>
+00:23:29,12 --> 00:23:31,28
+<font color="#ffff00">          Auch nach           </font>
+<font color="#ffff00">Politikerinnen und Politikern,</font>
 
 415
-00:24:42,56 --> 00:24:45,60
-<font color="#ffffff">Der ehemalige Hooligan</font>
-<font color="#ffffff">ist mittlerweile eng vernetzt</font>
+00:23:31,52 --> 00:23:33,48
+<font color="#ffff00">die diese signalisieren.</font>
 
 416
-00:24:45,84 --> 00:24:47,60
-<font color="#ffffff">mit der internationalen Rechten.</font>
+00:23:33,72 --> 00:23:34,80
+<font color="#ffff00">Als Giorgia Meloni</font>
 
 417
-00:24:48,20 --> 00:24:51,04
-<font color="#ffff00">Tommy sagt vieles, was richtig ist.</font>
+00:23:35,12 --> 00:23:39,28
+<font color="#ffff00">     vor drei Jahren in Italien    </font>
+<font color="#ffff00">zur Premierministerin gewählt wurde,</font>
 
 418
-00:24:51,96 --> 00:24:55,00
-<font color="#ffff00">Man ist doch nicht</font>
-<font color="#ffff00">mit allem einverstanden,</font>
+00:23:39,52 --> 00:23:42,20
+<font color="#ffff00">herrschte Gewitterstimmung</font>
+<font color="#ffff00">        in Europa.        </font>
 
 419
-00:24:55,24 --> 00:24:57,96
-<font color="#ffff00">was eine Partei, Politiker</font>
-<font color="#ffff00">oder Abgeordnete sagen. </font>
+00:23:42,40 --> 00:23:46,44
+<font color="#ffff00">   Eine Rechte führt eine der    </font>
+<font color="#ffff00">wichtigsten Republiken der EU an?</font>
 
 420
-00:24:58,24 --> 00:25:00,32
-<font color="#ffff00">Tommy spricht die Wahrheit aus.</font>
+00:23:46,76 --> 00:23:49,72
+<font color="#ffff00">Doch genau diese rechte Politikerin</font>
+<font color="#ffff00">         hat es geschafft,         </font>
 
 421
-00:25:02,60 --> 00:25:03,92
-<font color="#ffffff">Ihr Ziel heute:</font>
+00:23:50,00 --> 00:23:51,40
+<font color="#ffff00">für Stabilität zu sorgen.</font>
 
 422
-00:25:04,20 --> 00:25:07,56
-<font color="#ffffff">Ein Hotel, in dem Asylsuchende</font>
-<font color="#ffffff">untergebracht sind -</font>
+00:23:51,68 --> 00:23:53,80
+<font color="#ffff00">Nur drei von 68 Regierungen</font>
 
 423
-00:25:07,84 --> 00:25:11,28
-<font color="#ffffff">und vor dem die Pink Ladies </font>
-<font color="#ffffff">jeden Samstag demonstrieren.</font>
+00:23:54,12 --> 00:23:56,44
+<font color="#ffff00">      seit Gründung       </font>
+<font color="#ffff00">der Italienischen Republik</font>
 
 424
-00:25:11,68 --> 00:25:14,48
-<font color="#ffffff">Die Frauen betonen,</font>
-<font color="#ffffff">sie seien nicht rechtsaußen.</font>
+00:23:56,68 --> 00:23:58,96
+<font color="#ffff00">schafften es über drei Jahre.</font>
 
 425
-00:25:14,80 --> 00:25:17,64
-<font color="#ffffff">Sie sehen sich als</font>
-<font color="#ffffff">besorgte Mütter und Großmütter.</font>
+00:23:59,20 --> 00:24:01,24
+<font color="#ffff00"> Tilmann Kleinjung </font>
+<font color="#ffff00">und Verena Schälter</font>
 
 426
-00:25:19,04 --> 00:25:20,52
-<font color="#ffffff">Was ist rechtsaußen?</font>
+00:24:01,52 --> 00:24:04,64
+<font color="#ffff00">   haben die sanfte Radikale    </font>
+<font color="#ffff00">für den WELTSPIEGEL porträtiert.</font>
 
 427
-00:25:20,76 --> 00:25:23,12
-<font color="#ffffff">Wann wird Patriotismus</font>
-<font color="#ffffff">zu Ausgrenzung?</font>
+00:24:06,44 --> 00:24:10,60
+<font color="#ffffff">     1996 im römischen     </font>
+<font color="#ffffff">Arbeiterviertel Garbatella.</font>
 
 428
-00:25:24,96 --> 00:25:28,36
-<font color="#ffffff">Über solche Fragen</font>
-<font color="#ffffff">streitet Großbritannien seit Monaten.</font>
+00:24:10,88 --> 00:24:14,08
+<font color="#ffffff">  Diese jungen Aktivisten   </font>
+<font color="#ffffff">stecken mitten im Wahlkampf.</font>
 
 429
-00:25:28,68 --> 00:25:31,16
-<font color="#ffffff">Landesweit</font>
-<font color="#ffffff">hängen Menschen Flaggen auf.</font>
+00:24:14,36 --> 00:24:17,44
+<font color="#ffffff">Das französische Fernsehen</font>
+<font color="#ffffff">   begleitet sie dabei.   </font>
 
 430
-00:25:31,52 --> 00:25:34,40
-<font color="#ffffff">Für das Gemeinschaftsgefühl,</font>
-<font color="#ffffff">sagen Befürworter.</font>
+00:24:17,72 --> 00:24:19,44
+<font color="#ffffff">Was damals niemand ahnt:</font>
 
 431
-00:25:34,68 --> 00:25:38,36
-<font color="#ffffff">Nicht wenige senden mit ihnen </font>
-<font color="#ffffff">auch Zeichen gegen Einwanderung.</font>
+00:24:19,68 --> 00:24:23,00
+<font color="#ffffff"> Eine von ihnen wird einmal  </font>
+<font color="#ffffff">die mächtigste Frau Italiens.</font>
 
 432
-00:25:39,28 --> 00:25:43,32
-<font color="#ffffff">In diesem Außenbezirk von Newcastle</font>
-<font color="#ffffff">sei das Leben noch härter geworden,</font>
+00:24:23,28 --> 00:24:25,56
+<font color="#ffffff">Giorgia Meloni, damals 19 Jahre,</font>
 
 433
-00:25:43,56 --> 00:25:44,52
-<font color="#ffffff">erzählen sie.</font>
+00:24:25,80 --> 00:24:29,36
+<font color="#ffffff">      leitet die Jugendsektion      </font>
+<font color="#ffffff">der rechten Partei Alleanza Nazionale</font>
 
 434
-00:25:44,80 --> 00:25:47,88
-<font color="#ffffff">Viele glauben, dass</font>
-<font color="#ffffff">die Migranten daran Mitschuld tragen.</font>
+00:24:29,68 --> 00:24:31,60
+<font color="#ffffff">im eher linken Garbatella.</font>
 
 435
-00:25:48,28 --> 00:25:52,32
-<font color="#ffff00">Die Menschen in den Booten erwarten,</font>
-<font color="#ffff00"> dass sie alles kostenlos bekommen.</font>
+00:24:31,88 --> 00:24:34,68
+<font color="#ffffff">       40 Mitglieder        </font>
+<font color="#ffffff">stehen unter ihrem Kommando.</font>
 
 436
-00:25:52,64 --> 00:25:55,12
-<font color="#ffff00">Ich wurde hier geboren </font>
-<font color="#ffff00">und muss hart arbeiten,</font>
+00:24:34,96 --> 00:24:36,56
+<font color="#ffffff">Fast alle sind Jungs.</font>
 
 437
-00:25:55,44 --> 00:25:58,16
-<font color="#ffff00">damit meine Kinder und ich</font>
-<font color="#ffff00">über die Runden kommen. </font>
+00:24:36,80 --> 00:24:40,60
+<font color="#ffffff"> Meloni und ihre Mitstreiter </font>
+<font color="#ffffff">sehen sich hier als Rebellen.</font>
 
 438
-00:25:58,68 --> 00:26:00,56
-<font color="#ffffff">Das gemeinsame Flaggenaufhängen</font>
+00:24:40,84 --> 00:24:42,08
+<font color="#ffffff">"Ich gegen die anderen."</font>
 
 439
-00:26:00,88 --> 00:26:03,68
-<font color="#ffffff">sei ein schöner Moment</font>
-<font color="#ffffff">für die Nachbarschaft gewesen.</font>
+00:24:42,32 --> 00:24:45,56
+<font color="#ffffff">Dieses Kapitel soll ein wichtiger</font>
+<font color="#ffffff"> Teil ihrer Erfolgsstory werden, </font>
 
 440
-00:26:04,12 --> 00:26:07,76
-<font color="#ffff00">Ich bin auf dem Weg zur Arbeit</font>
-<font color="#ffff00">daran vorbeigekommen und dachte:</font>
+00:24:45,80 --> 00:24:49,76
+<font color="#ffffff">       meint Susanna Turco,       </font>
+<font color="#ffffff">Journalistin und Meloni-Biografin.</font>
 
 441
-00:26:08,04 --> 00:26:09,96
-<font color="#ffff00">Wow.</font>
-<font color="#ffff00">So was hab ich noch nie gesehen.</font>
+00:24:50,04 --> 00:24:53,32
+<font color="#00ffff">Was gibt es für eine bessere</font>
+<font color="#00ffff">   Geschichte als diese?    </font>
 
 442
-00:26:10,24 --> 00:26:11,48
-<font color="#ffff00">Ich finde das schön.</font>
+00:24:54,60 --> 00:24:57,40
+<font color="#00ffff">Von jemandem, der es von unten</font>
+<font color="#00ffff">  bis an die Spitze schafft,  </font>
 
 443
-00:26:11,68 --> 00:26:14,40
-<font color="#ffff00">Hoffentlich</font>
-<font color="#ffff00">werden sie nicht abgenommen.</font>
+00:24:57,68 --> 00:24:59,48
+<font color="#00ffff">umgeben von Feinden.</font>
 
 444
-00:26:15,28 --> 00:26:19,68
-<font color="#ffffff">Flaggen - auch 150 Kilometer</font>
-<font color="#ffffff">weiter südlich in der Stadt York.</font>
+00:24:59,80 --> 00:25:01,00
+<font color="#ffffff">Im Parteibüro:</font>
 
 445
-00:26:21,92 --> 00:26:24,76
-<font color="#ffffff">Der Studentin Isabella Langdon</font>
-<font color="#ffffff">und ihren Freunden</font>
+00:25:01,28 --> 00:25:03,04
+<font color="#ffffff">Ein Plakat des faschistischen</font>
+<font color="#ffffff"> Diktators Benito Mussolini. </font>
 
 446
-00:26:25,04 --> 00:26:26,36
-<font color="#ffffff">sind sie ein Dorn im Auge.</font>
+00:25:03,36 --> 00:25:09,48
+<font color="#ffffff">Die Flamme im Logo als Symbol für das</font>
+<font color="#ffffff">ewige Feuer auf dem Grab Mussolinis.</font>
 
 447
-00:26:26,56 --> 00:26:27,68
-<font color="#ffffff">Seit einigen Monaten</font>
+00:25:09,76 --> 00:25:13,92
+<font color="#ffffff">Damals, 1996, machen Meloni</font>
+<font color="#ffffff">   und ihre Mitstreiter    </font>
 
 448
-00:26:27,92 --> 00:26:31,64
-<font color="#ffffff">erkennen sie ihre international</font>
-<font color="#ffffff">geprägte Studentenstadt kaum wieder.</font>
+00:25:14,24 --> 00:25:17,36
+<font color="#ffffff">aus ihren politischen Vorbildern</font>
+<font color="#ffffff">          keinen Hehl.          </font>
 
 449
-00:26:34,32 --> 00:26:35,84
-<font color="#ffff00">Unser chinesischer Imbiss</font>
+00:25:17,60 --> 00:25:21,32
+<font color="#00ffff">Ich glaube, dass Mussolini</font>
+<font color="#00ffff"> ein guter Politiker war. </font>
 
 450
-00:26:36,16 --> 00:26:38,76
-<font color="#ffff00">wurde mit einem rassistischen</font>
-<font color="#ffff00">Graffiti besprüht.</font>
+00:25:23,20 --> 00:25:26,48
+<font color="#00ffff">Alles, was er getan hat, </font>
+<font color="#00ffff">hat er für Italien getan.</font>
 
 451
-00:26:39,00 --> 00:26:41,44
-<font color="#ffff00">Eine türkische Frau</font>
-<font color="#ffff00">wurde mit etwas beworfen.</font>
+00:25:26,80 --> 00:25:29,04
+<font color="#00ffff">So etwas findet man nicht</font>
+<font color="#00ffff">   bei den Politikern,   </font>
 
 452
-00:26:41,68 --> 00:26:43,88
-<font color="#ffff00">Ein Student aus Hongkong</font>
-<font color="#ffff00">wurde verprügelt,</font>
+00:25:29,32 --> 00:25:33,20
+<font color="#00ffff">die wir in den letzten 50 Jahren</font>
+<font color="#00ffff">         gehabt haben.          </font>
 
 453
-00:26:44,16 --> 00:26:46,52
-<font color="#ffff00">er solle nach Hause gehen -</font>
-<font color="#ffff00">zwei blaue Augen.</font>
+00:25:33,44 --> 00:25:36,04
+<font color="#ffffff">Was fasziniert eine junge Frau</font>
+<font color="#ffffff">       an einer Partei,       </font>
 
 454
-00:26:46,76 --> 00:26:49,44
-<font color="#ffffff">Die Studenten antworten</font>
-<font color="#ffffff">mit ihrer Flaggen-Aktion,</font>
+00:25:36,28 --> 00:25:38,20
+<font color="#ffffff">die immer noch Mussolini verehrt?</font>
 
 455
-00:26:49,72 --> 00:26:51,16
-<font color="#ffffff">finanziert durch Spenden.</font>
+00:25:38,48 --> 00:25:42,20
+<font color="#00ffff">Genau darin liegt der Schlüssel:</font>
+<font color="#00ffff">  Es geht um das Dagegensein,   </font>
 
 456
-00:26:51,44 --> 00:26:54,68
-<font color="#ffffff">Dutzende Geschäfte und Lokale</font>
-<font color="#ffffff">in der Innenstadt von York </font>
+00:25:42,48 --> 00:25:47,64
+<font color="#00ffff">nicht das Selbstverständliche,</font>
+<font color="#00ffff">   sondern das Unerwartete.   </font>
 
 457
-00:26:54,92 --> 00:26:57,68
-<font color="#ffffff">haben ihre internationalen Flaggen</font>
-<font color="#ffffff">schon aufgehängt.</font>
+00:25:49,00 --> 00:25:53,96
+<font color="#ffffff">Dagegen sein, das Erfolgsrezept</font>
+<font color="#ffffff">   für eine steile Karriere.   </font>
 
 458
-00:26:58,68 --> 00:27:03,08
-<font color="#ffff00">Sie sollen eine Atmosphäre schaffen,</font>
-<font color="#ffff00">in der alle sich willkommen fühlen.</font>
+00:25:54,24 --> 00:25:59,88
+<font color="#ffffff">  2008 macht Silvio Berlusconi  </font>
+<font color="#ffffff">Meloni zur Ministerin für Jugend</font>
 
 459
-00:27:03,40 --> 00:27:04,92
-<font color="#ffff00">Sie sind auch ein Signal:</font>
+00:26:00,16 --> 00:26:05,08
+<font color="#ffffff">und wird damit ihr erster Lehrmeister</font>
+<font color="#ffffff">für Populismus und Selbstdarstellung.</font>
 
 460
-00:27:05,16 --> 00:27:09,36
-<font color="#ffff00">Wenn wieder jemand belästigt wird,</font>
-<font color="#ffff00">gibt's hier Zuflucht und Hilfe. </font>
+00:26:08,68 --> 00:26:11,08
+<font color="#00ffff">Was für ein Händedruck.</font>
 
 461
-00:27:11,12 --> 00:27:14,68
-<font color="#ffffff">Anderes geschieht im Dunkeln,</font>
-<font color="#ffffff">vermummt durch Kapuze.</font>
+00:26:11,36 --> 00:26:14,76
+<font color="#ffffff">Meloni ist immer die Jüngste, </font>
+<font color="#ffffff">immer eine Frau unter Männern.</font>
 
 462
-00:27:16,56 --> 00:27:20,28
-<font color="#ffffff">Eine Kamera filmt einen Unbekannten,</font>
-<font color="#ffffff">als er eine britische Flagge</font>
+00:26:15,00 --> 00:26:18,00
+<font color="#ffffff">Ein politisches Leichtgewicht?</font>
 
 463
-00:27:20,52 --> 00:27:23,12
-<font color="#ffffff">ans Geländer</font>
-<font color="#ffffff">eines islamischen Zentrums knotet.</font>
+00:26:18,28 --> 00:26:22,44
+<font color="#00ffff"> Wenn du eine Frau bist,  </font>
+<font color="#00ffff">wirst du oft unterschätzt,</font>
 
 464
-00:27:24,80 --> 00:27:27,92
-<font color="#ffffff">Ibrahim Syed arbeitet hier.</font>
-<font color="#ffffff">Ihm macht all das Angst. </font>
+00:26:22,68 --> 00:26:25,36
+<font color="#00ffff">aber das kann dir helfen.</font>
 
 465
-00:27:31,96 --> 00:27:35,76
-<font color="#ffff00">Meine Kinder sind die vierte</font>
-<font color="#ffff00">Generation unserer Familie</font>
+00:26:26,44 --> 00:26:28,28
+<font color="#ffffff"> Nach ihrer Amtszeit </font>
+<font color="#ffffff">als Jugendministerin,</font>
 
 466
-00:27:36,00 --> 00:27:37,24
-<font color="#ffff00">in Großbritannien.</font>
+00:26:28,52 --> 00:26:29,88
+<font color="#ffffff">landet sie in der Opposition,</font>
 
 467
-00:27:37,76 --> 00:27:39,76
-<font color="#ffff00">Wir sind britische Muslime.</font>
+00:26:30,16 --> 00:26:33,04
+<font color="#ffffff">gründet eine eigene Partei,</font>
+<font color="#ffffff">  die Fratelli d'Italia.   </font>
 
 468
-00:27:40,00 --> 00:27:43,08
-<font color="#ffff00">Daran zu denken, wie es ihnen</font>
-<font color="#ffff00">als Erwachsene gehen wird, </font>
+00:26:33,36 --> 00:26:35,12
+<font color="#ffffff">Lange nehmen sie viele nicht ernst.</font>
 
 469
-00:27:43,28 --> 00:27:46,76
-<font color="#ffff00">wenn die Feindseligkeit zunimmt,</font>
-<font color="#ffff00">bereitet mir Sorgen.</font>
+00:26:35,44 --> 00:26:37,68
+<font color="#ffffff">      Doch zunehmend       </font>
+<font color="#ffffff">tritt sie aus dem Schatten,</font>
 
 470
-00:27:48,80 --> 00:27:51,32
-<font color="#ffffff">Der Union Jack</font>
-<font color="#ffffff">sei auch seine Flagge.</font>
+00:26:37,92 --> 00:26:40,80
+<font color="#ffffff"> schneidet ihre Partei </font>
+<font color="#ffffff">immer mehr auf sich zu.</font>
 
 471
-00:27:51,68 --> 00:27:55,20
-<font color="#ffffff">Darum hat er ihn ins Fenster</font>
-<font color="#ffffff">des islamischen Zentrums gehängt.</font>
+00:26:41,04 --> 00:26:42,20
+<font color="#00ffff">Ich bin Giorgia.</font>
 
 472
-00:27:55,52 --> 00:27:58,28
-<font color="#ffffff">Er wolle Wasser auf das Feuer gießen,</font>
-<font color="#ffffff">sagt er.</font>
+00:26:42,52 --> 00:26:44,44
+<font color="#00ffff"> Ich bin eine Frau. </font>
+<font color="#00ffff">Ich bin eine Mutter.</font>
 
 473
-00:27:58,52 --> 00:28:00,64
-<font color="#ffffff">Das sei nötig,</font>
-<font color="#ffffff">gerade in diesen Zeiten.</font>
+00:26:44,76 --> 00:26:47,28
+<font color="#00ffff">Ich bin Italienerin.</font>
+<font color="#00ffff"> Ich bin Christin.  </font>
 
 474
-00:28:02,28 --> 00:28:05,20
-<font color="#ffff00">Die Einstellung gegenüber Menschen,</font>
+00:26:47,56 --> 00:26:49,28
+<font color="#00ffff">Das nehmt ihr mir nicht weg.</font>
 
 475
-00:28:05,52 --> 00:28:10,24
-<font color="#ffff00">die als Ausländer wahrgenommen </font>
-<font color="#ffff00">werden, ist feindlicher geworden.</font>
+00:26:49,60 --> 00:26:50,44
+<font color="#ffffff">In diesen Jahren</font>
 
 476
-00:28:11,76 --> 00:28:15,08
-<font color="#ffff00">Vor allem wenn du</font>
-<font color="#ffff00">einen muslimischen Hintergrund hast.</font>
+00:26:50,72 --> 00:26:53,40
+<font color="#ffffff">  erleben ultrarechte Parteien  </font>
+<font color="#ffffff">in ganz Europa einen Aufschwung.</font>
 
 477
-00:28:15,32 --> 00:28:18,08
-<font color="#ffff00">Mal sind die Slogans subtil,</font>
-<font color="#ffff00">mal ganz direkt,</font>
+00:26:53,64 --> 00:26:57,40
+<font color="#ffffff">Und Giorgia Meloni wird zur Ikone</font>
+<font color="#ffffff">      der extremen Rechten.      </font>
 
 478
-00:28:18,32 --> 00:28:22,80
-<font color="#ffff00">wie vor zwei Wochen</font>
-<font color="#ffff00">beim Protest in London.</font>
+00:26:57,72 --> 00:27:03,28
+<font color="#00ffff">Ja zur natürlichen Familie,</font>
+<font color="#00ffff">   nein zur LGBT-Lobby.    </font>
 
 479
-00:28:30,20 --> 00:28:33,00
-<font color="#ffffff">Im Streit um Einwanderung</font>
-<font color="#ffffff">und britische Identität</font>
+00:27:03,56 --> 00:27:07,88
+<font color="#00ffff">Ja zur sexuellen Identität,</font>
+<font color="#00ffff"> nein zur Genderideologie. </font>
 
 480
-00:28:33,24 --> 00:28:35,28
-<font color="#ffffff">verhärten sich die Fronten.</font>
+00:27:08,16 --> 00:27:13,40
+<font color="#00ffff">Ja zur Souveränität des Volkes,</font>
+<font color="#00ffff"> nein zu Brüsseler Bürokraten. </font>
 
 481
-00:28:35,60 --> 00:28:38,36
-<font color="#ffffff">In Newcastle formiert sich</font>
-<font color="#ffffff">an diesem Tag Widerstand. </font>
+00:27:13,68 --> 00:27:16,56
+<font color="#ffffff">Nur wenige Monate später</font>
+<font color="#ffffff">    wird diese Frau     </font>
 
 482
-00:28:38,64 --> 00:28:40,96
-<font color="#ffffff">"Gegen Rechtsaußen"</font>
-<font color="#ffffff">steht auf den Schildern.</font>
+00:27:16,80 --> 00:27:20,48
+<font color="#ffffff"> erste Ministerpräsidentin </font>
+<font color="#ffffff">in der Geschichte Italiens.</font>
 
 483
-00:28:41,28 --> 00:28:42,88
-<font color="#ffffff">"Flüchtlinge sind willkommen."</font>
+00:27:20,80 --> 00:27:22,80
+<font color="#ffffff">      Spätestens jetzt      </font>
+<font color="#ffffff">fragen sich viele in Europa:</font>
 
 484
-00:28:44,64 --> 00:28:47,56
-<font color="#ffffff">Die Pink Ladies spornen</font>
-<font color="#ffffff">solche Gegenproteste nur an.</font>
+00:27:23,08 --> 00:27:28,00
+<font color="#ffffff">  Ist Giorgia Meloni wirklich  </font>
+<font color="#ffffff">so radikal, so europafeindlich?</font>
 
 485
-00:28:47,80 --> 00:28:50,72
-<font color="#ffffff">Den radikalen Wortführern</font>
-<font color="#ffffff">sind die Frauen willkommen.</font>
+00:27:28,24 --> 00:27:30,44
+<font color="#ffffff">Und wieder überrascht sie:</font>
 
 486
-00:28:51,04 --> 00:28:53,72
-<font color="#ffffff">Sie geben ihrer Bewegung</font>
-<font color="#ffffff">ein freundlicheres Gesicht</font>
+00:27:30,72 --> 00:27:33,44
+<font color="#ffffff">Anders als z.B. der ungarische</font>
+<font color="#ffffff">   Ministerpräsident Orban,   </font>
 
 487
-00:28:54,04 --> 00:28:57,28
-<font color="#ffffff">und könnten mehr Unzufriedene</font>
-<font color="#ffffff">zum Mitlaufen motivieren.</font>
+00:27:33,68 --> 00:27:37,04
+<font color="#ffffff">        arbeitet Meloni         </font>
+<font color="#ffffff">mit der EU konstruktiv zusammen.</font>
 
 488
-00:29:00,24 --> 00:29:03,60
-<font color="#00ffff">In Kolumbien</font>
-<font color="#00ffff">hat sich eine gefährliche Form</font>
+00:27:37,32 --> 00:27:38,88
+<font color="#ffffff">Sie überzeugt auch in Washington</font>
 
 489
-00:29:03,88 --> 00:29:06,96
-<font color="#00ffff">der Freiheit etabliert -</font>
-<font color="#00ffff">in den Bergen rund um Medellin.</font>
+00:27:39,12 --> 00:27:42,84
+<font color="#ffffff">      und wird zur bevorzugten      </font>
+<font color="#ffffff">Gesprächspartnerin von Donald Trump.</font>
 
 490
-00:29:07,24 --> 00:29:10,84
-<font color="#00ffff">Junge Männer rasen dort</font>
-<font color="#00ffff">mit umgebauten Fahrrädern</font>
+00:27:43,12 --> 00:27:47,12
+<font color="#00ffff">  Ministerpräsidentin Meloni  </font>
+<font color="#00ffff">macht einen fantastischen Job.</font>
 
 491
-00:29:11,08 --> 00:29:12,52
-<font color="#00ffff">steile Straßen hinab.</font>
+00:27:48,48 --> 00:27:52,00
+<font color="#00ffff">Sie hat Europa im Sturm erobert.</font>
+<font color="#00ffff">Jeder liebt und respektiert sie.</font>
 
 492
-00:29:13,28 --> 00:29:15,24
-<font color="#00ffff">Sie nennen es Gravity Bike:</font>
+00:27:52,20 --> 00:27:55,56
+<font color="#00ffff"> Das kann ich nicht  </font>
+<font color="#00ffff">von vielen behaupten.</font>
 
 493
-00:29:15,84 --> 00:29:18,80
-<font color="#00ffff">Ein Extremsport,</font>
-<font color="#00ffff">der Adrenalin verspricht,</font>
+00:27:56,40 --> 00:27:59,36
+<font color="#ffffff">Auf dem internationalen Parkett</font>
+<font color="#ffffff">    gibt sie sich charmant,    </font>
 
 494
-00:29:19,08 --> 00:29:20,48
-<font color="#00ffff">aber auch Leben kostet.</font>
+00:27:59,64 --> 00:28:01,40
+<font color="#ffffff">weltoffen und staatsmännisch.</font>
 
 495
-00:29:20,80 --> 00:29:24,28
-<font color="#00ffff">Marie-Kristin Boese hat</font>
-<font color="#00ffff">zwei junge Kolumbianer begleitet,</font>
+00:28:01,64 --> 00:28:04,44
+<font color="#ffffff"> Waren die Bedenken </font>
+<font color="#ffffff">also völlig umsonst?</font>
 
 496
-00:29:24,60 --> 00:29:28,92
-<font color="#00ffff">die trotz aller Kritik an ihrem</font>
-<font color="#00ffff">lebensgefährlichen Hobby festhalten.</font>
+00:28:04,68 --> 00:28:07,04
+<font color="#ffffff">In der Asylpolitik</font>
 
 497
-00:29:31,12 --> 00:29:33,48
-<font color="#ffffff">Nicolas und Mateo sind 18 und 24.</font>
+00:28:07,32 --> 00:28:10,16
+<font color="#ffffff">    setzt ihre Regierung     </font>
+<font color="#ffffff">auf Abschreckung, Abschottung</font>
 
 498
-00:29:33,72 --> 00:29:36,72
-<font color="#ffffff">Aber mit ihrem Sport</font>
-<font color="#ffffff">riskieren sie ihr Leben.</font>
+00:28:10,40 --> 00:28:13,96
+<font color="#ffffff">und errichtet in Albanien</font>
+<font color="#ffffff">    Abschiebezentren.    </font>
 
 499
-00:29:39,40 --> 00:29:43,20
-<font color="#ffff00">Klar, man ist nervös,</font>
-<font color="#ffff00">ich spür meinen Herzschlag.</font>
+00:28:14,20 --> 00:28:16,96
+<font color="#ffffff">       Ein Sicherheitsdekret        </font>
+<font color="#ffffff">beschneidet das Demonstrationsrecht,</font>
 
 500
-00:29:49,92 --> 00:29:53,76
-<font color="#ffffff">Mit 120 Sachen rasen sie</font>
-<font color="#ffffff">die Straßen um Medellin herunter.</font>
+00:28:17,28 --> 00:28:19,40
+<font color="#ffffff">  führt zahlreiche   </font>
+<font color="#ffffff">neue Straftatbestände</font>
 
 501
-00:29:54,00 --> 00:29:56,48
-<font color="#ffffff">Freier Fall auf umgebauten Rädern.</font>
+00:28:19,64 --> 00:28:21,12
+<font color="#ffffff">und Strafverschärfungen ein</font>
 
 502
-00:30:00,84 --> 00:30:02,76
-<font color="#ffff00">Das ist unbeschreiblich.</font>
+00:28:21,36 --> 00:28:26,44
+<font color="#ffffff">  und erweitert die Befugnisse von  </font>
+<font color="#ffffff">Polizei, Geheimdiensten und Militär.</font>
 
 503
-00:30:03,04 --> 00:30:04,76
-<font color="#ffff00">Das Gefühl ist unbeschreiblich,</font>
+00:28:26,76 --> 00:28:31,12
+<font color="#ffffff">       Dann ist da noch       </font>
+<font color="#ffffff">Melonis Verhältnis zur Presse.</font>
 
 504
-00:30:05,00 --> 00:30:07,00
-<font color="#ffff00">man spürt viel Adrenalin</font>
-<font color="#ffff00">und Euphorie.</font>
+00:28:31,44 --> 00:28:34,48
+<font color="#ffffff">         Gleich beginnt          </font>
+<font color="#ffffff">ein Ukraine-Gipfel in Washington.</font>
 
 505
-00:30:07,48 --> 00:30:09,12
-<font color="#00ff00">Wir fahren super schnell.</font>
+00:28:34,76 --> 00:28:38,60
+<font color="#ffffff">      Die Kameras laufen schon      </font>
+<font color="#ffffff">und die Mikrofone aus Versehen auch.</font>
 
 506
-00:30:09,36 --> 00:30:11,48
-<font color="#00ff00">Eben wäre ich fast</font>
-<font color="#00ff00">aus der Kurve geflogen.</font>
+00:28:38,88 --> 00:28:41,68
+<font color="#00ffff">Wollt ihr noch Fragen beantworten?</font>
 
 507
-00:30:11,72 --> 00:30:13,00
-<font color="#00ff00">Aber es war super.</font>
+00:28:41,96 --> 00:28:44,68
+<font color="#00ffff">    Wir sind zu viele.    </font>
+<font color="#00ffff">Das würde zu lange dauern.</font>
 
 508
-00:30:13,96 --> 00:30:17,04
-<font color="#ffffff">Ein schmaler Grat</font>
-<font color="#ffffff">zwischen Freiheit und Sturz.</font>
+00:28:44,96 --> 00:28:46,00
+<font color="#ffffff">Dann wundert sich die Runde,</font>
 
 509
-00:30:17,84 --> 00:30:20,28
-<font color="#ffffff">Gravity Bike heißt der Extremsport.</font>
+00:28:46,28 --> 00:28:49,08
+<font color="#ffffff"> dass Trump hier überhaupt  </font>
+<font color="#ffffff">Journalisten zugelassen hat.</font>
 
 510
-00:30:20,56 --> 00:30:24,96
-<font color="#ffffff">Ihr Ausweg aus einem Alltag, der sie</font>
-<font color="#ffffff">einengt und Träume oft erstickt.</font>
+00:28:49,40 --> 00:28:51,68
+<font color="#ffffff">Melonis Reaktion:</font>
 
 511
-00:30:25,32 --> 00:30:28,60
-<font color="#ffffff">"So weit es eben geht",</font>
-<font color="#ffffff">hat sich Nicolas tätowiert.</font>
+00:28:51,96 --> 00:28:53,80
+<font color="#00ffff">Er liebt das. Er macht das immer.</font>
 
 512
-00:30:29,60 --> 00:30:33,24
-<font color="#ffff00">Die Leute behaupten immer,</font>
-<font color="#ffff00">du kannst im Leben alles erreichen,</font>
+00:28:54,08 --> 00:28:58,28
+<font color="#00ffff">     Ich will nie mit der     </font>
+<font color="#00ffff">italienischen Presse sprechen.</font>
 
 513
-00:30:33,48 --> 00:30:35,24
-<font color="#ffff00">alle habe die gleichen Chancen.</font>
+00:28:58,52 --> 00:29:00,36
+<font color="#ffffff">Pressekonferenzen und Interviews</font>
 
 514
-00:30:35,52 --> 00:30:38,84
-<font color="#ffff00">Aber stimmt das nicht,</font>
-<font color="#ffff00">so sehr man hier auch kämpft.</font>
+00:29:00,60 --> 00:29:03,00
+<font color="#ffffff">gibt Meloni dementsprechend</font>
+<font color="#ffffff">      äußerst selten.      </font>
 
 515
-00:30:39,80 --> 00:30:42,60
-<font color="#ffffff">Beim Biken können sie</font>
-<font color="#ffffff">Grenzen verschieben. </font>
+00:29:03,28 --> 00:29:06,84
+<font color="#ffffff">       Auch wir haben mehrfach      </font>
+<font color="#ffffff">ein Interview angefragt, ohne Erfolg.</font>
 
 516
-00:30:42,84 --> 00:30:44,92
-<font color="#ffffff">Im Tal beginnt</font>
-<font color="#ffffff">das Katz- und Mausspiel.</font>
+00:29:07,16 --> 00:29:12,40
+<font color="#ffffff">  Meloni setzt auf Social Media,   </font>
+<font color="#ffffff">ohne Gegenfragen, ohne Widerspruch.</font>
 
 517
-00:30:45,28 --> 00:30:47,04
-<font color="#ffffff">Erst erwischt sie der Busfahrer.</font>
+00:29:12,68 --> 00:29:14,96
+<font color="#ffffff">Giorgia Meloni setzt sich in Szene:</font>
 
 518
-00:30:47,28 --> 00:30:49,76
-<font color="#ffffff">Sich an den Bus zu hängen,</font>
-<font color="#ffffff">ist verboten.</font>
+00:29:15,20 --> 00:29:17,44
+<font color="#ffffff">Als Mutter, als Patriotin,</font>
 
 519
-00:30:50,08 --> 00:30:51,60
-<font color="#ffffff">Und dann die Polizei.</font>
+00:29:17,72 --> 00:29:20,60
+<font color="#ffffff">als verantwortungsvolle</font>
+<font color="#ffffff">   Regierungschefin.   </font>
 
 520
-00:30:53,48 --> 00:30:57,72
-<font color="#ffffff">Die stoppt die Gravity Biker</font>
-<font color="#ffffff">wegen der vielen Unfälle. </font>
+00:29:20,84 --> 00:29:23,12
+<font color="#ffffff">Nie spontan, immer wohlüberlegt.</font>
 
 521
-00:31:00,04 --> 00:31:02,60
-<font color="#ffffff">Irgendwann schaffen sie es doch.</font>
+00:29:23,36 --> 00:29:27,64
+<font color="#ffffff">    Welcher Plan steckt hinter    </font>
+<font color="#ffffff">diesem Marketing in eigener Sache?</font>
 
 522
-00:31:04,48 --> 00:31:07,84
-<font color="#ffffff">Auf dem Berg</font>
-<font color="#ffffff">ein kurzer Moment zum Durchatmen.</font>
+00:29:27,92 --> 00:29:31,28
+<font color="#00ffff">     Es gibt eine Giorgia,      </font>
+<font color="#00ffff">die um jeden Preis regieren will</font>
 
 523
-00:31:08,92 --> 00:31:10,92
-<font color="#ffffff">Der Asphalt verzeiht nichts.</font>
+00:29:31,52 --> 00:29:34,28
+<font color="#00ffff">   und dafür praktisch   </font>
+<font color="#00ffff">jeden Kompromiss eingeht.</font>
 
 524
-00:31:11,16 --> 00:31:14,80
-<font color="#ffffff">Ein Schlagloch, eine Rille,</font>
-<font color="#ffffff">ein Fehler und du fliegst, sagen sie.</font>
+00:29:34,60 --> 00:29:36,64
+<font color="#00ffff">Dann gibt es die Giorgia,</font>
 
 525
-00:31:15,12 --> 00:31:18,48
-<font color="#ffffff">Ein Nervenkitzel, der sie ängstigt,</font>
-<font color="#ffffff">aber süchtig macht.</font>
+00:29:36,96 --> 00:29:39,04
+<font color="#00ffff">         die erzählt,         </font>
+<font color="#00ffff">dass sie alles verändern will.</font>
 
 526
-00:31:18,72 --> 00:31:21,48
-<font color="#ffffff">Gruppen aus anderen Städten</font>
-<font color="#ffffff">schicken Videos.</font>
+00:29:39,32 --> 00:29:40,76
+<font color="#00ffff">Das ist ihre Strategie.</font>
 
 527
-00:31:21,76 --> 00:31:23,88
-<font color="#ffffff">Helm: oft keiner,</font>
-<font color="#ffffff">Schutzkleidung: kaum.</font>
+00:29:41,04 --> 00:29:42,88
+<font color="#00ffff">     Aber wenn man dann      </font>
+<font color="#00ffff">nach fast drei Jahren schaut,</font>
 
 528
-00:31:24,20 --> 00:31:26,76
-<font color="#ffffff">Als hätten sie nichts zu verlieren.</font>
+00:29:43,12 --> 00:29:46,68
+<font color="#00ffff">was sie tatsächlich gemacht hat,</font>
+<font color="#00ffff">         ist da nichts.         </font>
 
 529
-00:31:32,68 --> 00:31:36,12
-<font color="#ffffff">Dabei sind einige Freunde</font>
-<font color="#ffffff">tödlich verunglückt.</font>
+00:29:48,80 --> 00:29:50,56
+<font color="#ffffff">Doch für viele Italienerinnen</font>
+<font color="#ffffff">        und Italiener        </font>
 
 530
-00:31:44,96 --> 00:31:47,44
-<font color="#ffff00">Klar hab ich Angst.</font>
-<font color="#ffff00">Das ist mein Leben.</font>
+00:29:50,80 --> 00:29:55,36
+<font color="#ffffff">ist Giorgia Meloni vor allem eines:</font>
+<font color="#ffffff">    ein Garant für Stabilität.     </font>
 
 531
-00:31:47,68 --> 00:31:49,84
-<font color="#ffff00">Aber man vergisst alles,</font>
-<font color="#ffff00">absolut alles.</font>
+00:29:55,60 --> 00:29:57,96
+<font color="#ffffff">Nicht ausgeschlossen,</font>
+<font color="#ffffff">dass ihre Regierung, </font>
 
 532
-00:31:50,12 --> 00:31:52,84
-<font color="#ffff00">Probleme, alles, was einen belastet.</font>
+00:29:58,24 --> 00:30:02,16
+<font color="#ffffff">die beständigste der italienischen</font>
+<font color="#ffffff">    Nachkriegsgeschichte wird.    </font>
 
 533
-00:31:56,00 --> 00:31:58,64
-<font color="#ffffff">Und Probleme</font>
-<font color="#ffffff">gibt es in Medellin genug.</font>
+00:30:03,12 --> 00:30:04,60
+<font color="#ffff00">Und das ist schon mal was.</font>
 
 534
-00:31:58,88 --> 00:32:01,80
-<font color="#ffffff">Einst Drogenhochburg</font>
-<font color="#ffffff">und Hochburg der Gewalt.</font>
+00:30:04,92 --> 00:30:07,08
+<font color="#ffff00">        Wenn Sie noch mehr        </font>
+<font color="#ffff00">über Giorgia Meloni sehen möchten,</font>
 
 535
-00:32:02,12 --> 00:32:05,84
-<font color="#ffffff">Heute ist Medellin ruhiger, aber</font>
-<font color="#ffffff">noch immer ungleich und ungerecht.</font>
+00:30:07,36 --> 00:30:09,64
+<font color="#ffff00">dann finden sie ein aktuelles</font>
+<font color="#ffff00">      WELTSPIEGEL EXTRA      </font>
 
 536
-00:32:06,08 --> 00:32:09,00
-<font color="#ffffff">Ein Drittel lebt in Armut, </font>
-<font color="#ffffff">an Drogen kommt man leicht.</font>
+00:30:09,96 --> 00:30:11,36
+<font color="#ffff00">in der ARD Mediathek.</font>
 
 537
-00:32:10,44 --> 00:32:14,56
-<font color="#ffffff">Mateo nimmt uns mit in seine Welt,</font>
-<font color="#ffffff">zum Ersatzteilemarkt im Zentrum.</font>
+00:30:13,12 --> 00:30:17,88
+<font color="#ffff00">Es gibt einen weltweiten Trend</font>
+<font color="#ffff00">      hin zum Kernstrom.      </font>
 
 538
-00:32:14,88 --> 00:32:18,12
-<font color="#ffffff">Ein hartes Pflaster,</font>
-<font color="#ffffff">das Drogenbanden kontrollieren.</font>
+00:30:18,12 --> 00:30:21,40
+<font color="#ffff00">        In Kasachstan,        </font>
+<font color="#ffff00">eine ehemalige Sowjetrepublik,</font>
 
 539
-00:32:19,52 --> 00:32:22,20
-<font color="#ffffff">Er schlägt sich</font>
-<font color="#ffffff">mit kleinen Geschäften durch,</font>
+00:30:21,68 --> 00:30:23,28
+<font color="#ffff00">verfolgt man auch diesen Trend.</font>
 
 540
-00:32:22,52 --> 00:32:24,48
-<font color="#ffffff">kauft und verkauft Fahrradteile.</font>
+00:30:23,60 --> 00:30:25,48
+<font color="#ffff00">Ganze 71% haben dort</font>
 
 541
-00:32:24,80 --> 00:32:27,28
-<font color="#ffffff">Einen festen Job hat er grad nicht.</font>
+00:30:25,72 --> 00:30:29,48
+<font color="#ffff00">bei einem landesweiten Referendum</font>
+<font color="#ffff00">         im Oktober 2024         </font>
 
 542
-00:32:29,24 --> 00:32:31,80
-<font color="#ffff00">Die Teile</font>
-<font color="#ffff00">kriegt man sonst nirgends mehr.</font>
+00:30:29,80 --> 00:30:32,24
+<font color="#ffff00">     für die Nutzung     </font>
+<font color="#ffff00">von Kernenergie gestimmt.</font>
 
 543
-00:32:32,08 --> 00:32:35,44
-<font color="#ffff00">Macht schneller, hier haben</font>
-<font color="#ffff00">bestimmte Leute das Sagen. </font>
+00:30:32,56 --> 00:30:36,32
+<font color="#ffff00">Deshalb wird es jetzt gebaut:</font>
+<font color="#ffff00">     ein Atomkraftwerk.      </font>
 
 544
-00:32:39,16 --> 00:32:42,64
-<font color="#ffffff">Sein Vater Hernan</font>
-<font color="#ffffff">sieht das mit gemischten Gefühlen.</font>
+00:30:36,60 --> 00:30:38,68
+<font color="#ffff00">Und das, obwohl sich Kasachstan</font>
 
 545
-00:32:42,92 --> 00:32:45,80
-<font color="#ffffff">Die Leidenschaft seines Sohnes</font>
-<font color="#ffffff">versteht er nicht,</font>
+00:30:38,96 --> 00:30:42,32
+<font color="#ffff00">klar von der Nutzung jeglicher</font>
+<font color="#ffff00"> Kerntechnik distanziert hat, </font>
 
 546
-00:32:46,12 --> 00:32:49,64
-<font color="#ffffff">aber er weiß, was Mateo</font>
-<font color="#ffffff">die "Sache mit dem Biken" bedeutet.</font>
+00:30:42,60 --> 00:30:44,84
+<font color="#ffff00">          aufgrund           </font>
+<font color="#ffff00">seiner tragischen Geschichte.</font>
 
 547
-00:32:53,92 --> 00:32:56,40
-<font color="#ffffff">Hernan kennt das Medellin von früher.</font>
+00:30:45,16 --> 00:30:46,68
+<font color="#ffff00">Silke Diettrich war vor Ort.</font>
 
 548
-00:32:56,68 --> 00:32:58,04
-<font color="#ffffff">Er war Polizist,</font>
+00:30:48,64 --> 00:30:49,84
+<font color="#ffffff">Ulken.</font>
 
 549
-00:32:58,32 --> 00:33:01,44
-<font color="#ffffff">als Drogenbaron Pablo Escobar</font>
-<font color="#ffffff">dieses Viertel bauen ließ. </font>
+00:30:50,12 --> 00:30:52,16
+<font color="#ffffff">   Eine Geisterstadt    </font>
+<font color="#ffffff">im Süden von Kasachstan,</font>
 
 550
-00:33:01,72 --> 00:33:04,76
-<font color="#ffffff">Und auf Polizisten wie ihn</font>
-<font color="#ffffff">Kopfgelder aussetzte.</font>
+00:30:52,40 --> 00:30:55,24
+<font color="#ffffff">  in den 90ern geplant   </font>
+<font color="#ffffff">für rund 10.000 Menschen.</font>
 
 551
-00:33:05,16 --> 00:33:08,48
-<font color="#ffffff">Heute ist Escobar tot,</font>
-<font color="#ffffff">aber noch immer präsent.</font>
+00:30:55,52 --> 00:30:59,00
+<font color="#ffffff">   Erst sollte ein Kohlekraftwerk   </font>
+<font color="#ffffff">entstehen, später ein Heizkraftwerk.</font>
 
 552
-00:33:12,80 --> 00:33:17,68
-<font color="#ffff00">Mateo hatte Kontakt mit Drogen, </font>
-<font color="#ffff00">aber wir konnten ihn da rausholen.</font>
+00:30:59,28 --> 00:31:00,60
+<font color="#ffffff">Mit dem Zerfall der Sowjetunion</font>
 
 553
-00:33:18,76 --> 00:33:22,64
-<font color="#ffff00">Aber ein großer Teil der</font>
-<font color="#ffff00">Jugendlichen verliert sich darin.</font>
+00:31:00,92 --> 00:31:03,12
+<font color="#ffffff">wurden die Kraftwerksprojekte</font>
+<font color="#ffffff">          gestoppt.          </font>
 
 554
-00:33:23,52 --> 00:33:26,40
-<font color="#ffff00">Und die Drogen</font>
-<font color="#ffff00">führen zu viel Gewalt.</font>
+00:31:03,40 --> 00:31:05,76
+<font color="#ffffff">Die Menschen verloren ihre Arbeit.</font>
 
 555
-00:33:34,88 --> 00:33:38,68
-<font color="#ffffff">Der Vater sagt, das Biken</font>
-<font color="#ffffff">hat Mateo vorm Absturz gerettet.</font>
+00:31:07,20 --> 00:31:08,96
+<font color="#00ffff">Die Leute sind weggezogen.</font>
 
 556
-00:33:39,76 --> 00:33:42,28
-<font color="#ffffff">Doch gut bezahlte Jobs,</font>
-<font color="#ffffff">zu Hause ausziehen - </font>
+00:31:10,08 --> 00:31:13,00
+<font color="#00ffff"> Einige sind nach Deutschland  </font>
+<font color="#00ffff">gegangen, andere nach Russland.</font>
 
 557
-00:33:42,60 --> 00:33:44,00
-<font color="#ffffff">für beide unerreichbar.</font>
+00:31:13,28 --> 00:31:16,00
+<font color="#00ffff">Ich z.B. habe meine Kinder </font>
+<font color="#00ffff">auch von hier weggeschickt.</font>
 
 558
-00:33:44,24 --> 00:33:47,60
-<font color="#ffffff">Über den Dächern von Medellin</font>
-<font color="#ffffff">bauen sie ihre Räder selbst. </font>
+00:31:16,24 --> 00:31:18,60
+<font color="#00ffff">Eine ist in Moskau, </font>
+<font color="#00ffff">eine in Nowosibirsk.</font>
 
 559
-00:33:48,20 --> 00:33:50,52
-<font color="#ffffff">Der Schwerpunkt muss tief liegen.</font>
+00:31:18,84 --> 00:31:20,32
+<font color="#00ffff">Was soll man hier schon machen?</font>
 
 560
-00:33:50,84 --> 00:33:53,24
-<font color="#ffffff">Nicolas arbeitet</font>
-<font color="#ffffff">in einer Autowerkstatt,</font>
+00:31:20,56 --> 00:31:22,96
+<font color="#00ffff">Aber sie kommen trotzdem</font>
+<font color="#00ffff"> immer wieder hierhin.  </font>
 
 561
-00:33:53,56 --> 00:33:55,24
-<font color="#ffffff">Vollzeit, für wenig Geld.</font>
+00:31:23,28 --> 00:31:25,04
+<font color="#00ffff">Es ist Heimat halt.</font>
 
 562
-00:33:57,24 --> 00:34:00,64
-<font color="#ffffff">Unten im Haus wohnen</font>
-<font color="#ffffff">die Mutter und die kranke Oma.</font>
+00:31:27,36 --> 00:31:31,16
+<font color="#ffffff">Heute leben nur noch 1700 Menschen</font>
+<font color="#ffffff">            in Ulken.             </font>
 
 563
-00:34:01,64 --> 00:34:04,48
-<font color="#ffffff">Jede freie Minute</font>
-<font color="#ffffff">flüchtet er aufs Dach -</font>
+00:31:31,44 --> 00:31:33,12
+<font color="#ffffff">Bald sollen es wieder mehr werden.</font>
 
 564
-00:34:04,76 --> 00:34:07,76
-<font color="#ffffff">und wünscht sich Respekt</font>
-<font color="#ffffff">für seinen Sport.</font>
+00:31:33,40 --> 00:31:35,16
+<font color="#ffffff">     Das größte Projekt     </font>
+<font color="#ffffff">in der Geschichte des Landes</font>
 
 565
-00:34:10,68 --> 00:34:12,60
-<font color="#ffff00">Das ist ein Lebensstil.</font>
+00:31:35,40 --> 00:31:38,28
+<font color="#ffffff">     soll hier entstehen,      </font>
+<font color="#ffffff">sagt der kasachische Präsident.</font>
 
 566
-00:34:12,88 --> 00:34:16,32
-<font color="#ffff00">Aber dass einige Drogen nehmen,</font>
-<font color="#ffff00">hat dem Image geschadet.</font>
+00:31:38,60 --> 00:31:41,24
+<font color="#ffffff">          Ingenieure vom          </font>
+<font color="#ffffff">russischen Staatskonzern "Rosatom"</font>
 
 567
-00:34:16,92 --> 00:34:21,04
-<font color="#ffff00">Und das tut mir weh,</font>
-<font color="#ffff00">weil ich das liebe, was ich tue.</font>
+00:31:41,52 --> 00:31:44,00
+<font color="#ffffff">        setzen dafür         </font>
+<font color="#ffffff">den symbolischen Startschuss.</font>
 
 568
-00:34:27,08 --> 00:34:30,20
-<font color="#ffffff">Viele nennen sie verrückt,</font>
-<font color="#ffffff">lebensmüde.</font>
+00:31:44,28 --> 00:31:47,60
+<font color="#ffffff">Der Beginn des ersten Atomkraftwerkes</font>
+<font color="#ffffff">           in Kasachstan.           </font>
 
 569
-00:34:31,92 --> 00:34:35,48
-<font color="#ffffff">Nicolas sagt,</font>
-<font color="#ffffff">er habe das Risiko im Griff.</font>
+00:31:47,88 --> 00:31:49,08
+<font color="#ffffff">Viele der Menschen, </font>
+<font color="#ffffff">die hier noch leben,</font>
 
 570
-00:34:43,64 --> 00:34:48,16
-<font color="#ffffff">Vor der letzten Abfahrt heute hängt</font>
-<font color="#ffffff">Regen in der Luft - und Nervosität.</font>
+00:31:49,36 --> 00:31:50,68
+<font color="#ffffff">unterstützen das Projekt:</font>
 
 571
-00:34:50,64 --> 00:34:54,16
-<font color="#ffff00">An einen Lkw drangehängt,</font>
-<font color="#ffff00">das ist echt schwierig.</font>
+00:31:50,92 --> 00:31:56,16
+<font color="#ffffff">      Mehr Strom für Kasachstan     </font>
+<font color="#ffffff">und v.a. ein besseres Leben in Ulken.</font>
 
 572
-00:34:54,64 --> 00:34:56,96
-<font color="#ffff00">Die haben keine Angst vorm Tod.</font>
+00:31:57,00 --> 00:32:01,56
+<font color="#00ffff">     Für junge Leute      </font>
+<font color="#00ffff">wird es dann Arbeit geben.</font>
 
 573
-00:35:01,16 --> 00:35:03,44
-<font color="#00ff00">Nee, ich will nicht sterben.</font>
+00:32:02,12 --> 00:32:05,20
+<font color="#00ffff">Jetzt fahren alle raus aus dem Ort,</font>
+<font color="#00ffff">          um zu arbeiten.          </font>
 
 574
-00:35:05,36 --> 00:35:08,44
-<font color="#ffffff">Und dann rollen sie los in die Nacht.</font>
+00:32:05,48 --> 00:32:07,00
+<font color="#00ffff">Und es gibt viele Arbeitslose.</font>
 
 575
-00:35:08,68 --> 00:35:11,96
-<font color="#ffffff">Ein paar Minuten Freiheit,</font>
-<font color="#ffffff">in denen alles andere stillsteht.</font>
+00:32:09,68 --> 00:32:12,44
+<font color="#00ffff">Aber wenn das Kernkraftwerk</font>
+<font color="#00ffff">      eröffnet wird,       </font>
 
 576
-00:35:15,80 --> 00:35:17,12
-<font color="#00ffff">Kennen Sie ihn?</font>
+00:32:12,68 --> 00:32:17,80
+<font color="#00ffff">    können wir dort arbeiten,     </font>
+<font color="#00ffff">als Wachmann z.B. oder als Fahrer.</font>
 
 577
-00:35:17,80 --> 00:35:20,72
-<font color="#00ffff">King Julien ist</font>
-<font color="#00ffff">der bekannteste Lemur der Welt.</font>
+00:32:19,16 --> 00:32:22,44
+<font color="#ffffff">        Kasachstan ist der         </font>
+<font color="#ffffff">weltweit größte Produzent von Uran,</font>
 
 578
-00:35:20,96 --> 00:35:24,60
-<font color="#00ffff">und weckte als Held einer Filmreihe</font>
-<font color="#00ffff">bei so manchem deutschen Kind</font>
+00:32:22,68 --> 00:32:25,40
+<font color="#ffffff">   das man zum Betrieb    </font>
+<font color="#ffffff">von Atomreaktoren braucht.</font>
 
 579
-00:35:24,84 --> 00:35:27,56
-<font color="#00ffff">die erste Faszination</font>
-<font color="#00ffff">für Madagaskar.</font>
+00:32:25,64 --> 00:32:29,52
+<font color="#ffffff">Jetzt will man es endlich nutzen,</font>
+<font color="#ffffff"> um den Strommangel zu beheben.  </font>
 
 580
-00:35:28,16 --> 00:35:32,08
-<font color="#00ffff">Und für Lemuren, eine Affenart,</font>
-<font color="#00ffff">die es nur auf Madagaskar</font>
+00:32:29,80 --> 00:32:31,28
+<font color="#ffffff">Dass man so lange gezögert hat,</font>
 
 581
-00:35:32,36 --> 00:35:34,80
-<font color="#00ffff">und kleineren Inseln</font>
-<font color="#00ffff">in der Nähe gibt. </font>
+00:32:31,60 --> 00:32:34,04
+<font color="#ffffff">liegt auch an der Vergangenheit</font>
+<font color="#ffffff">        von Kasachstan,        </font>
 
 582
-00:35:35,04 --> 00:35:37,44
-<font color="#00ffff">Aber ihre Heimat</font>
-<font color="#00ffff">verschwindet rasant.</font>
+00:32:34,32 --> 00:32:37,08
+<font color="#ffffff">als es noch Teil der Sowjetunion war.</font>
 
 583
-00:35:37,92 --> 00:35:41,72
-<font color="#00ffff">Abholzung und Feuer</font>
-<font color="#00ffff">zerstören die letzten Regenwälder.</font>
+00:32:37,36 --> 00:32:40,92
+<font color="#ffffff">        Von 1949 an zündeten        </font>
+<font color="#ffffff">Forscher und Militärs der Sowjetunion</font>
 
 584
-00:35:41,96 --> 00:35:43,92
-<font color="#00ffff">Michael Stocks aus Madagaskar</font>
+00:32:41,24 --> 00:32:44,00
+<font color="#ffffff">   auf einem Testgelände   </font>
+<font color="#ffffff">im Nordosten von Kasachstan</font>
 
 585
-00:35:44,24 --> 00:35:47,04
-<font color="#00ffff">über einen Mann,</font>
-<font color="#00ffff">der für die Lemuren kämpft.</font>
+00:32:44,24 --> 00:32:46,92
+<font color="#ffffff">mehr als 450 Atomwaffen.</font>
 
 586
-00:35:49,92 --> 00:35:53,16
-<font color="#ffffff">Begeisterung entfachen,</font>
-<font color="#ffffff">das kann der Professor.</font>
+00:32:47,92 --> 00:32:52,80
+<font color="#ffffff">Uran, Plutonium und Wasserstoff</font>
+<font color="#ffffff"> über, auf und unter der Erde. </font>
 
 587
-00:35:53,44 --> 00:35:55,88
-<font color="#ffffff">Begeisterung</font>
-<font color="#ffffff">für seine Lieblingstiere,</font>
+00:32:53,08 --> 00:32:56,68
+<font color="#ffffff">     Eine Schlagkraft     </font>
+<font color="#ffffff">von 2500 Hiroshima-Bomben.</font>
 
 588
-00:35:56,12 --> 00:35:57,64
-<font color="#ffffff">die so schön singen können.</font>
+00:33:00,44 --> 00:33:04,20
+<font color="#ffffff">    Erst im Jahr 1989     </font>
+<font color="#ffffff">wurden die Tests gestoppt.</font>
 
 589
-00:35:58,04 --> 00:36:00,32
-<font color="#ffffff">Ihren Gesang</font>
-<font color="#ffffff">bringt er den Schulkindern</font>
+00:33:06,12 --> 00:33:07,20
+<font color="#ffffff">Aber bis heute</font>
 
 590
-00:36:00,64 --> 00:36:03,20
-<font color="#ffffff">hier am Rande dieses Urwaldes bei.</font>
+00:33:07,48 --> 00:33:10,64
+<font color="#ffffff">      sind viele Flächen auf      </font>
+<font color="#ffffff">dem Testgelände nuklear verseucht.</font>
 
 591
-00:36:04,52 --> 00:36:07,92
-<font color="#ffffff">Maromizaha, ein Naturpark</font>
-<font color="#ffffff">im Nordosten Madagaskars.</font>
+00:33:10,88 --> 00:33:12,44
+<font color="#ffffff">Semipalatinsk heißt diese Region</font>
 
 592
-00:36:08,28 --> 00:36:12,00
-<font color="#ffffff">Den Professor Jonah 2015</font>
-<font color="#ffffff">mit seiner Organisation GERP</font>
+00:33:12,72 --> 00:33:16,00
+<font color="#ffffff"> und ist ungefähr so groß  </font>
+<font color="#ffffff">wie das Bundesland Sachsen.</font>
 
 593
-00:36:12,28 --> 00:36:15,36
-<font color="#ffffff">gegen viele Widerstände </font>
-<font color="#ffffff">unter Schutz gestellt hat.</font>
+00:33:16,28 --> 00:33:19,20
+<font color="#ffffff">Radioaktivität kann man nicht sehen</font>
+<font color="#ffffff">       und nicht schmecken.        </font>
 
 594
-00:36:17,52 --> 00:36:21,08
-<font color="#ffffff">Mit Tieren und Pflanzen,</font>
-<font color="#ffffff">die es nur in Madagaskar gibt.</font>
+00:33:19,48 --> 00:33:20,88
+<font color="#ffffff">        Oft stehen         </font>
+<font color="#ffffff">nicht einmal Schilder hier,</font>
 
 595
-00:36:21,40 --> 00:36:25,36
-<font color="#ffffff">Einzigartig, nur hier heimisch </font>
-<font color="#ffffff">und gefährdet, wie die Lemuren.</font>
+00:33:21,16 --> 00:33:23,92
+<font color="#ffffff">      die darauf hinweisen,      </font>
+<font color="#ffffff">dass die Strahlung noch hoch ist.</font>
 
 596
-00:36:26,12 --> 00:36:29,12
-<font color="#ffffff">Nach denen schaut er regelmäßig</font>
-<font color="#ffffff">und verspricht:</font>
+00:33:24,20 --> 00:33:24,96
+<font color="#ffffff">Deshalb sind wir</font>
 
 597
-00:36:29,40 --> 00:36:32,96
-<font color="#ffffff">Wir werden bei dieser Expedition</font>
-<font color="#ffffff">den größten der Lemuren finden, </font>
+00:33:25,24 --> 00:33:28,08
+<font color="#ffffff">  mit dem Wissenschaftler  </font>
+<font color="#ffffff">Dimitri Kalmykow unterwegs.</font>
 
 598
-00:36:33,28 --> 00:36:35,08
-<font color="#ffffff">den Indri, und andere Arten.</font>
+00:33:28,32 --> 00:33:32,80
+<font color="#ffffff">    Er erforscht seit Jahrzehnten   </font>
+<font color="#ffffff">das ehemalige Kernwaffen-Testgelände.</font>
 
 599
-00:36:38,16 --> 00:36:41,44
-<font color="#ffff00">Es ist meine Mission,</font>
-<font color="#ffff00">sie hier vom Aussterben zu bewahren.</font>
+00:33:33,04 --> 00:33:37,12
+<font color="#00ffff">       Wann diese Region        </font>
+<font color="#00ffff">nicht mehr radioaktiv sein wird?</font>
 
 600
-00:36:41,72 --> 00:36:44,16
-<font color="#ffff00">Ich bin ihre Stimme,</font>
-<font color="#ffff00">die der Lemuren.</font>
+00:33:37,40 --> 00:33:40,44
+<font color="#00ffff">      Niemals. Sie wird      </font>
+<font color="#00ffff">für immer radioaktiv bleiben.</font>
 
 601
-00:36:45,96 --> 00:36:48,16
-<font color="#ffffff">Lautstarke Begrüßung vom Indri,</font>
+00:33:40,72 --> 00:33:42,60
+<font color="#00ffff">         Zumindest         </font>
+<font color="#00ffff">in menschlicher Lebenszeit.</font>
 
 602
-00:36:48,40 --> 00:36:51,16
-<font color="#ffffff">andere Lemuren-Arten </font>
-<font color="#ffffff">verstecken sich lieber.</font>
+00:33:42,84 --> 00:33:45,04
+<font color="#00ffff">Viele Tausende und Zehntausende</font>
+<font color="#00ffff">  von Jahren werden vergehen,  </font>
 
 603
-00:36:56,08 --> 00:36:58,16
-<font color="#ffffff">Rund 100 Arten gibt es noch.</font>
+00:33:45,28 --> 00:33:47,60
+<font color="#00ffff">          bis hier alles           </font>
+<font color="#00ffff">vielleicht wieder normal sein wird.</font>
 
 604
-00:36:58,40 --> 00:37:01,28
-<font color="#ffffff">Nur hier</font>
-<font color="#ffffff">in dem afrikanischen Inselstaat.</font>
+00:33:47,88 --> 00:33:50,28
+<font color="#00ffff">          Die Explosionen          </font>
+<font color="#00ffff">dauern nur Bruchteile einer Sekunde.</font>
 
 605
-00:37:03,72 --> 00:37:05,64
-<font color="#ffffff">Professor Jonah kämpft für sie,</font>
+00:33:50,56 --> 00:33:53,52
+<font color="#00ffff">           Die Folgen           </font>
+<font color="#00ffff">bleiben jedoch für die Ewigkeit.</font>
 
 606
-00:37:05,92 --> 00:37:09,92
-<font color="#ffffff">versucht, den Menschen klarzumachen,</font>
-<font color="#ffffff">wie wichtig der Erhalt der Natur ist.</font>
+00:33:54,00 --> 00:33:56,48
+<font color="#ffffff">   Bevor es weitergeht,    </font>
+<font color="#ffffff">müssen wir uns vorbereiten.</font>
 
 607
-00:37:10,52 --> 00:37:14,16
-<font color="#ffffff">Schafft Schutzgebiete und</font>
-<font color="#ffffff">findet eine unbekannte Lemuren-Art,</font>
+00:33:56,76 --> 00:34:00,52
+<font color="#ffffff">       V.a. der Staub hier ist      </font>
+<font color="#ffffff">bis heute noch gesundheitsgefährdend.</font>
 
 608
-00:37:14,44 --> 00:37:16,08
-<font color="#ffffff">die nach ihm benannt wird.</font>
+00:34:00,80 --> 00:34:04,00
+<font color="#ffffff"> Dimitri Kalmykow führt uns  </font>
+<font color="#ffffff">zu einem ganz besonderen See.</font>
 
 609
-00:37:17,16 --> 00:37:21,68
-<font color="#ffffff">Unermüdlich arbeitet Professor Jonah</font>
-<font color="#ffffff">an seiner Mission, wie er es nennt. </font>
+00:34:04,24 --> 00:34:07,00
+<font color="#ffffff">    Den haben die Sowjets     </font>
+<font color="#ffffff">in den 60er-Jahren geschaffen,</font>
 
 610
-00:37:21,92 --> 00:37:24,68
-<font color="#ffffff">Lösungen gegen die Waldzerstörung</font>
-<font color="#ffffff">finden.</font>
+00:34:07,32 --> 00:34:11,48
+<font color="#ffffff">          indem sie           </font>
+<font color="#ffffff">eine Atombombe gezündet haben.</font>
 
 611
-00:37:27,32 --> 00:37:31,44
-<font color="#ffff00">In den nächsten 25 Jahren ist es </font>
-<font color="#ffff00">vorbei mit den Wäldern Madagaskars,</font>
+00:34:12,08 --> 00:34:15,44
+<font color="#00ffff">    Ein 160 m tiefes Loch    </font>
+<font color="#00ffff">wurde hier senkrecht gebohrt.</font>
 
 612
-00:37:31,72 --> 00:37:34,44
-<font color="#ffff00">wenn die Geschwindigkeit</font>
-<font color="#ffff00">der Abholzung anhält. </font>
+00:34:15,72 --> 00:34:17,00
+<font color="#00ffff">Darin wurde im Prinzip</font>
 
 613
-00:37:34,76 --> 00:37:36,76
-<font color="#ffff00">25 Jahre ist sozusagen morgen.</font>
+00:34:17,28 --> 00:34:20,40
+<font color="#00ffff"> eine Atombombe von der Größe  </font>
+<font color="#00ffff">einer Waschmaschine abgefeuert.</font>
 
 614
-00:37:37,12 --> 00:37:40,04
-<font color="#ffff00">Wir müssen jetzt ran, hart arbeiten</font>
+00:34:20,68 --> 00:34:25,08
+<font color="#00ffff">        Dieser riesige See        </font>
+<font color="#00ffff">entstand mit nur einem Knopfdruck.</font>
 
 615
-00:37:40,28 --> 00:37:43,08
-<font color="#ffff00">um die Zerstörung der Urwälder</font>
-<font color="#ffff00">zu stoppen.</font>
+00:34:26,72 --> 00:34:30,48
+<font color="#ffffff">Nutzen kann man das Wasser hier</font>
+<font color="#ffffff"> nicht, alles ist verstrahlt.  </font>
 
 616
-00:37:45,76 --> 00:37:48,96
-<font color="#ffffff">Professor Jonah zeigt Statistiken,</font>
-<font color="#ffffff">die belegen,</font>
+00:34:30,72 --> 00:34:33,00
+<font color="#ffffff">    "Atomexplosionen     </font>
+<font color="#ffffff">für die Volkswirtschaft",</font>
 
 617
-00:37:49,28 --> 00:37:53,20
-<font color="#ffffff">wie die Waldvernichtung in den</font>
-<font color="#ffffff">letzten Jahren schneller vorangeht.</font>
+00:34:33,24 --> 00:34:35,00
+<font color="#ffffff">so hieß das Programm damals.</font>
 
 618
-00:37:53,68 --> 00:37:57,52
-<font color="#ffffff">Im Dezember brennt es</font>
-<font color="#ffffff">in einem Naturschutzpark im Süden,</font>
+00:34:35,28 --> 00:34:37,88
+<font color="#ffffff">Dass solche Tests durchgeführt</font>
+<font color="#ffffff"> wurden, war kein Geheimnis.  </font>
 
 619
-00:37:57,72 --> 00:37:59,20
-<font color="#ffffff">den er gegründet hat.</font>
+00:34:38,16 --> 00:34:42,16
+<font color="#ffffff"> Im Gegenteil: Sie waren Teil  </font>
+<font color="#ffffff">der Propaganda im Kalten Krieg.</font>
 
 620
-00:37:59,48 --> 00:38:01,32
-<font color="#ffffff">Möglicherweise Brandstiftung.</font>
+00:34:42,40 --> 00:34:44,80
+<font color="#ffffff">Aber niemand sollte wissen,</font>
+<font color="#ffffff"> wo genau getestet wurde.  </font>
 
 621
-00:38:05,52 --> 00:38:08,88
-<font color="#ffffff">Überall im Land kahle Regionen,</font>
-<font color="#ffffff">abgeholzte Hügel.</font>
+00:34:45,12 --> 00:34:47,20
+<font color="#ffffff">Die Leute, die in der Nähe</font>
+<font color="#ffffff">des Testgeländes wohnten, </font>
 
 622
-00:38:09,40 --> 00:38:12,88
-<font color="#ffffff">Schon ein paar Kilometer</font>
-<font color="#ffffff">vom Schutzgebiet Maromizaha entfernt</font>
+00:34:47,52 --> 00:34:49,52
+<font color="#ffffff">     wurden deshalb      </font>
+<font color="#ffffff">einfach nicht informiert.</font>
 
 623
-00:38:13,16 --> 00:38:15,80
-<font color="#ffffff">dominiert die andere Realität</font>
-<font color="#ffffff">Madagaskars.</font>
+00:34:50,08 --> 00:34:53,48
+<font color="#ffffff">Manche haben die Gegend</font>
+<font color="#ffffff">trotzdem nie verlassen.</font>
 
 624
-00:38:17,04 --> 00:38:19,48
-<font color="#ffffff">Die Vegetation muss dran glauben,</font>
+00:34:53,76 --> 00:34:55,92
+<font color="#ffffff">So wie Familie Esmagomedow.</font>
 
 625
-00:38:19,92 --> 00:38:23,20
-<font color="#ffffff">weil die Menschen Material</font>
-<font color="#ffffff">zum Anfeuern brauchen.</font>
+00:34:56,20 --> 00:35:01,44
+<font color="#ffffff">Hier wird heute Geburtstag gefeiert:</font>
+<font color="#ffffff">Großvater Nursljam wird 69 Jahre alt.</font>
 
 626
-00:38:25,60 --> 00:38:29,92
-<font color="#ffffff">85 Prozent aller Haushalte im Land</font>
-<font color="#ffffff">verwenden täglich Holzkohle.</font>
+00:35:01,72 --> 00:35:03,44
+<font color="#ffffff">Ein hohes Alter hier im Dorf.</font>
 
 627
-00:38:33,92 --> 00:38:37,56
-<font color="#ffff00">Diesen Hügel haben wir</font>
-<font color="#ffff00">innerhalb einer Woche abgeholzt.</font>
+00:35:03,76 --> 00:35:06,64
+<font color="#ffffff">Die meisten Schulfreunde</font>
+<font color="#ffffff">    sind schon tot.     </font>
 
 628
-00:38:37,88 --> 00:38:40,00
-<font color="#ffff00">Zu dritt haben wir das gemacht.</font>
+00:35:06,88 --> 00:35:09,68
+<font color="#00ffff">      Dieses Testgelände      </font>
+<font color="#00ffff">hat uns viel Schaden zugefügt.</font>
 
 629
-00:38:41,76 --> 00:38:45,00
-<font color="#ffff00">Die Baumstämme haben wir</font>
-<font color="#ffff00">ein paar Tage trocknen lassen,</font>
+00:35:11,32 --> 00:35:13,72
+<font color="#00ffff">Es gibt hier sehr viele Krebskranke.</font>
 
 630
-00:38:45,32 --> 00:38:49,04
-<font color="#ffff00">bevor sie in diesem Erdofen</font>
-<font color="#ffff00">zu Holzkohle gebrannt werden.</font>
+00:35:13,96 --> 00:35:17,60
+<font color="#00ffff">   Auch gab und gibt es viele    </font>
+<font color="#00ffff">Selbstmorde, Leute erhängen sich.</font>
 
 631
-00:38:54,16 --> 00:38:57,64
-<font color="#ffffff">Überall gibt es solche Erdöfen,</font>
-<font color="#ffffff">aus denen es qualmt.</font>
+00:35:18,08 --> 00:35:21,36
+<font color="#00ffff">Und jetzt werden auch sehr viele</font>
+<font color="#00ffff">   behinderte Kinder geboren.   </font>
 
 632
-00:38:57,96 --> 00:39:00,12
-<font color="#ffffff">So wird hier Holzkohle produziert.</font>
+00:35:21,60 --> 00:35:24,00
+<font color="#00ffff">Aber niemand spricht darüber,</font>
+<font color="#00ffff">     man verschweigt es.     </font>
 
 633
-00:39:00,36 --> 00:39:01,76
-<font color="#ffffff">Die Nachfrage ist riesig.</font>
+00:35:24,28 --> 00:35:27,44
+<font color="#00ffff">            Es gibt            </font>
+<font color="#00ffff">sehr viele solcher Kinder hier.</font>
 
 634
-00:39:02,20 --> 00:39:04,84
-<font color="#ffffff">Abholzen und verbrennen -</font>
-<font color="#ffffff">ein Klimakiller.</font>
+00:35:29,52 --> 00:35:32,80
+<font color="#ffffff">Die Forschungslage zu den Spätfolgen</font>
+<font color="#ffffff">        ist bis heute dünn.         </font>
 
 635
-00:39:05,48 --> 00:39:08,48
-<font color="#ffffff">Hier wird die Ausbeute</font>
-<font color="#ffffff">aus einem Erdofen verpackt.</font>
+00:35:33,08 --> 00:35:36,64
+<font color="#ffffff"> Hohe Sterbe- und Krebsraten sind  </font>
+<font color="#ffffff">allerdings wissenschaftlich belegt.</font>
 
 636
-00:39:08,88 --> 00:39:11,00
-<font color="#ffffff">Aus einigen stattlichen Bäumen</font>
+00:35:36,88 --> 00:35:39,36
+<font color="#ffffff">Und internationale Kommissionen</font>
+<font color="#ffffff">     stellten zudem fest,      </font>
 
 637
-00:39:11,32 --> 00:39:13,84
-<font color="#ffffff">bleiben nur noch</font>
-<font color="#ffffff">einige Säcke Brennmaterial.</font>
+00:35:39,64 --> 00:35:42,84
+<font color="#ffffff">dass überdurchschnittlich viele</font>
+<font color="#ffffff">Menschen an Depressionen leiden</font>
 
 638
-00:39:17,76 --> 00:39:20,08
-<font color="#ffff00">Die Abholzung und die Feuer</font>
+00:35:43,16 --> 00:35:47,24
+<font color="#ffffff">oder Lungen- und Nierenschäden</font>
+<font color="#ffffff">          aufweisen.          </font>
 
 639
-00:39:20,36 --> 00:39:24,56
-<font color="#ffff00">sind die größte Bedrohung</font>
-<font color="#ffff00">für die einzigartige Biodiversität.</font>
+00:35:47,52 --> 00:35:51,00
+<font color="#ffffff">  Im Nationalen Nuklearzentrum   </font>
+<font color="#ffffff">ganz in der Nähe des Testgeländes</font>
 
 640
-00:39:25,00 --> 00:39:29,04
-<font color="#ffff00">Wenn es erst mal brennt,</font>
-<font color="#ffff00">stirbt dort diese Naturvielfalt.</font>
+00:35:51,32 --> 00:35:54,20
+<font color="#ffffff">halten die Wissenschaftler</font>
+<font color="#ffffff">  Atomkraft trotz alldem  </font>
 
 641
-00:39:29,40 --> 00:39:31,84
-<font color="#ffff00">Wegen dieser Feuer hat Madagaskar</font>
+00:35:54,52 --> 00:35:57,80
+<font color="#ffffff">für eine Schlüsseltechnologie</font>
+<font color="#ffffff">        der Zukunft.         </font>
 
 642
-00:39:32,16 --> 00:39:35,96
-<font color="#ffff00">mehr als 90 Prozent seines</font>
-<font color="#ffff00">ursprünglichen Waldes verloren.</font>
+00:35:59,24 --> 00:36:00,64
+<font color="#00ffff">Wir alle wissen,</font>
 
 643
-00:39:36,56 --> 00:39:40,56
-<font color="#ffff00">Wir haben nur noch 9,7 Prozent</font>
-<font color="#ffff00">des früheren Waldbestandes. </font>
+00:36:03,28 --> 00:36:06,20
+<font color="#00ffff">  dass Kasachstan bei der Uran-  </font>
+<font color="#00ffff">Förderung an erster Stelle steht.</font>
 
 644
-00:39:45,52 --> 00:39:48,68
-<font color="#ffffff">Antananarivo,</font>
-<font color="#ffffff">im Alltag einfach Tana genannt,</font>
+00:36:06,44 --> 00:36:09,00
+<font color="#00ffff">Angesichts dieser Brennstoffreserven</font>
+<font color="#00ffff">  wäre es wirklich nicht sinnvoll, </font>
 
 645
-00:39:48,96 --> 00:39:50,88
-<font color="#ffffff">die Hauptstadt von Madagaskar.</font>
+00:36:09,28 --> 00:36:10,36
+<font color="#00ffff">sie nicht zu nutzen.</font>
 
 646
-00:39:51,12 --> 00:39:53,88
-<font color="#ffffff">Eine Stadt,</font>
-<font color="#ffffff">die aus allen Nähten platzt.</font>
+00:36:10,64 --> 00:36:12,44
+<font color="#00ffff">Außerdem gibt es auch noch</font>
+<font color="#00ffff">  das Thema Klimawandel.  </font>
 
 647
-00:39:54,12 --> 00:39:57,28
-<font color="#ffffff">An jeder Straßenecke</font>
-<font color="#ffffff">wird Holzkohle verkauft.</font>
+00:36:12,72 --> 00:36:15,32
+<font color="#00ffff">    Alle Länder suchen doch     </font>
+<font color="#00ffff">nach umweltfreundlichen Methoden</font>
 
 648
-00:40:00,28 --> 00:40:03,68
-<font color="#ffff00">Ich bin mein ganzes Leben lang</font>
-<font color="#ffff00">Kohlenverkäuferin.</font>
+00:36:15,60 --> 00:36:18,92
+<font color="#00ffff">zur Strom- und Energie-Erzeugung.</font>
 
 649
-00:40:04,08 --> 00:40:07,08
-<font color="#ffff00">Andere Jobs wären schöner,</font>
-<font color="#ffff00">aber das ist es,</font>
+00:36:20,40 --> 00:36:21,60
+<font color="#ffffff">Mehr Strom für das Land</font>
 
 650
-00:40:07,36 --> 00:40:09,56
-<font color="#ffff00">womit wir zurechtkommen müssen.</font>
+00:36:21,88 --> 00:36:24,68
+<font color="#ffffff">   und eine Energiewende   </font>
+<font color="#ffffff">für das moderne Kasachstan.</font>
 
 651
-00:40:10,76 --> 00:40:13,60
-<font color="#ffffff">In der Universität von Tana</font>
-<font color="#ffffff">lehrt der Professor</font>
+00:36:25,00 --> 00:36:27,76
+<font color="#ffffff">Darauf setzen auch die Menschen</font>
+<font color="#ffffff">           in Ulken.           </font>
 
 652
-00:40:13,88 --> 00:40:16,92
-<font color="#ffffff">über das Verhalten von Affen</font>
-<font color="#ffffff">und affenähnlichen Wesen. </font>
+00:36:28,08 --> 00:36:28,76
+<font color="#ffffff">Vor vielen Jahren</font>
 
 653
-00:40:17,64 --> 00:40:21,16
-<font color="#ffffff">Und hofft, dass seine Studenten</font>
-<font color="#ffffff">seine Mission unterstützen.</font>
+00:36:29,04 --> 00:36:32,20
+<font color="#ffffff"> kam Rahima Kairbekowa  </font>
+<font color="#ffffff">als Ingenieurin hierher.</font>
 
 654
-00:40:21,48 --> 00:40:23,40
-<font color="#ffffff">Er weiß, ohne die junge Generation</font>
+00:36:32,48 --> 00:36:33,04
+<font color="#ffffff">Sie freut sich,</font>
 
 655
-00:40:23,68 --> 00:40:27,16
-<font color="#ffffff">kann er die Reste von Madagaskars</font>
-<font color="#ffffff">Naturschatz nicht retten.</font>
+00:36:33,32 --> 00:36:38,16
+<font color="#ffffff">   dass sie von ihrem Balkon aus    </font>
+<font color="#ffffff">bald auf das Kraftwerk schauen kann.</font>
 
 656
-00:40:27,84 --> 00:40:31,28
-<font color="#ffff00">Ich bin glücklich,</font>
-<font color="#ffff00">dass ich seine Studentin sein darf.</font>
+00:36:38,48 --> 00:36:40,68
+<font color="#00ffff">    Wir wollen kein     </font>
+<font color="#00ffff">rückständiges Land sein.</font>
 
 657
-00:40:31,68 --> 00:40:33,72
-<font color="#ffff00">Er zeigt uns den Sinn des Lebens:</font>
+00:36:42,56 --> 00:36:46,24
+<font color="#00ffff">Wir wollen nicht in Jurten, sondern</font>
+<font color="#00ffff">in einer zivilisierten Welt leben. </font>
 
 658
-00:40:33,96 --> 00:40:36,92
-<font color="#ffff00">Nämlich, dass es um</font>
-<font color="#ffff00">den Erhalt unseres Naturschatzes</font>
+00:36:46,52 --> 00:36:48,32
+<font color="#00ffff">Also nicht ich persönlich.</font>
+<font color="#00ffff">    Ich bin schon alt.    </font>
 
 659
-00:40:37,16 --> 00:40:40,28
-<font color="#ffff00">in Madagaskar geht,</font>
-<font color="#ffff00">speziell um den Schutz der Lemuren.</font>
+00:36:48,56 --> 00:36:49,40
+<font color="#00ffff">Ich bin Rentnerin.</font>
 
 660
-00:40:42,60 --> 00:40:44,96
-<font color="#ffffff">Dafür gibt der Experte alles.</font>
+00:36:49,68 --> 00:36:52,36
+<font color="#00ffff">      Aber ich wünsche mir      </font>
+<font color="#00ffff">für meine zukünftige Generation,</font>
 
 661
-00:40:51,32 --> 00:40:54,00
-<font color="#ffffff">Die Lemuren</font>
-<font color="#ffffff">haben hier nur eine Chance,</font>
+00:36:52,60 --> 00:36:55,32
+<font color="#00ffff">für meine Kinder und Enkelkinder,</font>
+<font color="#00ffff">      eine schöne Zukunft.       </font>
 
 662
-00:40:54,24 --> 00:40:57,56
-<font color="#ffffff">wenn die Menschen mitmachen,</font>
-<font color="#ffffff">erklärt Professor Jonah.</font>
+00:36:55,56 --> 00:36:58,92
+<font color="#00ffff">Mit Strom so reichlich,</font>
+<font color="#00ffff">wie die Sonne scheint. </font>
 
 663
-00:40:57,84 --> 00:41:01,92
-<font color="#ffffff">Das gilt vor allem für die Community,</font>
-<font color="#ffffff">die am Rande des Schutzgebietes lebt.</font>
+00:36:59,80 --> 00:37:02,20
+<font color="#ffffff">Auf eine strahlende Zukunft also?</font>
 
 664
-00:41:02,20 --> 00:41:05,52
-<font color="#ffffff">Sie zu überzeugen,</font>
-<font color="#ffffff">dass es langfristig wertvoller ist,</font>
+00:37:02,48 --> 00:37:04,36
+<font color="#ffffff">In 10 Jahren, so hofft man,</font>
 
 665
-00:41:05,80 --> 00:41:08,28
-<font color="#ffffff">einen Wald zu schützen,</font>
-<font color="#ffffff">statt ihn abzuholzen:</font>
+00:37:04,68 --> 00:37:07,44
+<font color="#ffffff">ist das Atomkraftwerk</font>
+<font color="#ffffff">hier betriebsfertig. </font>
 
 666
-00:41:08,52 --> 00:41:10,44
-<font color="#ffffff">Das war ein hartes Stück Arbeit.</font>
+00:37:08,96 --> 00:37:11,96
+<font color="#ffff00">Wissen Sie etwas über Timor-Leste?</font>
 
 667
-00:41:10,76 --> 00:41:12,56
-<font color="#ffffff">Zehn Jahre Schutzprojekt</font>
+00:37:12,20 --> 00:37:17,00
+<font color="#ffff00">Timor-Leste liegt in Südostasien auf</font>
+<font color="#ffff00">dem östlichen Teil der Insel Timor,</font>
 
 668
-00:41:12,84 --> 00:41:16,64
-<font color="#ffffff">hat auch das Leben dieser Gemeinde</font>
-<font color="#ffffff">am Naturpark Maromizaha verändert.</font>
+00:37:17,32 --> 00:37:20,52
+<font color="#ffff00">  nördlich von Australien  </font>
+<font color="#ffff00">und östlich von Indonesien.</font>
 
 669
-00:41:17,44 --> 00:41:19,80
-<font color="#ffff00">Am Anfang war es nicht leicht.</font>
+00:37:20,80 --> 00:37:22,72
+<font color="#ffff00">Es ist das jüngste Land Asiens</font>
 
 670
-00:41:20,04 --> 00:41:23,24
-<font color="#ffff00">Im ersten Jahr war es extrem hart,</font>
-<font color="#ffff00">weil die Leute glaubten,</font>
+00:37:23,04 --> 00:37:25,80
+<font color="#ffff00">und mit gerade mal </font>
+<font color="#ffff00">1,4 Mio. Einwohnern</font>
 
 671
-00:41:23,48 --> 00:41:25,92
-<font color="#ffff00">wir sind hier,</font>
-<font color="#ffff00">um ihr Land zu stehlen.</font>
+00:37:26,08 --> 00:37:28,56
+<font color="#ffff00">       und einer Fläche       </font>
+<font color="#ffff00">so groß wie Schleswig-Holstein</font>
 
 672
-00:41:26,16 --> 00:41:29,96
-<font color="#ffff00">Mir mussten ihnen klarmachen,</font>
-<font color="#ffff00">dass wir hier sind, um zu helfen.</font>
+00:37:28,84 --> 00:37:30,44
+<font color="#ffff00">auch eines der kleinsten.</font>
 
 673
-00:41:31,28 --> 00:41:34,52
-<font color="#ffffff">Die Dorfgemeinschaft von Anevoka</font>
-<font color="#ffffff">ist heute froh,</font>
+00:37:30,68 --> 00:37:32,84
+<font color="#ffff00">Eine klitzekleine Demokratie.</font>
 
 674
-00:41:34,80 --> 00:41:36,80
-<font color="#ffffff">Teil des Schutzprojektes zu sein.</font>
+00:37:33,08 --> 00:37:36,00
+<font color="#ffff00">   Ohne Entwicklungshilfe    </font>
+<font color="#ffff00">auf eigenen Beinen zu stehen,</font>
 
 675
-00:41:37,12 --> 00:41:40,32
-<font color="#ffffff">Viele aus dem Dorf</font>
-<font color="#ffffff">sind im Programm integriert.</font>
+00:37:36,24 --> 00:37:38,52
+<font color="#ffff00">      ist noch schwer      </font>
+<font color="#ffff00">für das Land in den Tropen.</font>
 
 676
-00:41:40,52 --> 00:41:42,20
-<font color="#ffffff">Ihre Teilnahme ist wichtig.</font>
+00:37:38,76 --> 00:37:41,60
+<font color="#ffff00">Doch Einheimische und Ausländer</font>
+<font color="#ffff00">       geben Ihr Bestes,       </font>
 
 677
-00:41:42,48 --> 00:41:45,40
-<font color="#ffffff">Denn es geht darum das Gebiet</font>
-<font color="#ffffff">ständig zu überwachen,</font>
+00:37:42,08 --> 00:37:46,16
+<font color="#ffff00">Timor-Leste nach oben zu bringen,</font>
+<font color="#ffff00">  und zwar im wörtlichen Sinne.  </font>
 
 678
-00:41:45,64 --> 00:41:47,88
-<font color="#ffffff">gegen illegale Abholzung</font>
-<font color="#ffffff">und Wilderei.</font>
+00:37:46,44 --> 00:37:48,60
+<font color="#ffff00">Denn das Gesundheitssystem</font>
+<font color="#ffff00">     ist so schlecht,     </font>
 
 679
-00:41:48,16 --> 00:41:49,68
-<font color="#ffffff">Viel hat sich hier verändert.</font>
+00:37:48,84 --> 00:37:50,48
+<font color="#ffff00">dass Kranke und Verletzte</font>
 
 680
-00:41:50,00 --> 00:41:54,40
-<font color="#ffff00">Hier konnten früher viele Kinder</font>
-<font color="#ffff00">nicht zu Schule gehen.</font>
+00:37:50,72 --> 00:37:52,92
+<font color="#ffff00">manchmal mit dem Flugzeug</font>
+<font color="#ffff00"> abgeholt werden müssen, </font>
 
 681
-00:41:55,72 --> 00:41:58,96
-<font color="#ffff00">Viele waren nicht in der Lage,</font>
-<font color="#ffff00">die zu bezahlen.</font>
+00:37:53,20 --> 00:37:54,52
+<font color="#ffff00">um zu überleben.</font>
 
 682
-00:42:01,04 --> 00:42:04,36
-<font color="#ffff00">Aber seit GERP hier ist,</font>
-<font color="#ffff00">hat sich das geändert.</font>
+00:37:54,84 --> 00:37:57,12
+<font color="#ffff00">Unser Südostasien-Korrespondent</font>
+<font color="#ffff00">        Florian Bahrdt         </font>
 
 683
-00:42:09,08 --> 00:42:11,68
-<font color="#ffffff">Der Naturschützer </font>
-<font color="#ffffff">hat viel angestoßen.</font>
+00:37:57,44 --> 00:38:00,72
+<font color="#ffff00">hat die Buschflieger von Timor-Leste</font>
+<font color="#ffff00">       im Einsatz begleitet.       </font>
 
 684
-00:42:12,48 --> 00:42:15,72
-<font color="#ffffff">Stolz ist der Professor</font>
-<font color="#ffffff">auf die Imkerei,</font>
+00:38:02,72 --> 00:38:06,00
+<font color="#ffffff">          Ein Notfall           </font>
+<font color="#ffffff">auf der anderen Seite der Insel.</font>
 
 685
-00:42:16,04 --> 00:42:17,28
-<font color="#ffffff">mit einem besonderen Honig von Bienen</font>
-<font color="#ffffff">aus dem Regenwald.</font>
+00:38:06,28 --> 00:38:08,56
+<font color="#ffffff">Aldo macht die Maschine startklar.</font>
 
 686
-00:42:20,76 --> 00:42:23,16
-<font color="#ffffff">Hier im Wald von Maromizaha</font>
-<font color="#ffffff">ist der Wissenschaftler</font>
+00:38:08,80 --> 00:38:12,44
+<font color="#ffffff"> Er kennt hier jede Schraube </font>
+<font color="#ffffff">auf der Fliegerbasis von MAF,</font>
 
 687
-00:42:23,44 --> 00:42:27,00
-<font color="#ffffff">in seinem Element und freut sich</font>
-<font color="#ffffff">über jede Begegnung mit den Lemuren.</font>
+00:38:12,68 --> 00:38:14,92
+<font color="#ffffff">einer internationalen NGO.</font>
 
 688
-00:42:28,08 --> 00:42:31,88
-<font color="#00ffff">Auf Madagaskar ist seit zwei Wochen</font>
-<font color="#00ffff">ziemlich viel los.</font>
+00:38:15,16 --> 00:38:18,84
+<font color="#ffffff">Ohne ihn hebt hier kein Flugzeug ab.</font>
 
 689
-00:42:32,20 --> 00:42:35,64
-<font color="#00ffff">Die jüngere Generation,</font>
-<font color="#00ffff">die Gen Z, protestiert gerade -</font>
+00:38:19,12 --> 00:38:23,36
+<font color="#00ffff">Ich fliege häufig mit den Piloten.</font>
+<font color="#00ffff">  Manchmal ist es sehr dringend.  </font>
 
 690
-00:42:35,88 --> 00:42:40,16
-<font color="#00ffff">für ein besseres Bildungssystem</font>
-<font color="#00ffff">und gegen die hohe Arbeitslosigkeit.</font>
+00:38:23,68 --> 00:38:26,68
+<font color="#00ffff">Der Pilot ist dann vor Ort </font>
+<font color="#00ffff">mit Papierkram beschäftigt.</font>
 
 691
-00:42:40,44 --> 00:42:44,44
-<font color="#00ffff">Falls Sie nicht bis zu unserer</font>
-<font color="#00ffff">nächsten Sendung warten können</font>
+00:38:26,96 --> 00:38:29,12
+<font color="#00ffff">  Ich bringe in der Zeit   </font>
+<font color="#00ffff">die Patienten ins Flugzeug,</font>
 
 692
-00:42:44,72 --> 00:42:49,12
-<font color="#00ffff">und sich vorher fragen, was auf der</font>
-<font color="#00ffff">Welt im Laufe der Woche passiert:</font>
+00:38:29,36 --> 00:38:32,76
+<font color="#00ffff">und wir können direkt zurückfliegen.</font>
 
 693
-00:42:49,40 --> 00:42:51,88
-<font color="#00ffff">Dann folgen Sie uns auf Instagram.</font>
+00:38:34,32 --> 00:38:37,28
+<font color="#ffffff">        Pilot ist heute        </font>
+<font color="#ffffff">Ullrich Müller aus der Schweiz.</font>
 
 694
-00:42:52,36 --> 00:42:54,64
-<font color="#00ffff">Indem Sie Ihr Handy jetzt zücken,</font>
+00:38:37,60 --> 00:38:40,88
+<font color="#ffffff">Die Piloten kommen bislang</font>
+<font color="#ffffff">  alle aus dem Ausland.   </font>
 
 695
-00:42:54,96 --> 00:42:59,44
-<font color="#00ffff">"Weltspiegel" bei Instagram eingeben</font>
-<font color="#00ffff">und auf "Folgen" klicken.</font>
+00:38:41,12 --> 00:38:43,28
+<font color="#ffffff">Start über der Hauptstadt Dili.</font>
 
 696
-00:43:01,96 --> 00:43:04,64
-<font color="#00ffff">Ihnen noch einen schönen Abend</font>
-<font color="#00ffff">hier im Ersten.</font>
+00:38:43,56 --> 00:38:45,52
+<font color="#ffffff">Aldo kennt sich sehr gut aus</font>
+<font color="#ffffff">        im Luftraum.        </font>
 
 697
-00:43:04,92 --> 00:43:06,24
-<font color="#00ffff">Bis zum nächsten Mal.</font>
+00:38:45,80 --> 00:38:49,16
+<font color="#ffffff">Darum begleitet er neue Kollegen</font>
+<font color="#ffffff">    auf ihren ersten Flügen,    </font>
 
 698
-00:43:06,52 --> 00:43:08,36
-<font color="#0000ff">Copyright Untertitel: NDR 2025</font>
+00:38:49,44 --> 00:38:51,52
+<font color="#ffffff">gibt ihnen Tipps.</font>
+
+699
+00:38:51,80 --> 00:38:55,08
+<font color="#ffffff">  Das Gelände in Timor-Leste  </font>
+<font color="#ffffff">ist fliegerisch anspruchsvoll.</font>
+
+700
+00:38:55,40 --> 00:39:01,08
+<font color="#ffffff">Knapp 3000 m hohe Berge, heftige</font>
+<font color="#ffffff"> Winde, häufig schlechte Sicht. </font>
+
+701
+00:39:01,32 --> 00:39:05,64
+<font color="#ffffff"> Auf der Landebahn spielen heute </font>
+<font color="#ffffff">keine Kinder, laufen keine Tiere.</font>
+
+702
+00:39:05,92 --> 00:39:10,04
+<font color="#ffffff">       Nach 20 Minuten:       </font>
+<font color="#ffffff">Touchdown auf der Rumpelpiste.</font>
+
+703
+00:39:15,44 --> 00:39:16,80
+<font color="#ffffff">Der Krankenwagen kommt.</font>
+
+704
+00:39:17,08 --> 00:39:24,00
+<font color="#ffffff">An Bord ist ein neugeborenes Baby,</font>
+<font color="#ffffff">       erst 28 Stunden alt.       </font>
+
+705
+00:39:24,28 --> 00:39:29,00
+<font color="#ffffff"> Das Mädchen hat seit der Entbindung</font>
+<font color="#ffffff">Atemnot, bekommt zu wenig Sauerstoff.</font>
+
+706
+00:39:31,80 --> 00:39:33,68
+<font color="#ffffff">Aber immerhin schreit es jetzt.</font>
+
+707
+00:39:34,00 --> 00:39:36,76
+<font color="#ffffff"> Ein gutes Zeichen, </font>
+<font color="#ffffff">sagen die Sanitäter.</font>
+
+708
+00:39:39,08 --> 00:39:42,12
+<font color="#00ffff">   Wir glauben, dass das Kind   </font>
+<font color="#00ffff">etwas in die Lunge bekommen hat.</font>
+
+709
+00:39:42,40 --> 00:39:44,48
+<font color="#00ffff">    Das hat vielleicht     </font>
+<font color="#00ffff">zu einer Infektion geführt.</font>
+
+710
+00:39:44,76 --> 00:39:48,52
+<font color="#00ffff">   Darum fliegen wir jetzt    </font>
+<font color="#00ffff">direkt zurück ins Krankenhaus.</font>
+
+711
+00:39:50,40 --> 00:39:52,12
+<font color="#ffffff">Bloß keine Zeit verlieren.</font>
+
+712
+00:39:52,40 --> 00:39:55,28
+<font color="#ffffff">    Aber der Rückflug    </font>
+<font color="#ffffff">wird etwas länger dauern.</font>
+
+713
+00:39:55,52 --> 00:39:57,80
+<font color="#ffffff">Der Pilot muss einen Umweg fliegen,</font>
+
+714
+00:39:58,04 --> 00:40:00,28
+<font color="#ffffff">      etwas tiefer       </font>
+<font color="#ffffff">und nicht über die Berge,</font>
+
+715
+00:40:00,52 --> 00:40:04,24
+<font color="#ffffff">damit die Luft für das Baby</font>
+<font color="#ffffff">    nicht zu dünn ist.     </font>
+
+716
+00:40:05,44 --> 00:40:08,28
+<font color="#ffffff">Auch die Mutter ist an Bord.</font>
+<font color="#ffffff">   Alles ging so schnell.   </font>
+
+717
+00:40:08,56 --> 00:40:11,48
+<font color="#ffffff">   Sie hat noch nicht mal   </font>
+<font color="#ffffff">einen Namen für das Mädchen.</font>
+
+718
+00:40:11,72 --> 00:40:14,80
+<font color="#ffffff">    In Timor-Leste sterben    </font>
+<font color="#ffffff">im ersten Jahr nach der Geburt</font>
+
+719
+00:40:15,04 --> 00:40:18,08
+<font color="#ffffff">zehnmal so viele Babys</font>
+<font color="#ffffff"> wie in Deutschland.  </font>
+
+720
+00:40:18,32 --> 00:40:23,00
+<font color="#ffffff">    Da sind die "Buschflieger"    </font>
+<font color="#ffffff">für viele eine Lebensversicherung.</font>
+
+721
+00:40:23,88 --> 00:40:26,04
+<font color="#ffffff">Auch heute landen sie sicher in Dili,</font>
+
+722
+00:40:26,32 --> 00:40:30,12
+<font color="#ffffff">           wo das einzige           </font>
+<font color="#ffffff">gut ausgestattete Krankenhaus steht.</font>
+
+723
+00:40:30,44 --> 00:40:34,48
+<font color="#00ffff">Wir haben das Baby gerettet.</font>
+<font color="#00ffff">   Das macht mich stolz.    </font>
+
+724
+00:40:34,72 --> 00:40:37,72
+<font color="#00ffff">    Wir sind hingeflogen,    </font>
+<font color="#00ffff">obwohl der Wind so stark war.</font>
+
+725
+00:40:38,04 --> 00:40:39,04
+<font color="#00ffff">Es ist einfach so:</font>
+
+726
+00:40:39,28 --> 00:40:42,44
+<font color="#00ffff">Die medizinischen Bedingungen</font>
+<font color="#00ffff">   vor Ort sind schlecht.    </font>
+
+727
+00:40:42,72 --> 00:40:45,60
+<font color="#00ffff">Gerade die kleinen Gemeinden</font>
+<font color="#00ffff">      brauchen Hilfe.       </font>
+
+728
+00:40:46,68 --> 00:40:50,60
+<font color="#ffffff">Schlechte medizinische Versorgung</font>
+<font color="#ffffff">   und fehlende Perspektiven,    </font>
+
+729
+00:40:50,92 --> 00:40:54,12
+<font color="#ffffff">das beunruhigt viele in Timor-Leste.</font>
+
+730
+00:40:54,44 --> 00:40:58,60
+<font color="#ffffff">Das demokratische Land profitiert von</font>
+<font color="#ffffff">Öl-Vorkommen, aber die sind endlich.</font>
+
+731
+00:40:58,92 --> 00:41:02,52
+<font color="#ffffff">    Das Durchschnittsalter     </font>
+<font color="#ffffff">liegt bei gerade mal 21 Jahren.</font>
+
+732
+00:41:02,80 --> 00:41:05,84
+<font color="#ffffff"> Für so viele junge Menschen </font>
+<font color="#ffffff">gibt es gar nicht genug Jobs,</font>
+
+733
+00:41:06,12 --> 00:41:08,08
+<font color="#ffffff">auch nicht in der Hauptstadt Dili.</font>
+
+734
+00:41:08,36 --> 00:41:11,52
+<font color="#ffffff">    Darum ist das Land weiter    </font>
+<font color="#ffffff">auf Entwicklungshilfe angewiesen,</font>
+
+735
+00:41:11,80 --> 00:41:15,20
+<font color="#ffffff">z.B. aus Australien,</font>
+<font color="#ffffff"> Japan und der EU.  </font>
+
+736
+00:41:17,36 --> 00:41:18,84
+<font color="#ffffff">Das weiß auch der Präsident,</font>
+
+737
+00:41:19,12 --> 00:41:22,20
+<font color="#ffffff">der seit Jahrzehnten für den Aufstieg</font>
+<font color="#ffffff">        seines Landes kämpft.       </font>
+
+738
+00:41:22,48 --> 00:41:25,04
+<font color="#ffffff">Der frühere Friedensnobelpreisträger</font>
+<font color="#ffffff">         legt Wert darauf,          </font>
+
+739
+00:41:25,28 --> 00:41:30,16
+<font color="#ffffff">dass Timor-Leste verantwortungsvoll</font>
+<font color="#ffffff">  mit ausländischer Hilfe umgeht.  </font>
+
+740
+00:41:30,40 --> 00:41:33,24
+<font color="#00ffff">Wir sind eines der wenigen Länder,</font>
+
+741
+00:41:34,68 --> 00:41:37,56
+<font color="#00ffff">   die Entwicklungshilfe oder   </font>
+<font color="#00ffff">ausländische Hilfe nicht nutzen,</font>
+
+742
+00:41:37,80 --> 00:41:41,32
+<font color="#00ffff">um sie in den Haushalt zu schießen.</font>
+
+743
+00:41:41,64 --> 00:41:45,40
+<font color="#00ffff">Unser Haushalt ist zu 100%</font>
+<font color="#00ffff">von uns selbst finanziert.</font>
+
+744
+00:41:45,68 --> 00:41:49,60
+<font color="#00ffff">         Was wir haben,          </font>
+<font color="#00ffff">ist internationale Unterstützung.</font>
+
+745
+00:41:54,04 --> 00:41:57,88
+<font color="#ffffff"> Viele suchen auch  </font>
+<font color="#ffffff">Kraft in der Kirche.</font>
+
+746
+00:41:58,20 --> 00:42:01,68
+<font color="#ffffff">97% der Menschen sind katholisch.</font>
+
+747
+00:42:01,96 --> 00:42:05,24
+<font color="#ffffff">Auch Aldo betet für seine Frau</font>
+<font color="#ffffff">    und die beiden Kinder     </font>
+
+748
+00:42:05,56 --> 00:42:10,16
+<font color="#ffffff">und dafür, dass sie es später</font>
+<font color="#ffffff">auch mal so gut haben wie er.</font>
+
+749
+00:42:14,56 --> 00:42:17,92
+<font color="#ffffff">     Der Flugzeug-Assistent      </font>
+<font color="#ffffff">hat mittlerweile ein großes Haus.</font>
+
+750
+00:42:18,16 --> 00:42:20,56
+<font color="#ffffff">   Die Verwandtschaft   </font>
+<font color="#ffffff">ist übers Wochenende da.</font>
+
+751
+00:42:20,84 --> 00:42:23,12
+<font color="#ffffff">Seine Familie ist stolz auf ihn.</font>
+
+752
+00:42:23,40 --> 00:42:26,00
+<font color="#ffffff">        Er verdient         </font>
+<font color="#ffffff">rund 500 US-Dollar im Monat,</font>
+
+753
+00:42:26,28 --> 00:42:30,24
+<font color="#ffffff">    fünfmal so viel wie das     </font>
+<font color="#ffffff">Mindesteinkommen in Timor-Leste.</font>
+
+754
+00:42:30,56 --> 00:42:31,72
+<font color="#ffffff">Schon Schule und Studium</font>
+
+755
+00:42:31,96 --> 00:42:35,84
+<font color="#ffffff">        hat er mit Disziplin        </font>
+<font color="#ffffff">und Durchhaltevermögen durchgezogen.</font>
+
+756
+00:42:36,24 --> 00:42:39,24
+<font color="#00ffff">Mein Vater hat zum Lehrer gesagt:</font>
+
+757
+00:42:39,52 --> 00:42:42,20
+<font color="#00ffff">   "Ich habe kein Geld,   </font>
+<font color="#00ffff">um die Schule zu bezahlen.</font>
+
+758
+00:42:42,48 --> 00:42:44,04
+<font color="#00ffff">Wenn Sie das können, bitte."</font>
+
+759
+00:42:44,32 --> 00:42:45,68
+<font color="#00ffff">Dann hat mein Lehrer gesagt:</font>
+
+760
+00:42:45,96 --> 00:42:47,24
+<font color="#00ffff">"Aldo kann doch Kuchen verkaufen</font>
+
+761
+00:42:47,52 --> 00:42:51,12
+<font color="#00ffff">       und mit dem Geld       </font>
+<font color="#00ffff">die Gebühren selbst bezahlen."</font>
+
+762
+00:42:51,36 --> 00:42:53,32
+<font color="#00ffff">Danach waren meine Eltern</font>
+<font color="#00ffff">    so sauer auf ihn     </font>
+
+763
+00:42:53,60 --> 00:42:55,60
+<font color="#00ffff">und sind zurück ins Dorf gegangen.</font>
+
+764
+00:42:55,92 --> 00:42:58,32
+<font color="#00ffff">     Aber ich habe dann      </font>
+<font color="#00ffff">jeden Morgen Kuchen verkauft.</font>
+
+765
+00:42:58,56 --> 00:43:02,24
+<font color="#00ffff">Dann konnte ich das Schulgeld</font>
+<font color="#00ffff">      allein bezahlen.       </font>
+
+766
+00:43:03,64 --> 00:43:07,60
+<font color="#ffffff">Jede Woche geht das Buschflieger-Team</font>
+<font color="#ffffff">          ins Krankenhaus.          </font>
+
+767
+00:43:07,84 --> 00:43:09,64
+<font color="#ffffff">       Sie schauen,       </font>
+<font color="#ffffff">wie es den Patienten geht,</font>
+
+768
+00:43:09,92 --> 00:43:13,84
+<font color="#ffffff">die sie auf einem Rettungsflug</font>
+<font color="#ffffff">    hierhergebracht haben.    </font>
+
+769
+00:43:14,08 --> 00:43:17,84
+<font color="#ffffff">Das Baby atmet nach drei Tagen</font>
+<font color="#ffffff">    schon deutlich besser.    </font>
+
+770
+00:43:18,08 --> 00:43:20,36
+<font color="#ffffff">Auch die Mutter ist erleichtert,</font>
+
+771
+00:43:20,64 --> 00:43:24,48
+<font color="#ffffff">    auch wenn sie immer noch     </font>
+<font color="#ffffff">keinen Namen für das Mädchen hat.</font>
+
+772
+00:43:24,76 --> 00:43:28,40
+<font color="#00ffff">Ich bin zum ersten Mal überhaupt</font>
+<font color="#00ffff">  mit einem Flugzeug geflogen.  </font>
+
+773
+00:43:29,84 --> 00:43:31,68
+<font color="#00ffff">Ich hatte so eine Angst.</font>
+
+774
+00:43:31,96 --> 00:43:34,60
+<font color="#00ffff">Aber jetzt geht es mir besser,</font>
+
+775
+00:43:34,84 --> 00:43:40,16
+<font color="#00ffff">weil ich sehe, dass es bergauf geht</font>
+<font color="#00ffff">         mit meinem Baby.          </font>
+
+776
+00:43:40,48 --> 00:43:44,32
+<font color="#00ffff">  Ich bin auch froh.   </font>
+<font color="#00ffff">Alles ist gut gelaufen.</font>
+
+777
+00:43:44,60 --> 00:43:46,60
+<font color="#00ffff">     Seit das Kind      </font>
+<font color="#00ffff">hier im Krankenhaus ist,</font>
+
+778
+00:43:46,92 --> 00:43:49,60
+<font color="#00ffff"> hat sich der Zustand </font>
+<font color="#00ffff">sehr stark verbessert.</font>
+
+779
+00:43:54,24 --> 00:43:58,68
+<font color="#ffffff"> Aldo bereitet das Flugzeug direkt  </font>
+<font color="#ffffff">wieder vor für den nächsten Einsatz.</font>
+
+780
+00:43:58,92 --> 00:44:01,20
+<font color="#ffffff">Sein Beitrag für sein Land,</font>
+
+781
+00:44:01,44 --> 00:44:04,40
+<font color="#ffffff">das erst noch lernen muss,</font>
+<font color="#ffffff">   alleine zu fliegen.    </font>
+
+782
+00:44:05,44 --> 00:44:07,72
+<font color="#ffff00">Und das war's von uns</font>
+<font color="#ffff00">  vom WELTSPIEGEL.   </font>
+
+783
+00:44:08,04 --> 00:44:09,40
+<font color="#ffff00">Ich freue mich schon jetzt</font>
+<font color="#ffff00">   auf das nächste Mal.   </font>
+
+784
+00:44:09,64 --> 00:44:10,80
+<font color="#ffff00">            Bis dahin!             </font>
+<font color="#ffff00">Machen Sie es gut. Auf Wiedersehen.</font>
+
+785
+00:44:11,08 --> 00:44:13,32
+<font color="#0000ff"> Live-Untertitelung BR  </font>
+<font color="#0000ff">E-Mail: untertitel*br.de</font>
 

@@ -19,16 +19,16 @@
     <setting id="user_def_key_password">false</setting>
     <setting id="label104" default="true" />
     <setting id="vpn_provider_update_2" default="true">false</setting>
-    <setting id="1_vpn_validated">/storage/.kodi/addons/service.vpn.manager/UserDefined/UK (UDP).ovpn</setting>
-    <setting id="1_vpn_validated_friendly">UK (UDP)</setting>
-    <setting id="2_vpn_validated">/storage/.kodi/addons/service.vpn.manager/UserDefined/DE (UDP).ovpn</setting>
-    <setting id="2_vpn_validated_friendly">DE (UDP)</setting>
-    <setting id="3_vpn_validated">/storage/.kodi/addons/service.vpn.manager/UserDefined/CA (UDP).ovpn</setting>
-    <setting id="3_vpn_validated_friendly">CA (UDP)</setting>
-    <setting id="4_vpn_validated">/storage/.kodi/addons/service.vpn.manager/UserDefined/US (UDP).ovpn</setting>
-    <setting id="4_vpn_validated_friendly">US (UDP)</setting>
-    <setting id="5_vpn_validated" default="true" />
-    <setting id="5_vpn_validated_friendly" default="true" />
+    <setting id="1_vpn_validated">/storage/.kodi/addons/service.vpn.manager/UserDefined/UK_Midlands (UDP).ovpn</setting>
+    <setting id="1_vpn_validated_friendly">UK_Midlands (UDP)</setting>
+    <setting id="2_vpn_validated">/storage/.kodi/addons/service.vpn.manager/UserDefined/DE_Frankfurt (UDP).ovpn</setting>
+    <setting id="2_vpn_validated_friendly">DE_Frankfurt (UDP)</setting>
+    <setting id="3_vpn_validated">/storage/.kodi/addons/service.vpn.manager/UserDefined/CA_Toronto (UDP).ovpn</setting>
+    <setting id="3_vpn_validated_friendly">CA_Toronto (UDP)</setting>
+    <setting id="4_vpn_validated">/storage/.kodi/addons/service.vpn.manager/UserDefined/US_New_York (UDP).ovpn</setting>
+    <setting id="4_vpn_validated_friendly">US_New_York (UDP)</setting>
+    <setting id="5_vpn_validated">/storage/.kodi/addons/service.vpn.manager/UserDefined/UK_Docklands (UDP).ovpn</setting>
+    <setting id="5_vpn_validated_friendly">UK_Docklands (UDP)</setting>
     <setting id="6_vpn_validated" default="true" />
     <setting id="6_vpn_validated_friendly" default="true" />
     <setting id="7_vpn_validated" default="true" />
@@ -40,7 +40,7 @@
     <setting id="10_vpn_validated" default="true" />
     <setting id="10_vpn_validated_friendly" default="true" />
     <setting id="vpn_custom_2" default="true" />
-    <setting id="vpn_connect_at_boot">false</setting>
+    <setting id="vpn_connect_at_boot">true</setting>
     <setting id="show_preboot_connect">true</setting>
     <setting id="vpn_connect_before_boot" default="true">false</setting>
     <setting id="vpn_connect_delay" default="true">0</setting>
@@ -59,10 +59,10 @@
     <setting id="auto_reconnect_vpn" default="true">0</setting>
     <setting id="allow_cycle_disconnect">true</setting>
     <setting id="vpn_excluded_addons">pvr.iptvsimple</setting>
-    <setting id="1_vpn_addons">plugin.audio.bbcpodcasts,plugin.video.iplayerwww,plugin.video.phoenixmediathek,plugin.video.themoviedb.helper,plugin.video.vimeo,plugin.video.youtube</setting>
-    <setting id="2_vpn_addons">plugin.video.3satmediathek,plugin.video.ardaktuell,plugin.video.ardmediathek_de,plugin.audio.arteconcert,plugin.audio.deutschlandfunk,plugin.video.tagesschau,plugin.audio.wdraudiothek,plugin.video.zdf_de_lite,plugin.video.zdftivi</setting>
-    <setting id="3_vpn_addons">plugin.video.cbc,plugin.audio.cbcradio</setting>
-    <setting id="4_vpn_addons">script.embuary.helper,script.embuary.info,plugin.video.imdb.trailers,plugin.video.npr,plugin.video.phoenixmediathek,plugin.audio.pureradio,plugin.audio.radiobrowser,plugin.video.streamz,plugin.video.ted.talks,plugin.video.themoviedb.helper,plugin.video.vimeo,plugin.video.youtube</setting>
+    <setting id="1_vpn_addons">plugin.audio.bbcpodcasts,plugin.video.iplayerwww</setting>
+    <setting id="2_vpn_addons">plugin.video.3satmediathek,plugin.video.ardaktuell,plugin.video.ardmediathek_de,plugin.audio.arteconcert,plugin.audio.deutschlandfunk,plugin.audio.wdraudiothek,plugin.video.weltspiegel,plugin.video.zdf_de_lite,plugin.video.zdftivi</setting>
+    <setting id="3_vpn_addons">plugin.video.cbc,plugin.audio.cbcradio,plugin.video.cbcnews</setting>
+    <setting id="4_vpn_addons">plugin.video.dailymotion_com,plugin.video.documentaryheaven,plugin.video.imdb.trailers,plugin.video.npr,plugin.audio.pureradio,plugin.audio.radiobrowser,plugin.video.streamz,plugin.video.ted.talks,plugin.video.themoviedb.helper,plugin.video.vimeo,plugin.video.youtube</setting>
     <setting id="5_vpn_addons" default="true" />
     <setting id="6_vpn_addons" default="true" />
     <setting id="7_vpn_addons" default="true" />
@@ -87,7 +87,7 @@
     <setting id="reboot_time">02:00</setting>
     <setting id="reboot_file_enabled" default="true">false</setting>
     <setting id="reboot_file" default="true" />
-    <setting id="last_boot_text">Last restart was at 2025-10-22 10:50:11, unscheduled</setting>
+    <setting id="last_boot_text">Last restart was at 2025-10-29 17:27:24, unscheduled</setting>
     <setting id="vpn_enable_debug">true</setting>
     <setting id="vpn_enable_http">true</setting>
     <setting id="vpn_enable_json" default="true">false</setting>
@@ -97,7 +97,7 @@
     <setting id="block_outside_dns">true</setting>
     <setting id="openvpn_sudo" default="true" />
     <setting id="openvpn_no_path" default="true">false</setting>
-    <setting id="openvpn_path">/usr/bin/</setting>
+    <setting id="openvpn_path">/usr/sbin/</setting>
     <setting id="killall_path" default="true" />
     <setting id="pidof_path" default="true" />
     <setting id="openvpn_killall" default="true">false</setting>
@@ -120,16 +120,16 @@
     <setting id="checked_openvpn">true</setting>
     <setting id="ran_openvpn">true</setting>
     <setting id="monitor_paused" default="true">false</setting>
-    <setting id="boot_time">2025-10-22 10:50:11</setting>
+    <setting id="boot_time">2025-10-29 17:27:24</setting>
     <setting id="boot_reason" default="true">unscheduled</setting>
     <setting id="last_boot_reason" default="true">unscheduled</setting>
-    <setting id="ip_service_values">35,0,0</setting>
-    <setting id="ip_service_errors">2,2,2</setting>
+    <setting id="ip_service_values">24,0,0</setting>
+    <setting id="ip_service_errors">0,0,0</setting>
     <setting id="ip_service_last_vpn">UserDefined</setting>
     <setting id="location_server_view" default="true">false</setting>
     <setting id="alternative_message_token" default="true" />
     <setting id="alternative_message_time" default="true">1</setting>
-    <setting id="last_connect_time">1761079465</setting>
+    <setting id="last_connect_time">1761758851</setting>
     <setting id="vpn_provider_update_ignore" default="true">false</setting>
     <setting id="vpn_short" default="true">VPN Manager</setting>
     <setting id="vpn_very" default="true">VPN Mgr</setting>

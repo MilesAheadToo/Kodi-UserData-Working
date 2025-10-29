@@ -1,14 +1,14 @@
 {
   "version": 2,
   "connect_mode": "slot",
-  "default_when_unknown": "leave",
-  "default_profile": "UK",
+  "default_when_unknown": "default",
+  "default_profile": "UK_Midlands (UDP)",
 
   "profiles": {
-    "UK": { "slot": 1, "label": "UK (UDP)" },
-    "DE": { "slot": 2, "label": "DE (UDP)" },
-    "CA": { "slot": 3, "label": "CA (UDP)" },
-    "US": { "slot": 4, "label": "US (UDP)" }
+    "UK": { "slot": 1, "label": "UK_Midlands (UDP)" },
+    "DE": { "slot": 2, "label": "DE_Frankfurt (UDP)" },
+    "CA": { "slot": 3, "label": "CA_Toronto (UDP)" },
+    "US": { "slot": 4, "label": "US_New_York (UDP)" }
   },
 
   "mappings": {
@@ -29,7 +29,6 @@
     },
 
     "addon_overrides": {
-      "plugin.video.iplayerwww": "UK"
     },
 
     "channel_overrides": {

@@ -1,0 +1,8 @@
+<settings version="2">
+    <setting id="quality">2</setting>
+    <setting id="ShowAge">true</setting>
+    <setting id="tt_list">2</setting>
+    <setting id="hide_europadruck">false</setting>
+    <setting id="hide_wolkenfilm">false</setting>
+    <setting id="show_fanart">true</setting>
+</settings>

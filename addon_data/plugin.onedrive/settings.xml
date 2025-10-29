@@ -13,6 +13,6 @@
     <setting id="sign-in-server" default="true">https://drive-login.herokuapp.com</setting>
     <setting id="cache-expiration-time">5</setting>
     <setting id="report_error" default="true">false</setting>
-    <setting id="download.service.port">58363</setting>
+    <setting id="download.service.port" default="true">42107</setting>
     <setting id="source.service.port" default="true">8586</setting>
 </settings>

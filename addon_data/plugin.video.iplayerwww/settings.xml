@@ -1,13 +1,13 @@
 <settings version="2">
     <setting id="bbc_id_enabled">true</setting>
-    <setting id="bbc_id_username">trevor.miles@outlook.com</setting>
-    <setting id="bbc_id_password">9v=gceFcG-f?uEE</setting>
+    <setting id="bbc_id_username">trevor.ian.miles@gmail.com</setting>
+    <setting id="bbc_id_password">Nich920911</setting>
     <setting id="bbc_id_autologin">true</setting>
     <setting id="search_signed" default="true">false</setting>
     <setting id="search_ad" default="true">false</setting>
     <setting id="subtitles" default="true">false</setting>
     <setting id="suppress_incomplete" default="true">false</setting>
-    <setting id="scrape_atoz" default="true">0</setting>
+    <setting id="scrape_atoz">1</setting>
     <setting id="paginate_episodes" default="true">1</setting>
     <setting id="redbutton_warning" default="true">true</setting>
     <setting id="radio_paginate_episodes" default="true">1</setting>
