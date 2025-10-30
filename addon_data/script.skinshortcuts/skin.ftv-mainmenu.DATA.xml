@@ -8,6 +8,14 @@
 		<action>RunScript(script.globalsearch)</action>
 		</shortcut>
 	<shortcut>
+		<defaultID />
+		<label>TV Channels</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(TVGuide)</action>
+		</shortcut>
+	<shortcut>
 		<defaultID>home</defaultID>
 		<label>10000</label>
 		<label2>widget1</label2>

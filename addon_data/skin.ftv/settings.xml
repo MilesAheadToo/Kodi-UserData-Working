@@ -1,473 +1,474 @@
 <settings>
-    <setting id="averageratingaudiencescore" type="bool">false</setting>
-    <setting id="tmdbhelper.enablecrop" type="bool">false</setting>
-    <setting id="US" type="bool">true</setting>
-    <setting id="sub_mainmenubg" type="bool">false</setting>
-    <setting id="tmdbhelper.enablecolors" type="bool">false</setting>
-    <setting id="tmdbhelper.disableratings" type="bool">false</setting>
-    <setting id="tmdbhelper.forcewidgetcontainer" type="bool">false</setting>
-    <setting id="skinshortcuts-widget-widget4" type="bool">false</setting>
-    <setting id="skinshortcuts-widget-widget5" type="bool">false</setting>
+    <setting id="skinshortcuts-widget-widget8" type="bool">false</setting>
+    <setting id="EnableXRay" type="bool">true</setting>
+    <setting id="tmdbhelper.enabledesaturate" type="bool">false</setting>
+    <setting id="debuginfo" type="bool">false</setting>
+    <setting id="tmdbhelper.disableartwork" type="bool">false</setting>
+    <setting id="averageratingallcritics" type="bool">false</setting>
     <setting id="skinshortcuts-widget-weather" type="bool">true</setting>
     <setting id="skinshortcuts-widget-widget2" type="bool">false</setting>
+    <setting id="tmdbhelper.disableratings" type="bool">false</setting>
+    <setting id="tmdbhelper.forcewidgetcontainer" type="bool">false</setting>
+    <setting id="US" type="bool">true</setting>
+    <setting id="sub_mainmenubg" type="bool">false</setting>
+    <setting id="tmdbhelper.enablecrop" type="bool">false</setting>
+    <setting id="blurplayericon" type="bool">false</setting>
+    <setting id="averageratingaudiencescore" type="bool">false</setting>
+    <setting id="hideosdcontrols" type="bool">false</setting>
+    <setting id="firstrun" type="bool">true</setting>
+    <setting id="extendedinfo" type="bool">true</setting>
     <setting id="debuggrid" type="bool">false</setting>
     <setting id="wideseasonart" type="bool">false</setting>
-    <setting id="skinshortcuts-widget-widget6" type="bool">false</setting>
-    <setting id="hidemouse" type="bool">false</setting>
-    <setting id="TMDbHelper.Service" type="bool">true</setting>
-    <setting id="extendedinfo" type="bool">true</setting>
-    <setting id="clearplaylist" type="bool">false</setting>
-    <setting id="SkinShortcuts-FullMenu" type="bool">true</setting>
-    <setting id="skinshortcuts-widget-widget1" type="bool">false</setting>
-    <setting id="widetvshowart" type="bool">false</setting>
-    <setting id="TomatoMeterAllCritics" type="bool">true</setting>
-    <setting id="tomatometeraudiencescore" type="bool">false</setting>
-    <setting id="skinshortcuts-widget-widget7" type="bool">false</setting>
-    <setting id="tmdbhelper.disablepvr" type="bool">false</setting>
-    <setting id="germany" type="bool">false</setting>
-    <setting id="skinshortcuts-widget-favourites" type="bool">true</setting>
-    <setting id="EnableFanart" type="bool">true</setting>
-    <setting id="skinshortcuts-widget-widget3" type="bool">false</setting>
-    <setting id="tmdbhelper.disablepersonstats" type="bool">false</setting>
-    <setting id="firstrun" type="bool">true</setting>
-    <setting id="skinshortcuts-widget-widget8" type="bool">false</setting>
     <setting id="tmdbhelper.enableblur" type="bool">false</setting>
-    <setting id="tmdbhelper.enabledesaturate" type="bool">false</setting>
-    <setting id="EnableXRay" type="bool">true</setting>
-    <setting id="uk" type="bool">false</setting>
-    <setting id="blurplayericon" type="bool">false</setting>
-    <setting id="blurenabled" type="bool">false</setting>
-    <setting id="hideosdcontrols" type="bool">false</setting>
-    <setting id="tmdbhelper.disableartwork" type="bool">false</setting>
+    <setting id="EnableFanart" type="bool">true</setting>
+    <setting id="skinshortcuts-widget-widget1" type="bool">false</setting>
+    <setting id="tomatometeraudiencescore" type="bool">false</setting>
+    <setting id="tmdbhelper.disablepvr" type="bool">false</setting>
     <setting id="tmdbhelper.uselocalwidgetcontainer" type="bool">false</setting>
-    <setting id="averageratingallcritics" type="bool">false</setting>
-    <setting id="debuginfo" type="bool">false</setting>
-    <setting id="1000-WidgetList-6" type="string">musicdb://recentlyaddedalbums/</setting>
-    <setting id="1000-WidgetStyle-3" type="string">Poster</setting>
-    <setting id="4000-WidgetType-2" type="string"></setting>
-    <setting id="3000-WidgetType-3" type="string">tvshow</setting>
-    <setting id="8000-WidgetType-4" type="string"></setting>
-    <setting id="3000-WidgetList-2" type="string">special://skin/extras/video/RecentlyUpdatedTVShows.xsp</setting>
-    <setting id="6000-WidgetSortOrder-2" type="string"></setting>
-    <setting id="4000-WidgetList-2" type="string"></setting>
-    <setting id="8000-WidgetType-7" type="string"></setting>
-    <setting id="3000-WidgetSortBy-1" type="string">name</setting>
-    <setting id="5000-WidgetSortOrder-7" type="string"></setting>
-    <setting id="7000-WidgetSortBy-8" type="string"></setting>
-    <setting id="4000-WidgetStyle-7" type="string"></setting>
-    <setting id="8000-WidgetList-8" type="string"></setting>
-    <setting id="6000-WidgetLabel-7" type="string"></setting>
-    <setting id="1000-WidgetAction-3" type="string">ActivateWindow(Videos,special://skin/extras/video/RecentlyUpdatedTVShows.xsp,return)</setting>
-    <setting id="2000-WidgetSortBy-2" type="string">dateadded</setting>
-    <setting id="6000-WidgetType-2" type="string"></setting>
-    <setting id="8000-WidgetStyle-5" type="string"></setting>
-    <setting id="8000-WidgetLabel-3" type="string"></setting>
-    <setting id="6000-WidgetType-7" type="string"></setting>
-    <setting id="3000-WidgetSortOrder-8" type="string"></setting>
-    <setting id="8000-WidgetSortBy-1" type="string">name</setting>
-    <setting id="3000-WidgetAction-2" type="string">ActivateWindow(Videos,special://skin/extras/video/RecentlyUpdatedTVShows.xsp,return)</setting>
-    <setting id="3000-WidgetList-4" type="string">special://skin/extras/video/KidsTVShows.xsp</setting>
-    <setting id="7000-WidgetSortOrder-5" type="string"></setting>
-    <setting id="1000-WidgetLabel-4" type="string">In Progress Movies</setting>
-    <setting id="8000-WidgetSortBy-4" type="string"></setting>
-    <setting id="5000-WidgetAction-1" type="string">ActivateWindow(Music,musicdb://recentlyplayedalbums/,return)</setting>
-    <setting id="4000-WidgetSortOrder-4" type="string"></setting>
-    <setting id="4000-WidgetStyle-1" type="string">Square Info</setting>
-    <setting id="6000-WidgetStyle-8" type="string"></setting>
-    <setting id="3000-WidgetSortOrder-2" type="string">descending</setting>
-    <setting id="2000-WidgetStyle-5" type="string">Poster</setting>
-    <setting id="8000-WidgetList-2" type="string"></setting>
-    <setting id="2000-WidgetSortBy-5" type="string">rating</setting>
-    <setting id="2000-WidgetSortOrder-4" type="string">ascending</setting>
-    <setting id="6000-WidgetSortOrder-5" type="string"></setting>
-    <setting id="8000-WidgetList-5" type="string"></setting>
-    <setting id="6000-WidgetSortOrder-4" type="string"></setting>
-    <setting id="8000-WidgetSortOrder-1" type="string">ascending</setting>
-    <setting id="7000-WidgetSortOrder-7" type="string"></setting>
-    <setting id="BlurRadius" type="string"></setting>
-    <setting id="8000-WidgetStyle-4" type="string"></setting>
-    <setting id="3000-WidgetLabel-4" type="string">Kids TV Shows</setting>
-    <setting id="6000-WidgetSortBy-7" type="string"></setting>
-    <setting id="3000-WidgetLabel-1" type="string">Your TV Shows</setting>
-    <setting id="3000-WidgetSortOrder-6" type="string"></setting>
-    <setting id="3000-WidgetSortOrder-1" type="string">ascending</setting>
-    <setting id="2000-WidgetStyle-6" type="string">Poster</setting>
-    <setting id="4000-WidgetLabel-8" type="string"></setting>
-    <setting id="3000-WidgetType-6" type="string"></setting>
-    <setting id="2000-WidgetStyle-4" type="string">Poster</setting>
-    <setting id="2000-WidgetLabel-7" type="string"></setting>
-    <setting id="7000-WidgetSortOrder-6" type="string"></setting>
-    <setting id="7000-WidgetStyle-5" type="string"></setting>
-    <setting id="2000-WidgetType-4" type="string">movie</setting>
-    <setting id="5000-WidgetList-4" type="string">special://skin/extras/music/YourArtists.xsp</setting>
-    <setting id="1000-WidgetList-3" type="string">special://skin/extras/video/RecentlyUpdatedTVShows.xsp</setting>
-    <setting id="5000-WidgetSortBy-4" type="string">artist</setting>
-    <setting id="5000-WidgetSortBy-6" type="string"></setting>
-    <setting id="7000-WidgetLabel-1" type="string">Program Addons</setting>
-    <setting id="5000-WidgetList-7" type="string"></setting>
-    <setting id="1000-WidgetList-2" type="string">special://skin/extras/video/RecentlyAddedMovies.xsp</setting>
-    <setting id="4000-WidgetType-8" type="string"></setting>
-    <setting id="8000-WidgetAction-1" type="string">ActivateWindow(Pictures,addons://sources/image/,return)</setting>
-    <setting id="8000-WidgetSortBy-2" type="string"></setting>
-    <setting id="script-skinviewtypes-checksum" type="string">761a5d7b0d02622ba18743d9123b5a89</setting>
-    <setting id="8000-WidgetSortOrder-5" type="string"></setting>
-    <setting id="1000-WidgetLabel-1" type="string">In Progress TV Shows</setting>
-    <setting id="8000-WidgetLabel-2" type="string"></setting>
-    <setting id="4000-WidgetList-4" type="string"></setting>
-    <setting id="ServiceInterval" type="string"></setting>
-    <setting id="2000-WidgetList-7" type="string"></setting>
-    <setting id="4000-WidgetSortBy-5" type="string"></setting>
-    <setting id="2000-WidgetLabel-8" type="string"></setting>
-    <setting id="3000-WidgetStyle-6" type="string"></setting>
-    <setting id="4000-WidgetSortOrder-5" type="string"></setting>
-    <setting id="5000-WidgetAction-3" type="string">ActivateWindow(Music,special://skin/extras/music/YourAlbums.xsp,return)</setting>
-    <setting id="7000-WidgetSortBy-6" type="string"></setting>
-    <setting id="2000-WidgetAction-3" type="string">ActivateWindow(Videos,special://skin/extras/video/InProgressMovies.xsp,return)</setting>
-    <setting id="2000-WidgetLabel-3" type="string">In Progress Movies</setting>
-    <setting id="6000-WidgetLabel-6" type="string"></setting>
-    <setting id="2000-WidgetType-3" type="string">movie</setting>
-    <setting id="3000-WidgetSortBy-4" type="string">name</setting>
-    <setting id="2000-WidgetType-2" type="string">movie</setting>
-    <setting id="4000-WidgetSortBy-8" type="string"></setting>
-    <setting id="7000-WidgetSortOrder-1" type="string">ascending</setting>
-    <setting id="6000-WidgetLabel-3" type="string"></setting>
-    <setting id="2000-WidgetType-5" type="string">movie</setting>
-    <setting id="7000-WidgetSortBy-2" type="string"></setting>
-    <setting id="3000-WidgetStyle-8" type="string"></setting>
-    <setting id="4000-WidgetStyle-8" type="string"></setting>
-    <setting id="3000-WidgetStyle-4" type="string">Poster</setting>
-    <setting id="7000-WidgetLabel-3" type="string"></setting>
-    <setting id="8000-WidgetLabel-7" type="string"></setting>
-    <setting id="4000-WidgetSortOrder-1" type="string">ascending</setting>
-    <setting id="5000-WidgetSortOrder-3" type="string">ascending</setting>
-    <setting id="3000-WidgetLabel-2" type="string">Recently Updated TV Shows</setting>
-    <setting id="skinshortcuts-widget-10" type="string">weather</setting>
-    <setting id="6000-WidgetStyle-7" type="string"></setting>
-    <setting id="1000-WidgetList-1" type="string">special://skin/extras/video/InProgressTVShows.xsp</setting>
-    <setting id="4000-WidgetSortBy-3" type="string"></setting>
-    <setting id="2000-WidgetStyle-7" type="string"></setting>
-    <setting id="8000-WidgetSortOrder-7" type="string"></setting>
-    <setting id="2000-WidgetLabel-5" type="string">Top Rated Movies</setting>
-    <setting id="8000-WidgetSortOrder-3" type="string"></setting>
-    <setting id="skinshortcuts-widget-8" type="string">widget7</setting>
-    <setting id="7000-WidgetType-4" type="string"></setting>
-    <setting id="2000-WidgetLabel-1" type="string">Your Movies</setting>
-    <setting id="6000-WidgetLabel-2" type="string"></setting>
-    <setting id="5000-WidgetLabel-1" type="string">Recently Played Albums</setting>
-    <setting id="6000-WidgetList-4" type="string"></setting>
-    <setting id="7000-WidgetSortOrder-4" type="string"></setting>
-    <setting id="2000-WidgetStyle-1" type="string">Poster</setting>
-    <setting id="1000-WidgetType-7" type="string"></setting>
-    <setting id="skinshortcuts-widget-2" type="string">weather</setting>
-    <setting id="4000-WidgetSortBy-4" type="string"></setting>
-    <setting id="5000-WidgetList-1" type="string">musicdb://recentlyplayedalbums/</setting>
-    <setting id="4000-WidgetLabel-6" type="string"></setting>
-    <setting id="1000-WidgetSortBy-8" type="string"></setting>
-    <setting id="7000-WidgetList-5" type="string"></setting>
-    <setting id="4000-WidgetSortBy-7" type="string"></setting>
-    <setting id="6000-WidgetStyle-1" type="string">Square Info</setting>
-    <setting id="8000-WidgetList-7" type="string"></setting>
-    <setting id="1000-WidgetStyle-5" type="string">Square Info</setting>
-    <setting id="3000-WidgetType-7" type="string"></setting>
-    <setting id="1000-WidgetStyle-6" type="string">Square Info</setting>
-    <setting id="1000-WidgetAction-4" type="string">ActivateWindow(Videos,special://skin/extras/video/InProgressMovies.xsp,return)</setting>
-    <setting id="7000-WidgetType-1" type="string">program</setting>
-    <setting id="6000-WidgetType-8" type="string"></setting>
-    <setting id="3000-WidgetType-1" type="string">tvshow</setting>
-    <setting id="5000-WidgetList-5" type="string">musicdb://genres/</setting>
-    <setting id="5000-WidgetStyle-5" type="string">Square Info</setting>
-    <setting id="5000-WidgetAction-2" type="string">ActivateWindow(Music,musicdb://recentlyaddedalbums/,return)</setting>
-    <setting id="skinshortcuts-sharedmenu" type="string">true</setting>
-    <setting id="3000-WidgetSortOrder-7" type="string"></setting>
-    <setting id="3000-WidgetAction-4" type="string">ActivateWindow(Videos,special://skin/extras/video/KidsTVShows.xsp,return)</setting>
-    <setting id="3000-WidgetSortBy-2" type="string">dateadded</setting>
-    <setting id="1000-WidgetSortBy-7" type="string"></setting>
-    <setting id="4000-WidgetLabel-3" type="string"></setting>
-    <setting id="4000-WidgetList-5" type="string"></setting>
-    <setting id="2000-WidgetStyle-8" type="string"></setting>
-    <setting id="8000-WidgetList-6" type="string"></setting>
-    <setting id="7000-WidgetSortBy-7" type="string"></setting>
-    <setting id="3000-WidgetLabel-7" type="string"></setting>
-    <setting id="1000-WidgetStyle-1" type="string">Poster</setting>
-    <setting id="skinshortcuts-widget-3" type="string">widget3</setting>
-    <setting id="6000-WidgetSortBy-4" type="string"></setting>
-    <setting id="8000-WidgetSortOrder-8" type="string"></setting>
-    <setting id="4000-WidgetType-4" type="string"></setting>
-    <setting id="6000-WidgetList-2" type="string"></setting>
-    <setting id="8000-WidgetList-3" type="string"></setting>
-    <setting id="6000-WidgetList-8" type="string"></setting>
-    <setting id="7000-WidgetSortOrder-2" type="string"></setting>
-    <setting id="5000-WidgetType-2" type="string">music</setting>
-    <setting id="3000-WidgetList-5" type="string">special://skin/extras/video/TopRatedTVShows.xsp</setting>
-    <setting id="5000-WidgetLabel-8" type="string"></setting>
-    <setting id="5000-WidgetList-8" type="string"></setting>
-    <setting id="3000-WidgetSortBy-6" type="string"></setting>
-    <setting id="6000-WidgetType-1" type="string">Games</setting>
-    <setting id="1000-WidgetStyle-7" type="string"></setting>
-    <setting id="4000-WidgetList-8" type="string"></setting>
-    <setting id="1000-WidgetList-5" type="string">musicdb://recentlyplayedalbums/</setting>
-    <setting id="4000-WidgetSortBy-6" type="string"></setting>
-    <setting id="7000-WidgetStyle-3" type="string"></setting>
-    <setting id="7000-WidgetList-7" type="string"></setting>
-    <setting id="6000-WidgetAction-1" type="string">ActivateWindow(Games,addons://sources/game/,return)</setting>
-    <setting id="2000-WidgetList-2" type="string">special://skin/extras/video/RecentlyAddedMovies.xsp</setting>
-    <setting id="7000-WidgetStyle-4" type="string"></setting>
-    <setting id="7000-WidgetLabel-4" type="string"></setting>
-    <setting id="5000-WidgetType-1" type="string">music</setting>
-    <setting id="8000-WidgetList-1" type="string">addons://sources/image/</setting>
-    <setting id="7000-WidgetSortBy-3" type="string"></setting>
-    <setting id="2000-WidgetSortOrder-1" type="string">ascending</setting>
-    <setting id="5000-WidgetSortOrder-8" type="string"></setting>
-    <setting id="2000-WidgetAction-6" type="string">ActivateWindow(Videos,&quot;library://video/movies/sets.xml/&quot;,return)</setting>
-    <setting id="8000-WidgetStyle-1" type="string">Square Info</setting>
-    <setting id="5000-WidgetSortBy-2" type="string">dateadded</setting>
-    <setting id="1000-WidgetType-4" type="string">tvshow</setting>
-    <setting id="5000-WidgetSortOrder-4" type="string">ascending</setting>
-    <setting id="5000-WidgetLabel-3" type="string">Your Albums</setting>
-    <setting id="1000-WidgetSortBy-3" type="string">dateadded</setting>
-    <setting id="2000-WidgetType-7" type="string"></setting>
-    <setting id="4000-WidgetSortBy-1" type="string">label</setting>
-    <setting id="5000-WidgetStyle-7" type="string"></setting>
-    <setting id="4000-WidgetAction-1" type="string">ActivateWindow(Videos,addons://sources/video/,return)</setting>
-    <setting id="3000-WidgetSortOrder-4" type="string">ascending</setting>
-    <setting id="5000-WidgetType-5" type="string">music</setting>
-    <setting id="5000-WidgetLabel-7" type="string"></setting>
-    <setting id="3000-WidgetStyle-1" type="string">Poster</setting>
-    <setting id="6000-WidgetList-1" type="string">addons://sources/game/</setting>
-    <setting id="2000-WidgetAction-5" type="string">ActivateWindow(Videos,special://skin/extras/video/TopRatedMovies.xsp,return)</setting>
-    <setting id="2000-WidgetLabel-2" type="string">Recently Added Movies</setting>
-    <setting id="1000-WidgetAction-6" type="string">ActivateWindow(Music,musicdb://recentlyaddedalbums/,return)</setting>
-    <setting id="1000-WidgetType-1" type="string">movie</setting>
-    <setting id="3000-WidgetSortBy-8" type="string"></setting>
-    <setting id="4000-WidgetSortOrder-8" type="string"></setting>
-    <setting id="1000-WidgetSortBy-2" type="string">dateadded</setting>
-    <setting id="5000-WidgetSortBy-7" type="string"></setting>
-    <setting id="5000-WidgetSortBy-8" type="string"></setting>
-    <setting id="4000-WidgetStyle-4" type="string"></setting>
-    <setting id="2000-WidgetSortBy-8" type="string"></setting>
-    <setting id="7000-WidgetStyle-6" type="string"></setting>
-    <setting id="1000-WidgetLabel-5" type="string">Recently Played Albums</setting>
-    <setting id="2000-WidgetList-8" type="string"></setting>
-    <setting id="8000-WidgetSortBy-3" type="string"></setting>
-    <setting id="6000-WidgetType-3" type="string"></setting>
-    <setting id="6000-WidgetLabel-4" type="string"></setting>
-    <setting id="1000-WidgetSortOrder-8" type="string"></setting>
-    <setting id="4000-WidgetStyle-2" type="string"></setting>
-    <setting id="1000-WidgetType-3" type="string">movie</setting>
-    <setting id="5000-WidgetType-6" type="string"></setting>
-    <setting id="skinshortcuts-widget-1" type="string">favourites</setting>
-    <setting id="8000-WidgetStyle-6" type="string"></setting>
-    <setting id="8000-WidgetType-2" type="string"></setting>
-    <setting id="7000-WidgetList-8" type="string"></setting>
-    <setting id="4000-WidgetLabel-2" type="string"></setting>
-    <setting id="skinshortcuts-widget-4" type="string">favourites</setting>
-    <setting id="4000-WidgetSortBy-2" type="string"></setting>
-    <setting id="6000-WidgetSortOrder-1" type="string">ascending</setting>
-    <setting id="2000-WidgetLabel-6" type="string">Movie Sets</setting>
-    <setting id="7000-WidgetList-3" type="string"></setting>
-    <setting id="1000-WidgetSortBy-1" type="string">lastplayed</setting>
-    <setting id="3000-WidgetList-7" type="string"></setting>
-    <setting id="2000-WidgetSortBy-7" type="string"></setting>
-    <setting id="8000-WidgetSortBy-6" type="string"></setting>
-    <setting id="6000-WidgetSortBy-1" type="string">label</setting>
-    <setting id="8000-WidgetSortOrder-6" type="string"></setting>
-    <setting id="4000-WidgetSortOrder-6" type="string"></setting>
-    <setting id="1000-WidgetAction-2" type="string">ActivateWindow(Videos,special://skin/extras/video/RecentlyAddedMovies.xsp,return)</setting>
-    <setting id="2000-WidgetAction-1" type="string">ActivateWindow(Videos,special://skin/extras/video/YourMovies.xsp,return)</setting>
-    <setting id="2000-WidgetList-4" type="string">special://skin/extras/video/KidsMovies.xsp</setting>
-    <setting id="4000-WidgetSortOrder-2" type="string"></setting>
-    <setting id="skinshortcuts-widget-9" type="string">widget8</setting>
-    <setting id="7000-WidgetLabel-2" type="string"></setting>
-    <setting id="4000-WidgetStyle-5" type="string"></setting>
-    <setting id="8000-WidgetStyle-2" type="string"></setting>
-    <setting id="8000-WidgetStyle-7" type="string"></setting>
-    <setting id="1000-WidgetSortOrder-4" type="string">descending</setting>
-    <setting id="6000-WidgetList-7" type="string"></setting>
-    <setting id="7000-WidgetLabel-7" type="string"></setting>
-    <setting id="6000-WidgetSortOrder-7" type="string"></setting>
-    <setting id="script-skinviewtypes-hash" type="string">333e3489dd128916533e0067e241bfdd</setting>
-    <setting id="5000-WidgetSortBy-3" type="string">artist</setting>
-    <setting id="7000-WidgetStyle-2" type="string"></setting>
-    <setting id="5000-WidgetSortBy-1" type="string">lastplayed</setting>
-    <setting id="1000-WidgetAction-5" type="string">ActivateWindow(Music,musicdb://recentlyplayedalbums/,return)</setting>
-    <setting id="1000-WidgetSortBy-4" type="string">lastplayed</setting>
-    <setting id="6000-WidgetSortBy-2" type="string"></setting>
-    <setting id="BackgroundInterval" type="string"></setting>
-    <setting id="8000-WidgetStyle-8" type="string"></setting>
-    <setting id="6000-WidgetSortBy-3" type="string"></setting>
+    <setting id="skinshortcuts-widget-widget6" type="bool">false</setting>
+    <setting id="skinshortcuts-widget-widget7" type="bool">false</setting>
+    <setting id="skinshortcuts-widget-favourites" type="bool">true</setting>
+    <setting id="skinshortcuts-widget-widget4" type="bool">false</setting>
+    <setting id="tmdbhelper.disablepersonstats" type="bool">false</setting>
+    <setting id="tmdbhelper.enablecolors" type="bool">false</setting>
+    <setting id="SkinShortcuts-FullMenu" type="bool">true</setting>
+    <setting id="germany" type="bool">false</setting>
+    <setting id="skinshortcuts-widget-widget3" type="bool">false</setting>
+    <setting id="TomatoMeterAllCritics" type="bool">true</setting>
+    <setting id="hidemouse" type="bool">false</setting>
+    <setting id="skinshortcuts-widget-widget5" type="bool">false</setting>
+    <setting id="clearplaylist" type="bool">false</setting>
+    <setting id="uk" type="bool">false</setting>
+    <setting id="widetvshowart" type="bool">false</setting>
+    <setting id="blurenabled" type="bool">false</setting>
+    <setting id="TMDbHelper.Service" type="bool">true</setting>
+    <setting id="5000-WidgetLabel-2" type="string">Recently Added Albums</setting>
     <setting id="1000-WidgetSortOrder-6" type="string">descending</setting>
-    <setting id="8000-WidgetList-4" type="string"></setting>
-    <setting id="6000-WidgetStyle-6" type="string"></setting>
-    <setting id="2000-WidgetList-5" type="string">special://skin/extras/video/TopRatedMovies.xsp</setting>
-    <setting id="2000-WidgetSortOrder-8" type="string"></setting>
-    <setting id="1000-WidgetSortOrder-3" type="string">descending</setting>
-    <setting id="skinshortcuts-widget-5" type="string">widget4</setting>
-    <setting id="8000-WidgetSortBy-7" type="string"></setting>
-    <setting id="4000-WidgetType-7" type="string"></setting>
-    <setting id="4000-WidgetLabel-7" type="string"></setting>
-    <setting id="3000-WidgetStyle-2" type="string">Poster</setting>
-    <setting id="7000-WidgetStyle-7" type="string"></setting>
-    <setting id="3000-WidgetSortOrder-3" type="string">descending</setting>
-    <setting id="1000-WidgetType-8" type="string"></setting>
-    <setting id="7000-WidgetType-6" type="string"></setting>
-    <setting id="3000-WidgetLabel-8" type="string"></setting>
-    <setting id="8000-WidgetSortBy-5" type="string"></setting>
-    <setting id="6000-WidgetStyle-5" type="string"></setting>
-    <setting id="2000-WidgetLabel-4" type="string">Kids Movies</setting>
-    <setting id="7000-WidgetStyle-1" type="string">Square Info</setting>
-    <setting id="4000-WidgetList-1" type="string">addons://sources/video/</setting>
-    <setting id="5000-WidgetList-6" type="string"></setting>
-    <setting id="6000-WidgetList-6" type="string"></setting>
-    <setting id="1000-WidgetSortOrder-2" type="string">descending</setting>
-    <setting id="7000-WidgetSortOrder-8" type="string"></setting>
-    <setting id="8000-WidgetLabel-5" type="string"></setting>
-    <setting id="3000-WidgetSortOrder-5" type="string">descending</setting>
-    <setting id="7000-WidgetSortBy-1" type="string">label</setting>
-    <setting id="8000-WidgetLabel-8" type="string"></setting>
-    <setting id="3000-WidgetList-8" type="string"></setting>
-    <setting id="5000-WidgetStyle-1" type="string">Square Info</setting>
-    <setting id="6000-WidgetSortOrder-6" type="string"></setting>
-    <setting id="1000-WidgetLabel-2" type="string">Recently Added Movies</setting>
-    <setting id="7000-WidgetSortBy-4" type="string"></setting>
-    <setting id="6000-WidgetStyle-3" type="string"></setting>
-    <setting id="1000-WidgetStyle-8" type="string"></setting>
-    <setting id="2000-WidgetAction-2" type="string">ActivateWindow(Videos,special://skin/extras/video/RecentlyAddedMovies.xsp,return)</setting>
-    <setting id="8000-WidgetLabel-1" type="string">Picture add-ons</setting>
-    <setting id="5000-WidgetStyle-4" type="string">Square Info</setting>
-    <setting id="6000-WidgetStyle-4" type="string"></setting>
-    <setting id="5000-WidgetStyle-8" type="string"></setting>
-    <setting id="1000-WidgetStyle-2" type="string">Poster</setting>
-    <setting id="1000-WidgetList-7" type="string"></setting>
-    <setting id="6000-WidgetSortBy-8" type="string"></setting>
-    <setting id="4000-WidgetStyle-6" type="string"></setting>
-    <setting id="5000-WidgetStyle-6" type="string"></setting>
-    <setting id="3000-WidgetStyle-5" type="string">Poster</setting>
-    <setting id="4000-WidgetType-3" type="string"></setting>
-    <setting id="4000-WidgetList-7" type="string"></setting>
-    <setting id="6000-WidgetLabel-8" type="string"></setting>
-    <setting id="5000-WidgetStyle-2" type="string">Square Info</setting>
-    <setting id="3000-WidgetType-8" type="string"></setting>
-    <setting id="1000-WidgetList-8" type="string"></setting>
-    <setting id="4000-WidgetType-1" type="string">item</setting>
-    <setting id="1000-WidgetType-5" type="string">movie</setting>
-    <setting id="2000-WidgetStyle-3" type="string">Poster</setting>
-    <setting id="3000-WidgetSortBy-3" type="string">lastplayed</setting>
-    <setting id="4000-WidgetLabel-5" type="string"></setting>
-    <setting id="8000-WidgetType-6" type="string"></setting>
-    <setting id="2000-WidgetSortOrder-3" type="string">descending</setting>
-    <setting id="5000-WidgetSortOrder-5" type="string">ascending</setting>
-    <setting id="2000-WidgetSortOrder-5" type="string">descending</setting>
-    <setting id="5000-WidgetAction-5" type="string">ActivateWindow(Music,musicdb://genres/,return)</setting>
-    <setting id="7000-WidgetType-8" type="string"></setting>
-    <setting id="1000-WidgetSortBy-5" type="string">lastplayed</setting>
-    <setting id="2000-WidgetSortOrder-7" type="string"></setting>
-    <setting id="6000-WidgetSortOrder-8" type="string"></setting>
+    <setting id="1000-WidgetAction-6" type="string">ActivateWindow(Music,musicdb://recentlyaddedalbums/,return)</setting>
+    <setting id="2000-WidgetSortBy-6" type="string">name</setting>
+    <setting id="2000-WidgetAction-1" type="string">ActivateWindow(Videos,special://skin/extras/video/YourMovies.xsp,return)</setting>
+    <setting id="skinshortcuts-sharedmenu" type="string">true</setting>
     <setting id="5000-WidgetType-3" type="string">music</setting>
     <setting id="3000-WidgetSortBy-5" type="string">rating</setting>
-    <setting id="3000-WidgetType-4" type="string">tvshow</setting>
-    <setting id="8000-WidgetLabel-6" type="string"></setting>
-    <setting id="4000-WidgetType-6" type="string"></setting>
-    <setting id="7000-WidgetType-3" type="string"></setting>
-    <setting id="1000-WidgetList-4" type="string">special://skin/extras/video/InProgressMovies.xsp</setting>
-    <setting id="5000-WidgetType-8" type="string"></setting>
-    <setting id="3000-WidgetSortBy-7" type="string"></setting>
-    <setting id="BlurSaturation" type="string"></setting>
-    <setting id="TMDbHelper.MonitorContainer" type="string">99950</setting>
-    <setting id="4000-WidgetLabel-1" type="string">Video Addons</setting>
-    <setting id="3000-WidgetAction-1" type="string">ActivateWindow(Videos,special://skin/extras/video/YourTVShows.xsp,return)</setting>
-    <setting id="3000-WidgetLabel-3" type="string">In Progress TV Shows</setting>
-    <setting id="5000-WidgetLabel-4" type="string">Your Artists</setting>
-    <setting id="5000-WidgetList-3" type="string">special://skin/extras/music/YourAlbums.xsp</setting>
-    <setting id="8000-WidgetType-8" type="string"></setting>
-    <setting id="6000-WidgetList-3" type="string"></setting>
-    <setting id="3000-WidgetLabel-5" type="string">Top Rated TV Shows</setting>
-    <setting id="6000-WidgetType-6" type="string"></setting>
-    <setting id="7000-WidgetStyle-8" type="string"></setting>
-    <setting id="skinshortcuts-widget-6" type="string">widget5</setting>
-    <setting id="3000-WidgetAction-5" type="string">ActivateWindow(Videos,special://skin/extras/video/TopRatedTVShows.xsp,return)</setting>
-    <setting id="4000-WidgetSortOrder-7" type="string"></setting>
-    <setting id="TMDbHelper.Date.Format" type="string">%d %B %Y</setting>
-    <setting id="5000-WidgetSortBy-5" type="string">genre</setting>
-    <setting id="8000-WidgetSortBy-8" type="string"></setting>
-    <setting id="7000-WidgetList-6" type="string"></setting>
-    <setting id="1000-WidgetLabel-3" type="string">Recently Updated TV Shows</setting>
-    <setting id="1000-WidgetSortOrder-7" type="string"></setting>
-    <setting id="6000-WidgetSortBy-5" type="string"></setting>
-    <setting id="7000-WidgetType-2" type="string"></setting>
-    <setting id="8000-WidgetLabel-4" type="string"></setting>
-    <setting id="2000-WidgetSortBy-1" type="string">name</setting>
-    <setting id="TMDbHelper.Blur.Size" type="string"></setting>
-    <setting id="5000-WidgetLabel-6" type="string"></setting>
-    <setting id="BlurContainer" type="string"></setting>
-    <setting id="6000-WidgetSortOrder-3" type="string"></setting>
-    <setting id="2000-WidgetType-1" type="string">movie</setting>
-    <setting id="4000-WidgetSortOrder-3" type="string"></setting>
-    <setting id="2000-WidgetType-6" type="string">Videos</setting>
-    <setting id="3000-WidgetType-5" type="string">tvshow</setting>
-    <setting id="6000-WidgetType-4" type="string"></setting>
-    <setting id="6000-WidgetLabel-1" type="string">Game Addons</setting>
-    <setting id="1000-WidgetSortBy-6" type="string">dateadded</setting>
-    <setting id="3000-WidgetAction-3" type="string">ActivateWindow(Videos,special://skin/extras/video/InProgressTVShows.xsp,return)</setting>
-    <setting id="1000-WidgetType-2" type="string">tvshow</setting>
-    <setting id="7000-WidgetLabel-6" type="string"></setting>
-    <setting id="2000-WidgetStyle-2" type="string">Poster</setting>
-    <setting id="6000-WidgetList-5" type="string"></setting>
+    <setting id="1000-WidgetSortOrder-2" type="string">descending</setting>
     <setting id="TMDbHelper.Blur.Radius" type="string"></setting>
-    <setting id="7000-WidgetList-1" type="string">addons://sources/executable/</setting>
-    <setting id="2000-WidgetList-6" type="string">library://video/movies/sets.xml/</setting>
-    <setting id="5000-WidgetSortOrder-2" type="string">descending</setting>
-    <setting id="5000-WidgetType-4" type="string">music</setting>
-    <setting id="6000-WidgetStyle-2" type="string"></setting>
-    <setting id="5000-WidgetLabel-2" type="string">Recently Added Albums</setting>
-    <setting id="skinshortcuts-widget-7" type="string">widget6</setting>
-    <setting id="1000-WidgetLabel-7" type="string"></setting>
-    <setting id="3000-WidgetList-1" type="string">special://skin/extras/video/YourTVShows.xsp</setting>
-    <setting id="5000-WidgetLabel-5" type="string">Your Genres</setting>
-    <setting id="2000-WidgetSortOrder-2" type="string">descending</setting>
-    <setting id="8000-WidgetType-1" type="string">Pictures</setting>
-    <setting id="7000-WidgetLabel-5" type="string"></setting>
-    <setting id="3000-WidgetStyle-7" type="string"></setting>
-    <setting id="8000-WidgetType-3" type="string"></setting>
-    <setting id="2000-WidgetList-3" type="string">special://skin/extras/video/InProgressMovies.xsp</setting>
+    <setting id="8000-WidgetSortOrder-7" type="string"></setting>
+    <setting id="7000-WidgetLabel-2" type="string"></setting>
+    <setting id="8000-WidgetLabel-6" type="string"></setting>
+    <setting id="5000-WidgetSortBy-7" type="string"></setting>
+    <setting id="8000-WidgetSortOrder-5" type="string"></setting>
+    <setting id="BlurRadius" type="string"></setting>
+    <setting id="1000-WidgetType-3" type="string">movie</setting>
+    <setting id="6000-WidgetSortOrder-1" type="string">ascending</setting>
+    <setting id="1000-WidgetSortBy-8" type="string"></setting>
     <setting id="2000-WidgetList-1" type="string">special://skin/extras/video/YourMovies.xsp</setting>
-    <setting id="2000-WidgetSortBy-3" type="string">lastplayed</setting>
-    <setting id="7000-WidgetSortBy-5" type="string"></setting>
-    <setting id="7000-WidgetList-2" type="string"></setting>
-    <setting id="4000-WidgetList-6" type="string"></setting>
-    <setting id="1000-WidgetSortOrder-1" type="string">descending</setting>
-    <setting id="1000-WidgetStyle-4" type="string">Poster</setting>
-    <setting id="5000-WidgetSortOrder-1" type="string">descending</setting>
-    <setting id="3000-WidgetList-6" type="string"></setting>
-    <setting id="2000-WidgetType-8" type="string"></setting>
-    <setting id="3000-WidgetList-3" type="string">special://skin/extras/video/InProgressTVShows.xsp</setting>
-    <setting id="7000-WidgetSortOrder-3" type="string"></setting>
-    <setting id="2000-WidgetSortOrder-6" type="string">ascending</setting>
-    <setting id="1000-WidgetType-6" type="string">Videos</setting>
-    <setting id="8000-WidgetSortOrder-4" type="string"></setting>
-    <setting id="4000-WidgetLabel-4" type="string"></setting>
-    <setting id="1000-WidgetLabel-6" type="string">Recently Added Albums</setting>
-    <setting id="7000-WidgetList-4" type="string"></setting>
-    <setting id="2000-WidgetAction-4" type="string">ActivateWindow(Videos,special://skin/extras/video/KidsMovies.xsp,return)</setting>
-    <setting id="1000-WidgetSortOrder-5" type="string">descending</setting>
-    <setting id="1000-WidgetLabel-8" type="string"></setting>
-    <setting id="8000-WidgetStyle-3" type="string"></setting>
-    <setting id="3000-WidgetLabel-6" type="string"></setting>
+    <setting id="5000-WidgetSortBy-5" type="string">genre</setting>
+    <setting id="3000-WidgetAction-1" type="string">ActivateWindow(Videos,special://skin/extras/video/YourTVShows.xsp,return)</setting>
+    <setting id="1000-WidgetList-6" type="string">musicdb://recentlyaddedalbums/</setting>
+    <setting id="3000-WidgetSortOrder-1" type="string">ascending</setting>
+    <setting id="4000-WidgetSortBy-1" type="string">label</setting>
+    <setting id="5000-WidgetType-8" type="string"></setting>
+    <setting id="6000-WidgetLabel-8" type="string"></setting>
+    <setting id="2000-WidgetLabel-7" type="string"></setting>
+    <setting id="2000-WidgetSortBy-8" type="string"></setting>
+    <setting id="7000-WidgetStyle-6" type="string"></setting>
+    <setting id="2000-WidgetList-4" type="string">special://skin/extras/video/KidsMovies.xsp</setting>
+    <setting id="TMDbHelper.MonitorContainer" type="string">99950</setting>
+    <setting id="3000-WidgetType-6" type="string"></setting>
+    <setting id="7000-WidgetStyle-1" type="string">Square Info</setting>
+    <setting id="2000-WidgetLabel-4" type="string">Kids Movies</setting>
+    <setting id="5000-WidgetSortBy-4" type="string">artist</setting>
+    <setting id="5000-WidgetStyle-7" type="string"></setting>
+    <setting id="3000-WidgetAction-2" type="string">ActivateWindow(Videos,special://skin/extras/video/RecentlyUpdatedTVShows.xsp,return)</setting>
     <setting id="7000-WidgetAction-1" type="string">ActivateWindow(Programs,addons://sources/executable/,return)</setting>
-    <setting id="5000-WidgetType-7" type="string"></setting>
-    <setting id="4000-WidgetStyle-3" type="string"></setting>
-    <setting id="3000-WidgetStyle-3" type="string">Poster</setting>
-    <setting id="5000-WidgetStyle-3" type="string">Square Info</setting>
-    <setting id="2000-WidgetSortBy-6" type="string">name</setting>
+    <setting id="7000-WidgetList-4" type="string"></setting>
+    <setting id="5000-WidgetLabel-4" type="string">Your Artists</setting>
+    <setting id="8000-WidgetSortBy-1" type="string">name</setting>
+    <setting id="8000-WidgetSortBy-5" type="string"></setting>
+    <setting id="4000-WidgetList-4" type="string"></setting>
+    <setting id="5000-WidgetAction-1" type="string">ActivateWindow(Music,musicdb://recentlyplayedalbums/,return)</setting>
+    <setting id="skinshortcuts-widget-2" type="string">weather</setting>
+    <setting id="3000-WidgetList-2" type="string">special://skin/extras/video/RecentlyUpdatedTVShows.xsp</setting>
+    <setting id="3000-WidgetList-5" type="string">special://skin/extras/video/TopRatedTVShows.xsp</setting>
+    <setting id="6000-WidgetSortBy-5" type="string"></setting>
+    <setting id="1000-WidgetSortBy-3" type="string">dateadded</setting>
+    <setting id="1000-WidgetList-2" type="string">special://skin/extras/video/RecentlyAddedMovies.xsp</setting>
     <setting id="7000-WidgetType-7" type="string"></setting>
-    <setting id="5000-WidgetSortOrder-6" type="string"></setting>
-    <setting id="6000-WidgetSortBy-6" type="string"></setting>
-    <setting id="8000-WidgetSortOrder-2" type="string"></setting>
+    <setting id="1000-WidgetSortBy-2" type="string">dateadded</setting>
+    <setting id="4000-WidgetSortBy-8" type="string"></setting>
+    <setting id="8000-WidgetLabel-3" type="string"></setting>
+    <setting id="7000-WidgetSortBy-5" type="string"></setting>
+    <setting id="8000-WidgetStyle-3" type="string"></setting>
+    <setting id="6000-WidgetLabel-1" type="string">Game Addons</setting>
+    <setting id="8000-WidgetLabel-5" type="string"></setting>
+    <setting id="7000-WidgetList-7" type="string"></setting>
+    <setting id="3000-WidgetType-4" type="string">tvshow</setting>
+    <setting id="2000-WidgetStyle-1" type="string">Poster</setting>
+    <setting id="6000-WidgetLabel-2" type="string"></setting>
+    <setting id="3000-WidgetSortBy-1" type="string">name</setting>
+    <setting id="2000-WidgetLabel-2" type="string">Recently Added Movies</setting>
+    <setting id="4000-WidgetType-3" type="string"></setting>
+    <setting id="3000-WidgetSortBy-7" type="string"></setting>
+    <setting id="3000-WidgetLabel-8" type="string"></setting>
+    <setting id="7000-WidgetLabel-6" type="string"></setting>
+    <setting id="7000-WidgetSortOrder-4" type="string"></setting>
+    <setting id="3000-WidgetSortOrder-3" type="string">descending</setting>
+    <setting id="5000-WidgetList-4" type="string">special://skin/extras/music/YourArtists.xsp</setting>
+    <setting id="skinshortcuts-widget-3" type="string">widget3</setting>
+    <setting id="8000-WidgetStyle-8" type="string"></setting>
+    <setting id="6000-WidgetSortOrder-4" type="string"></setting>
+    <setting id="5000-WidgetSortBy-3" type="string">artist</setting>
+    <setting id="5000-WidgetList-8" type="string"></setting>
+    <setting id="4000-WidgetStyle-4" type="string"></setting>
+    <setting id="7000-WidgetSortBy-3" type="string"></setting>
+    <setting id="5000-WidgetSortOrder-7" type="string"></setting>
+    <setting id="6000-WidgetStyle-5" type="string"></setting>
+    <setting id="5000-WidgetLabel-1" type="string">Recently Played Albums</setting>
+    <setting id="2000-WidgetSortBy-2" type="string">dateadded</setting>
     <setting id="5000-WidgetList-2" type="string">musicdb://recentlyaddedalbums/</setting>
-    <setting id="1000-WidgetAction-1" type="string">ActivateWindow(Videos,special://skin/extras/video/InProgressTVShows.xsp,return)</setting>
-    <setting id="7000-WidgetLabel-8" type="string"></setting>
-    <setting id="3000-WidgetType-2" type="string">tvshow</setting>
-    <setting id="5000-WidgetAction-4" type="string">ActivateWindow(Music,special://skin/extras/music/YourArtists.xsp,return)</setting>
-    <setting id="6000-WidgetLabel-5" type="string"></setting>
-    <setting id="2000-WidgetSortBy-4" type="string">name</setting>
+    <setting id="5000-WidgetSortBy-6" type="string"></setting>
+    <setting id="3000-WidgetStyle-1" type="string">Poster</setting>
+    <setting id="5000-WidgetStyle-3" type="string">Square Info</setting>
+    <setting id="5000-WidgetStyle-8" type="string"></setting>
+    <setting id="1000-WidgetAction-2" type="string">ActivateWindow(Videos,special://skin/extras/video/RecentlyAddedMovies.xsp,return)</setting>
+    <setting id="1000-WidgetAction-3" type="string">ActivateWindow(Videos,special://skin/extras/video/RecentlyUpdatedTVShows.xsp,return)</setting>
+    <setting id="8000-WidgetType-7" type="string"></setting>
+    <setting id="4000-WidgetList-2" type="string"></setting>
+    <setting id="3000-WidgetType-1" type="string">tvshow</setting>
+    <setting id="4000-WidgetList-6" type="string"></setting>
+    <setting id="3000-WidgetStyle-7" type="string"></setting>
+    <setting id="6000-WidgetType-1" type="string">Games</setting>
+    <setting id="6000-WidgetSortBy-6" type="string"></setting>
+    <setting id="3000-WidgetAction-3" type="string">ActivateWindow(Videos,special://skin/extras/video/InProgressTVShows.xsp,return)</setting>
+    <setting id="8000-WidgetType-2" type="string"></setting>
+    <setting id="6000-WidgetStyle-3" type="string"></setting>
+    <setting id="TMDbHelper.Blur.Size" type="string"></setting>
+    <setting id="3000-WidgetStyle-3" type="string">Poster</setting>
+    <setting id="8000-WidgetLabel-2" type="string"></setting>
+    <setting id="3000-WidgetList-3" type="string">special://skin/extras/video/InProgressTVShows.xsp</setting>
+    <setting id="5000-WidgetSortBy-2" type="string">dateadded</setting>
+    <setting id="8000-WidgetSortOrder-4" type="string"></setting>
+    <setting id="4000-WidgetSortBy-2" type="string"></setting>
+    <setting id="4000-WidgetStyle-3" type="string"></setting>
+    <setting id="skinshortcuts-widget-5" type="string">widget4</setting>
+    <setting id="6000-WidgetType-7" type="string"></setting>
+    <setting id="3000-WidgetList-4" type="string">special://skin/extras/video/KidsTVShows.xsp</setting>
+    <setting id="5000-WidgetType-6" type="string"></setting>
+    <setting id="6000-WidgetSortOrder-3" type="string"></setting>
+    <setting id="3000-WidgetList-6" type="string"></setting>
+    <setting id="1000-WidgetType-4" type="string">tvshow</setting>
+    <setting id="5000-WidgetType-2" type="string">music</setting>
+    <setting id="1000-WidgetLabel-7" type="string"></setting>
+    <setting id="7000-WidgetSortOrder-8" type="string"></setting>
+    <setting id="7000-WidgetSortBy-2" type="string"></setting>
+    <setting id="6000-WidgetList-8" type="string"></setting>
+    <setting id="3000-WidgetStyle-2" type="string">Poster</setting>
+    <setting id="8000-WidgetList-7" type="string"></setting>
+    <setting id="5000-WidgetLabel-7" type="string"></setting>
+    <setting id="skinshortcuts-widget-9" type="string">widget8</setting>
+    <setting id="4000-WidgetStyle-2" type="string"></setting>
+    <setting id="7000-WidgetLabel-5" type="string"></setting>
+    <setting id="1000-WidgetStyle-5" type="string">Square Info</setting>
+    <setting id="8000-WidgetSortBy-2" type="string"></setting>
+    <setting id="1000-WidgetType-2" type="string">tvshow</setting>
+    <setting id="4000-WidgetStyle-6" type="string"></setting>
+    <setting id="5000-WidgetLabel-6" type="string"></setting>
+    <setting id="3000-WidgetLabel-3" type="string">In Progress TV Shows</setting>
+    <setting id="skinshortcuts-widget-7" type="string">widget6</setting>
+    <setting id="4000-WidgetLabel-6" type="string"></setting>
+    <setting id="2000-WidgetStyle-2" type="string">Poster</setting>
+    <setting id="8000-WidgetSortBy-3" type="string"></setting>
+    <setting id="1000-WidgetStyle-7" type="string"></setting>
+    <setting id="1000-WidgetSortBy-1" type="string">lastplayed</setting>
+    <setting id="5000-WidgetSortOrder-3" type="string">ascending</setting>
+    <setting id="2000-WidgetSortOrder-5" type="string">descending</setting>
+    <setting id="BlurContainer" type="string"></setting>
+    <setting id="8000-WidgetList-3" type="string"></setting>
+    <setting id="1000-WidgetList-4" type="string">special://skin/extras/video/InProgressMovies.xsp</setting>
+    <setting id="8000-WidgetType-3" type="string"></setting>
     <setting id="4000-WidgetList-3" type="string"></setting>
+    <setting id="1000-WidgetLabel-5" type="string">Recently Played Albums</setting>
+    <setting id="7000-WidgetSortOrder-2" type="string"></setting>
+    <setting id="4000-WidgetSortBy-7" type="string"></setting>
+    <setting id="1000-WidgetType-8" type="string"></setting>
+    <setting id="7000-WidgetLabel-8" type="string"></setting>
+    <setting id="5000-WidgetList-7" type="string"></setting>
+    <setting id="5000-WidgetStyle-2" type="string">Square Info</setting>
+    <setting id="1000-WidgetSortBy-5" type="string">lastplayed</setting>
+    <setting id="5000-WidgetList-1" type="string">musicdb://recentlyplayedalbums/</setting>
+    <setting id="6000-WidgetType-8" type="string"></setting>
+    <setting id="3000-WidgetType-3" type="string">tvshow</setting>
+    <setting id="3000-WidgetType-5" type="string">tvshow</setting>
+    <setting id="7000-WidgetType-1" type="string">program</setting>
+    <setting id="6000-WidgetLabel-6" type="string"></setting>
+    <setting id="4000-WidgetLabel-5" type="string"></setting>
+    <setting id="1000-WidgetLabel-1" type="string">In Progress TV Shows</setting>
+    <setting id="5000-WidgetSortBy-1" type="string">lastplayed</setting>
+    <setting id="2000-WidgetSortBy-4" type="string">name</setting>
+    <setting id="1000-WidgetStyle-4" type="string">Poster</setting>
+    <setting id="TMDbHelper.Date.Format" type="string">%d %B %Y</setting>
+    <setting id="2000-WidgetType-3" type="string">movie</setting>
+    <setting id="1000-WidgetLabel-4" type="string">In Progress Movies</setting>
+    <setting id="6000-WidgetStyle-7" type="string"></setting>
+    <setting id="2000-WidgetStyle-7" type="string"></setting>
+    <setting id="5000-WidgetSortOrder-4" type="string">ascending</setting>
+    <setting id="1000-WidgetList-3" type="string">special://skin/extras/video/RecentlyUpdatedTVShows.xsp</setting>
+    <setting id="1000-WidgetStyle-6" type="string">Square Info</setting>
+    <setting id="3000-WidgetAction-5" type="string">ActivateWindow(Videos,special://skin/extras/video/TopRatedTVShows.xsp,return)</setting>
+    <setting id="2000-WidgetType-1" type="string">movie</setting>
+    <setting id="3000-WidgetSortOrder-6" type="string"></setting>
+    <setting id="1000-WidgetSortOrder-1" type="string">descending</setting>
+    <setting id="6000-WidgetStyle-2" type="string"></setting>
+    <setting id="5000-WidgetSortOrder-8" type="string"></setting>
+    <setting id="3000-WidgetSortOrder-4" type="string">ascending</setting>
+    <setting id="8000-WidgetStyle-2" type="string"></setting>
+    <setting id="6000-WidgetStyle-1" type="string">Square Info</setting>
+    <setting id="6000-WidgetType-3" type="string"></setting>
+    <setting id="2000-WidgetAction-6" type="string">ActivateWindow(Videos,&quot;library://video/movies/sets.xml/&quot;,return)</setting>
+    <setting id="4000-WidgetType-7" type="string"></setting>
+    <setting id="2000-WidgetSortOrder-4" type="string">ascending</setting>
+    <setting id="2000-WidgetAction-4" type="string">ActivateWindow(Videos,special://skin/extras/video/KidsMovies.xsp,return)</setting>
+    <setting id="1000-WidgetList-8" type="string"></setting>
+    <setting id="1000-WidgetAction-4" type="string">ActivateWindow(Videos,special://skin/extras/video/InProgressMovies.xsp,return)</setting>
+    <setting id="5000-WidgetType-4" type="string">music</setting>
+    <setting id="3000-WidgetSortBy-2" type="string">dateadded</setting>
+    <setting id="7000-WidgetList-1" type="string">addons://sources/executable/</setting>
+    <setting id="2000-WidgetType-6" type="string">Videos</setting>
+    <setting id="1000-WidgetLabel-6" type="string">Recently Added Albums</setting>
+    <setting id="1000-WidgetSortOrder-8" type="string"></setting>
+    <setting id="8000-WidgetSortBy-7" type="string"></setting>
+    <setting id="ServiceInterval" type="string"></setting>
+    <setting id="5000-WidgetLabel-3" type="string">Your Albums</setting>
+    <setting id="6000-WidgetList-5" type="string"></setting>
+    <setting id="3000-WidgetSortBy-3" type="string">lastplayed</setting>
+    <setting id="1000-WidgetStyle-2" type="string">Poster</setting>
+    <setting id="4000-WidgetLabel-8" type="string"></setting>
+    <setting id="8000-WidgetLabel-1" type="string">Picture add-ons</setting>
+    <setting id="7000-WidgetList-8" type="string"></setting>
+    <setting id="2000-WidgetSortOrder-8" type="string"></setting>
+    <setting id="2000-WidgetStyle-6" type="string">Poster</setting>
+    <setting id="8000-WidgetList-1" type="string">addons://sources/image/</setting>
+    <setting id="2000-WidgetLabel-1" type="string">Your Movies</setting>
+    <setting id="8000-WidgetStyle-6" type="string"></setting>
+    <setting id="3000-WidgetLabel-7" type="string"></setting>
+    <setting id="2000-WidgetList-8" type="string"></setting>
+    <setting id="5000-WidgetSortOrder-1" type="string">descending</setting>
+    <setting id="7000-WidgetSortBy-8" type="string"></setting>
+    <setting id="4000-WidgetType-6" type="string"></setting>
+    <setting id="1000-WidgetAction-5" type="string">ActivateWindow(Music,musicdb://recentlyplayedalbums/,return)</setting>
+    <setting id="8000-WidgetLabel-4" type="string"></setting>
+    <setting id="1000-WidgetSortBy-6" type="string">dateadded</setting>
+    <setting id="8000-WidgetList-8" type="string"></setting>
+    <setting id="8000-WidgetType-6" type="string"></setting>
+    <setting id="2000-WidgetSortOrder-3" type="string">descending</setting>
+    <setting id="8000-WidgetSortOrder-3" type="string"></setting>
+    <setting id="1000-WidgetList-1" type="string">special://skin/extras/video/InProgressTVShows.xsp</setting>
+    <setting id="2000-WidgetSortBy-7" type="string"></setting>
+    <setting id="3000-WidgetStyle-4" type="string">Poster</setting>
+    <setting id="5000-WidgetLabel-8" type="string"></setting>
+    <setting id="2000-WidgetLabel-6" type="string">Movie Sets</setting>
+    <setting id="3000-WidgetAction-4" type="string">ActivateWindow(Videos,special://skin/extras/video/KidsTVShows.xsp,return)</setting>
+    <setting id="6000-WidgetSortOrder-7" type="string"></setting>
+    <setting id="2000-WidgetStyle-3" type="string">Poster</setting>
+    <setting id="8000-WidgetSortBy-8" type="string"></setting>
+    <setting id="2000-WidgetSortBy-1" type="string">name</setting>
+    <setting id="3000-WidgetSortBy-8" type="string"></setting>
+    <setting id="3000-WidgetLabel-2" type="string">Recently Updated TV Shows</setting>
+    <setting id="2000-WidgetSortBy-3" type="string">lastplayed</setting>
+    <setting id="4000-WidgetLabel-7" type="string"></setting>
+    <setting id="3000-WidgetLabel-6" type="string"></setting>
+    <setting id="6000-WidgetList-1" type="string">addons://sources/game/</setting>
+    <setting id="8000-WidgetType-8" type="string"></setting>
+    <setting id="8000-WidgetList-4" type="string"></setting>
+    <setting id="1000-WidgetStyle-8" type="string"></setting>
+    <setting id="6000-WidgetLabel-3" type="string"></setting>
+    <setting id="4000-WidgetType-1" type="string">item</setting>
+    <setting id="7000-WidgetStyle-2" type="string"></setting>
+    <setting id="6000-WidgetList-6" type="string"></setting>
+    <setting id="6000-WidgetStyle-4" type="string"></setting>
+    <setting id="1000-WidgetType-6" type="string">Videos</setting>
+    <setting id="4000-WidgetLabel-1" type="string">Video Addons</setting>
+    <setting id="6000-WidgetType-6" type="string"></setting>
+    <setting id="BlurSaturation" type="string"></setting>
+    <setting id="4000-WidgetType-2" type="string"></setting>
+    <setting id="4000-WidgetSortBy-3" type="string"></setting>
+    <setting id="7000-WidgetSortOrder-5" type="string"></setting>
+    <setting id="7000-WidgetLabel-1" type="string">Program Addons</setting>
+    <setting id="2000-WidgetList-7" type="string"></setting>
+    <setting id="5000-WidgetList-6" type="string"></setting>
+    <setting id="8000-WidgetStyle-5" type="string"></setting>
+    <setting id="7000-WidgetStyle-4" type="string"></setting>
+    <setting id="BackgroundInterval" type="string"></setting>
+    <setting id="7000-WidgetSortOrder-6" type="string"></setting>
+    <setting id="script-skinviewtypes-hash" type="string">333e3489dd128916533e0067e241bfdd</setting>
+    <setting id="3000-WidgetStyle-6" type="string"></setting>
+    <setting id="2000-WidgetList-6" type="string">library://video/movies/sets.xml/</setting>
+    <setting id="3000-WidgetType-8" type="string"></setting>
+    <setting id="6000-WidgetLabel-5" type="string"></setting>
+    <setting id="2000-WidgetType-2" type="string">movie</setting>
+    <setting id="7000-WidgetLabel-3" type="string"></setting>
+    <setting id="4000-WidgetSortOrder-8" type="string"></setting>
+    <setting id="2000-WidgetList-2" type="string">special://skin/extras/video/RecentlyAddedMovies.xsp</setting>
+    <setting id="4000-WidgetType-4" type="string"></setting>
+    <setting id="6000-WidgetSortOrder-6" type="string"></setting>
+    <setting id="1000-WidgetStyle-3" type="string">Poster</setting>
+    <setting id="3000-WidgetList-8" type="string"></setting>
+    <setting id="6000-WidgetSortOrder-5" type="string"></setting>
+    <setting id="4000-WidgetSortOrder-3" type="string"></setting>
+    <setting id="4000-WidgetSortBy-5" type="string"></setting>
+    <setting id="6000-WidgetList-3" type="string"></setting>
+    <setting id="6000-WidgetType-2" type="string"></setting>
+    <setting id="7000-WidgetType-8" type="string"></setting>
+    <setting id="8000-WidgetSortOrder-6" type="string"></setting>
+    <setting id="2000-WidgetAction-2" type="string">ActivateWindow(Videos,special://skin/extras/video/RecentlyAddedMovies.xsp,return)</setting>
+    <setting id="5000-WidgetList-3" type="string">special://skin/extras/music/YourAlbums.xsp</setting>
+    <setting id="3000-WidgetSortOrder-5" type="string">descending</setting>
+    <setting id="7000-WidgetSortBy-1" type="string">label</setting>
+    <setting id="1000-WidgetType-7" type="string"></setting>
+    <setting id="1000-WidgetSortBy-7" type="string"></setting>
+    <setting id="8000-WidgetSortOrder-1" type="string">ascending</setting>
+    <setting id="7000-WidgetList-2" type="string"></setting>
+    <setting id="7000-WidgetType-2" type="string"></setting>
+    <setting id="5000-WidgetType-5" type="string">music</setting>
+    <setting id="4000-WidgetLabel-4" type="string"></setting>
+    <setting id="7000-WidgetStyle-3" type="string"></setting>
+    <setting id="2000-WidgetStyle-8" type="string"></setting>
+    <setting id="4000-WidgetSortOrder-6" type="string"></setting>
+    <setting id="4000-WidgetType-8" type="string"></setting>
+    <setting id="1000-WidgetStyle-1" type="string">Poster</setting>
+    <setting id="7000-WidgetStyle-5" type="string"></setting>
+    <setting id="8000-WidgetList-2" type="string"></setting>
+    <setting id="1000-WidgetType-5" type="string">movie</setting>
+    <setting id="2000-WidgetLabel-3" type="string">In Progress Movies</setting>
+    <setting id="3000-WidgetType-2" type="string">tvshow</setting>
+    <setting id="2000-WidgetStyle-5" type="string">Poster</setting>
+    <setting id="4000-WidgetList-5" type="string"></setting>
+    <setting id="7000-WidgetType-3" type="string"></setting>
+    <setting id="5000-WidgetLabel-5" type="string">Your Genres</setting>
+    <setting id="2000-WidgetSortOrder-6" type="string">ascending</setting>
+    <setting id="4000-WidgetSortBy-4" type="string"></setting>
+    <setting id="6000-WidgetSortBy-4" type="string"></setting>
+    <setting id="4000-WidgetSortOrder-1" type="string">ascending</setting>
+    <setting id="7000-WidgetStyle-8" type="string"></setting>
+    <setting id="7000-WidgetSortOrder-1" type="string">ascending</setting>
+    <setting id="3000-WidgetSortBy-4" type="string">name</setting>
+    <setting id="5000-WidgetSortOrder-6" type="string"></setting>
+    <setting id="6000-WidgetStyle-6" type="string"></setting>
+    <setting id="4000-WidgetList-7" type="string"></setting>
+    <setting id="2000-WidgetList-3" type="string">special://skin/extras/video/InProgressMovies.xsp</setting>
+    <setting id="2000-WidgetType-7" type="string"></setting>
+    <setting id="1000-WidgetSortOrder-7" type="string"></setting>
+    <setting id="6000-WidgetSortBy-1" type="string">label</setting>
+    <setting id="3000-WidgetLabel-4" type="string">Kids TV Shows</setting>
+    <setting id="1000-WidgetList-5" type="string">musicdb://recentlyplayedalbums/</setting>
+    <setting id="2000-WidgetSortOrder-1" type="string">ascending</setting>
+    <setting id="6000-WidgetList-2" type="string"></setting>
+    <setting id="7000-WidgetType-6" type="string"></setting>
+    <setting id="8000-WidgetStyle-1" type="string">Square Info</setting>
+    <setting id="3000-WidgetLabel-5" type="string">Top Rated TV Shows</setting>
+    <setting id="1000-WidgetLabel-8" type="string"></setting>
+    <setting id="3000-WidgetType-7" type="string"></setting>
+    <setting id="6000-WidgetAction-1" type="string">ActivateWindow(Games,addons://sources/game/,return)</setting>
+    <setting id="4000-WidgetAction-1" type="string">ActivateWindow(Videos,addons://sources/video/,return)</setting>
+    <setting id="4000-WidgetStyle-5" type="string"></setting>
+    <setting id="script-skinviewtypes-checksum" type="string">761a5d7b0d02622ba18743d9123b5a89</setting>
+    <setting id="8000-WidgetStyle-4" type="string"></setting>
+    <setting id="8000-WidgetList-6" type="string"></setting>
+    <setting id="6000-WidgetSortBy-2" type="string"></setting>
+    <setting id="1000-WidgetSortOrder-5" type="string">descending</setting>
+    <setting id="5000-WidgetSortOrder-5" type="string">ascending</setting>
+    <setting id="skinshortcuts-widget-6" type="string">widget5</setting>
+    <setting id="7000-WidgetSortOrder-3" type="string"></setting>
+    <setting id="3000-WidgetSortBy-6" type="string"></setting>
+    <setting id="2000-WidgetLabel-5" type="string">Top Rated Movies</setting>
+    <setting id="6000-WidgetSortBy-7" type="string"></setting>
+    <setting id="6000-WidgetList-7" type="string"></setting>
+    <setting id="2000-WidgetType-8" type="string"></setting>
+    <setting id="6000-WidgetSortOrder-8" type="string"></setting>
+    <setting id="7000-WidgetList-5" type="string"></setting>
+    <setting id="3000-WidgetSortOrder-2" type="string">descending</setting>
+    <setting id="4000-WidgetSortBy-6" type="string"></setting>
+    <setting id="8000-WidgetSortBy-6" type="string"></setting>
+    <setting id="5000-WidgetSortBy-8" type="string"></setting>
+    <setting id="4000-WidgetList-1" type="string">addons://sources/video/</setting>
+    <setting id="4000-WidgetSortOrder-5" type="string"></setting>
+    <setting id="6000-WidgetSortBy-3" type="string"></setting>
+    <setting id="7000-WidgetStyle-7" type="string"></setting>
+    <setting id="7000-WidgetLabel-7" type="string"></setting>
+    <setting id="5000-WidgetAction-2" type="string">ActivateWindow(Music,musicdb://recentlyaddedalbums/,return)</setting>
+    <setting id="1000-WidgetAction-1" type="string">ActivateWindow(Videos,special://skin/extras/video/InProgressTVShows.xsp,return)</setting>
+    <setting id="5000-WidgetList-5" type="string">musicdb://genres/</setting>
+    <setting id="5000-WidgetAction-3" type="string">ActivateWindow(Music,special://skin/extras/music/YourAlbums.xsp,return)</setting>
+    <setting id="3000-WidgetSortOrder-7" type="string"></setting>
+    <setting id="3000-WidgetList-7" type="string"></setting>
+    <setting id="5000-WidgetStyle-4" type="string">Square Info</setting>
+    <setting id="6000-WidgetSortOrder-2" type="string"></setting>
+    <setting id="3000-WidgetLabel-1" type="string">Your TV Shows</setting>
+    <setting id="4000-WidgetSortOrder-2" type="string"></setting>
+    <setting id="8000-WidgetList-5" type="string"></setting>
+    <setting id="4000-WidgetStyle-7" type="string"></setting>
+    <setting id="1000-WidgetSortBy-4" type="string">lastplayed</setting>
+    <setting id="1000-WidgetLabel-3" type="string">Recently Updated TV Shows</setting>
+    <setting id="7000-WidgetSortOrder-7" type="string"></setting>
+    <setting id="6000-WidgetLabel-7" type="string"></setting>
+    <setting id="5000-WidgetAction-4" type="string">ActivateWindow(Music,special://skin/extras/music/YourArtists.xsp,return)</setting>
+    <setting id="5000-WidgetType-7" type="string"></setting>
+    <setting id="8000-WidgetAction-1" type="string">ActivateWindow(Pictures,addons://sources/image/,return)</setting>
+    <setting id="2000-WidgetAction-5" type="string">ActivateWindow(Videos,special://skin/extras/video/TopRatedMovies.xsp,return)</setting>
+    <setting id="5000-WidgetType-1" type="string">music</setting>
+    <setting id="6000-WidgetType-4" type="string"></setting>
+    <setting id="4000-WidgetList-8" type="string"></setting>
+    <setting id="8000-WidgetLabel-7" type="string"></setting>
+    <setting id="6000-WidgetLabel-4" type="string"></setting>
+    <setting id="7000-WidgetList-6" type="string"></setting>
+    <setting id="8000-WidgetSortBy-4" type="string"></setting>
+    <setting id="2000-WidgetLabel-8" type="string"></setting>
+    <setting id="1000-WidgetSortOrder-4" type="string">descending</setting>
+    <setting id="5000-WidgetAction-5" type="string">ActivateWindow(Music,musicdb://genres/,return)</setting>
+    <setting id="6000-WidgetSortBy-8" type="string"></setting>
+    <setting id="4000-WidgetStyle-1" type="string">Square Info</setting>
+    <setting id="3000-WidgetSortOrder-8" type="string"></setting>
+    <setting id="8000-WidgetLabel-8" type="string"></setting>
+    <setting id="4000-WidgetSortOrder-7" type="string"></setting>
+    <setting id="1000-WidgetType-1" type="string">movie</setting>
+    <setting id="2000-WidgetType-5" type="string">movie</setting>
+    <setting id="3000-WidgetStyle-5" type="string">Poster</setting>
+    <setting id="5000-WidgetSortOrder-2" type="string">descending</setting>
+    <setting id="4000-WidgetLabel-3" type="string"></setting>
+    <setting id="5000-WidgetStyle-6" type="string"></setting>
+    <setting id="3000-WidgetList-1" type="string">special://skin/extras/video/YourTVShows.xsp</setting>
+    <setting id="8000-WidgetType-4" type="string"></setting>
+    <setting id="7000-WidgetSortBy-7" type="string"></setting>
+    <setting id="5000-WidgetStyle-1" type="string">Square Info</setting>
+    <setting id="2000-WidgetStyle-4" type="string">Poster</setting>
+    <setting id="6000-WidgetList-4" type="string"></setting>
+    <setting id="8000-WidgetType-1" type="string">Pictures</setting>
+    <setting id="skinshortcuts-widget-8" type="string">widget7</setting>
+    <setting id="4000-WidgetSortOrder-4" type="string"></setting>
+    <setting id="skinshortcuts-widget-4" type="string">favourites</setting>
+    <setting id="7000-WidgetLabel-4" type="string"></setting>
+    <setting id="4000-WidgetLabel-2" type="string"></setting>
+    <setting id="7000-WidgetSortBy-4" type="string"></setting>
+    <setting id="4000-WidgetStyle-8" type="string"></setting>
+    <setting id="2000-WidgetSortOrder-2" type="string">descending</setting>
+    <setting id="2000-WidgetAction-3" type="string">ActivateWindow(Videos,special://skin/extras/video/InProgressMovies.xsp,return)</setting>
+    <setting id="1000-WidgetList-7" type="string"></setting>
+    <setting id="7000-WidgetType-4" type="string"></setting>
+    <setting id="2000-WidgetType-4" type="string">movie</setting>
+    <setting id="8000-WidgetSortOrder-2" type="string"></setting>
+    <setting id="2000-WidgetSortBy-5" type="string">rating</setting>
+    <setting id="1000-WidgetLabel-2" type="string">Recently Added Movies</setting>
+    <setting id="1000-WidgetSortOrder-3" type="string">descending</setting>
+    <setting id="7000-WidgetSortBy-6" type="string"></setting>
+    <setting id="3000-WidgetStyle-8" type="string"></setting>
+    <setting id="2000-WidgetList-5" type="string">special://skin/extras/video/TopRatedMovies.xsp</setting>
+    <setting id="5000-WidgetStyle-5" type="string">Square Info</setting>
+    <setting id="6000-WidgetStyle-8" type="string"></setting>
+    <setting id="8000-WidgetSortOrder-8" type="string"></setting>
+    <setting id="autoupdate" type="string">off</setting>
+    <setting id="skinshortcuts-widget-1" type="string">favourites</setting>
+    <setting id="2000-WidgetSortOrder-7" type="string"></setting>
+    <setting id="8000-WidgetStyle-7" type="string"></setting>
+    <setting id="skinshortcuts-widget-10" type="string">weather</setting>
+    <setting id="7000-WidgetList-3" type="string"></setting>
 </settings>
