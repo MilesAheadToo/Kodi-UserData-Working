@@ -282,7 +282,7 @@
     <setting id="debug" default="true">false</setting>
     <setting id="verbose" default="true">false</setting>
     <setting id="service">idle</setting>
-    <setting id="alert_notification">1761905284</setting>
+    <setting id="alert_notification">1761907091</setting>
     <setting id="geoip">true</setting>
     <setting id="loc1data">1761906487</setting>
     <setting id="loc1map">1761641407</setting>
