@@ -2,7 +2,7 @@
     <setting id="kodi_addon_instance_name">iptv-org</setting>
     <setting id="kodi_addon_instance_enabled" default="true">true</setting>
     <setting id="m3uPathType">0</setting>
-    <setting id="m3uPath">/storage/downloads/pruned_tv.m3u</setting>
+    <setting id="m3uPath">/storage/downloads/pruned_tv_sd_matched.m3u</setting>
     <setting id="m3uUrl" default="true" />
     <setting id="m3uCache" default="true">true</setting>
     <setting id="startNum" default="true">1</setting>
@@ -34,7 +34,7 @@
     <setting id="customRadioGroupsFile" default="true">special://userdata/addon_data/pvr.iptvsimple/channelGroups/customRadioGroups-example.xml</setting>
     <setting id="radioChannelGroupsOnly">true</setting>
     <setting id="epgPathType">0</setting>
-    <setting id="epgPath">/storage/downloads/pruned.epg.xml.gz</setting>
+    <setting id="epgPath">/storage/downloads/epg_sd_matched.xml.gz</setting>
     <setting id="epgUrl" default="true" />
     <setting id="epgCache" default="true">true</setting>
     <setting id="epgTimeShift" default="true">0</setting>

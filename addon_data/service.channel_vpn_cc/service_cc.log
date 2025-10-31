@@ -5,3 +5,186 @@
 2025-10-30 11:48:21 Loaded 195 channel country mappings from /storage/downloads/pruned_tv.m3u
 2025-10-30 11:48:21 Loaded 5 country-to-profile mappings from cc_to_profile.json
 2025-10-30 11:48:21 Fallback behaviour='default', default_profile='UK_Midlands (UDP)'
+2025-10-30 21:33:56 PVR start: channel='BBC News (North America) (1080p)', cc='UK', target_profile='UK_Midlands (UDP)', iface_before='tun0', rx_before=18619579
+2025-10-30 21:33:57 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-30 21:35:32 PVR start: channel='BBC Earth (1080p) [Geo-blocked]', cc='GB', target_profile='UK_Midlands (UDP)', iface_before='tun0', rx_before=77615253
+2025-10-30 21:35:33 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-30 21:37:07 PVR start: channel='Bloomberg TV Europe (720p)', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=115961961
+2025-10-30 21:37:09 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-30 21:37:45 PVR start: channel='Big Ten Network', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=127257815
+2025-10-30 21:37:46 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-30 21:39:29 PVR start: channel='ABC News (720p)', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=217375526
+2025-10-30 21:39:29 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-30 21:42:38 PVR start: channel='23 ABC Bakersfield CA (KERO) (720p)', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=360755485
+2025-10-30 21:42:39 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-30 21:43:26 PVR start: channel='NBC Sports Boston (1080p) [Not 24/7]', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=367553920
+2025-10-30 21:43:27 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-30 21:43:59 PVR start: channel='NBC News NOW (1080p)', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=380262058
+2025-10-30 21:43:59 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-30 21:45:16 PVR start: channel='3sat HD (1080p)', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=413234173
+2025-10-30 21:45:17 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-30 21:46:41 PVR start: channel='BR Fernsehen Nord (720p)', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=481701996
+2025-10-30 21:46:41 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 06:56:33 PVR start: channel='Amazing Discoveries TV (720p)', cc='CA', target_profile='CA_Toronto (UDP)', iface_before='tun0', rx_before=514014440
+2025-10-31 06:56:36 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 06:57:14 PVR start: channel='Canada One (720p) [Not 24/7]', cc='CA', target_profile='CA_Toronto (UDP)', iface_before='tun0', rx_before=521546684
+2025-10-31 06:57:15 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 06:58:09 PVR start: channel='Toronto 360 TV (720p) [Not 24/7]', cc='CA', target_profile='CA_Toronto (UDP)', iface_before='tun0', rx_before=528102606
+2025-10-31 06:58:10 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 06:59:46 PVR start: channel='DW English (1080p)', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=553561227
+2025-10-31 06:59:47 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:00:33 PVR start: channel='3sat HD (1080p)', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=594546049
+2025-10-31 07:00:33 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:01:26 PVR start: channel='BR Fernsehen Nord (720p)', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=646315400
+2025-10-31 07:01:27 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:01:42 Skip switch: already on 'DE_Frankfurt (UDP)' (16s ago)
+2025-10-31 07:02:30 PVR start: channel='Dokusat (1080p)', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=708686644
+2025-10-31 07:02:35 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:02:57 PVR start: channel='Dresden Fernsehen (1080p) [Not 24/7]', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=721588628
+2025-10-31 07:03:07 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:03:09 Skip switch: already on 'DE_Frankfurt (UDP)' (12s ago)
+2025-10-31 07:03:22 PVR start: channel='kabel eins (576p)', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=729534237
+2025-10-31 07:03:23 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:03:35 Skip switch: already on 'DE_Frankfurt (UDP)' (13s ago)
+2025-10-31 07:03:59 PVR start: channel='München TV (1080p) [Not 24/7]', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=745277062
+2025-10-31 07:04:04 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:04:41 PVR start: channel='NDR Fernsehen', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=757548764
+2025-10-31 07:04:42 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:05:08 PVR start: channel='NDR Mecklenburg-Vorpommern (720p)', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=779075985
+2025-10-31 07:05:09 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:05:47 PVR start: channel='NDR Niedersachsen (720p)', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=804355328
+2025-10-31 07:05:48 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:06:28 PVR start: channel='NDR Schleswig-Holstein (720p)', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=835767024
+2025-10-31 07:06:29 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:06:50 PVR start: channel='OK Magdeburg (1080p)', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=848361376
+2025-10-31 07:06:56 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:07:30 PVR start: channel='Radio Weser TV Bremen (576p)', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=860287166
+2025-10-31 07:07:31 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:07:49 Skip switch: already on 'DE_Frankfurt (UDP)' (19s ago)
+2025-10-31 07:08:01 PVR start: channel='RBW (1080p)', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=882885958
+2025-10-31 07:08:05 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:08:09 Skip switch: already on 'DE_Frankfurt (UDP)' (8s ago)
+2025-10-31 07:08:27 PVR start: channel='RNF (1080p)', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=899765739
+2025-10-31 07:08:32 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:08:38 Skip switch: already on 'DE_Frankfurt (UDP)' (11s ago)
+2025-10-31 07:08:49 PVR start: channel='Saarland Fernsehen 1 (1080p)', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=906627850
+2025-10-31 07:09:08 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:09:12 PVR start: channel='Saarland Fernsehen 2 (720p) [Not 24/7]', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=909619599
+2025-10-31 07:09:23 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:09:32 PVR start: channel='Schlager Deluxe (1080p)', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=921917691
+2025-10-31 07:09:32 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:10:08 PVR start: channel='Seenluft24 (1080p)', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=945588508
+2025-10-31 07:10:08 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:10:25 Skip switch: already on 'DE_Frankfurt (UDP)' (18s ago)
+2025-10-31 07:11:02 PVR start: channel='Tagesschau 24 (720p)', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=1003149931
+2025-10-31 07:11:03 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:11:47 PVR start: channel='teltOwkanal (1080p)', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=1016101954
+2025-10-31 07:11:47 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:12:19 PVR start: channel='teltOwkanal (1080p)', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=1020115360
+2025-10-31 07:12:20 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:12:37 Skip switch: already on 'DE_Frankfurt (UDP)' (18s ago)
+2025-10-31 07:12:45 PVR start: channel='TV Berlin (720p)', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=1033669245
+2025-10-31 07:12:49 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:13:01 Skip switch: already on 'DE_Frankfurt (UDP)' (16s ago)
+2025-10-31 07:14:03 PVR start: channel='WDR 1 Live (720p)', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=1078204074
+2025-10-31 07:14:04 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:14:30 PVR start: channel='World of Freesports (1080p)', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=1089416370
+2025-10-31 07:14:30 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:14:51 PVR start: channel='BBC Earth (1080p) [Geo-blocked]', cc='GB', target_profile='UK_Midlands (UDP)', iface_before='tun0', rx_before=1109795337
+2025-10-31 07:14:52 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:15:05 Skip switch: already on 'UK_Midlands (UDP)' (14s ago)
+2025-10-31 07:15:12 PVR start: channel='BBC News (1080p)', cc='UK', target_profile='UK_Midlands (UDP)', iface_before='tun0', rx_before=1136035200
+2025-10-31 07:15:13 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:15:39 PVR start: channel='BBC News (North America) (1080p)', cc='UK', target_profile='UK_Midlands (UDP)', iface_before='tun0', rx_before=1147840925
+2025-10-31 07:15:39 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:16:06 PVR start: channel='BBC News Europe', cc='GB', target_profile='UK_Midlands (UDP)', iface_before='tun0', rx_before=1164347459
+2025-10-31 07:16:07 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:16:14 Skip switch: already on 'UK_Midlands (UDP)' (8s ago)
+2025-10-31 07:16:39 PVR start: channel='BBC Three HD (720p)', cc='UK', target_profile='UK_Midlands (UDP)', iface_before='tun0', rx_before=1192350808
+2025-10-31 07:16:43 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:17:50 PVR start: channel='BBC Two HD (1080p)', cc='GB', target_profile='UK_Midlands (UDP)', iface_before='tun0', rx_before=1239932448
+2025-10-31 07:17:51 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:19:08 PVR start: channel='Channel 5 HD (1080p)', cc='GB', target_profile='UK_Midlands (UDP)', iface_before='tun0', rx_before=1261910263
+2025-10-31 07:19:09 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:19:26 Skip switch: already on 'UK_Midlands (UDP)' (18s ago)
+2025-10-31 07:19:42 PVR start: channel='DiscoverFilm', cc='UK', target_profile='UK_Midlands (UDP)', iface_before='tun0', rx_before=1294545569
+2025-10-31 07:19:43 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:19:49 Skip switch: already on 'UK_Midlands (UDP)' (7s ago)
+2025-10-31 07:20:08 PVR start: channel='ITV3 (1080p)', cc='GB', target_profile='UK_Midlands (UDP)', iface_before='tun0', rx_before=1309020094
+2025-10-31 07:20:08 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:20:23 Skip switch: already on 'UK_Midlands (UDP)' (15s ago)
+2025-10-31 07:21:16 PVR start: channel='Now 70's', cc='UK', target_profile='UK_Midlands (UDP)', iface_before='tun0', rx_before=1346067293
+2025-10-31 07:21:17 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:21:45 PVR start: channel='Now 80's', cc='UK', target_profile='UK_Midlands (UDP)', iface_before='tun0', rx_before=1361657066
+2025-10-31 07:21:46 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:22:17 PVR start: channel='23 ABC Bakersfield CA (KERO) (720p)', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1387325749
+2025-10-31 07:22:18 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 07:22:26 Skip switch: already on 'US_New_York (UDP)' (9s ago)
+2025-10-31 07:23:38 PVR start: channel='ABC News (720p)', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1417415040
+2025-10-31 07:23:39 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 08:40:07 PVR start: channel='ABC News (720p)', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1450861800
+2025-10-31 08:40:08 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 08:41:14 PVR start: channel='Ameritrade (1080p) [Not 24/7]', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1479557012
+2025-10-31 08:41:15 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 08:42:20 PVR start: channel='Big Ten Network', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1507595253
+2025-10-31 08:42:21 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 08:43:14 PVR start: channel='Bloomberg TV Europe (720p)', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1540445589
+2025-10-31 08:43:16 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 08:43:40 PVR start: channel='Bloomberg TV+ (1080p)', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1553855817
+2025-10-31 08:43:43 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 08:44:04 PVR start: channel='Blues TV', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1567701735
+2025-10-31 08:44:09 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 08:45:38 PVR start: channel='bon appétit (1080p)', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1597251364
+2025-10-31 08:45:39 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 08:47:03 PVR start: channel='Chef Champion (720p) [Not 24/7]', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1611123090
+2025-10-31 08:47:03 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 08:47:16 Skip switch: already on 'US_New_York (UDP)' (13s ago)
+2025-10-31 08:49:37 PVR start: channel='Dateline 24/7', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1627416623
+2025-10-31 08:49:38 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 08:50:19 PVR start: channel='FOX Business (1080p)', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1640275143
+2025-10-31 08:50:20 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 08:50:30 Skip switch: already on 'US_New_York (UDP)' (11s ago)
+2025-10-31 08:51:22 PVR start: channel='Hell's Kitchen (1080p)', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1660900472
+2025-10-31 08:51:22 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 08:51:39 Skip switch: already on 'US_New_York (UDP)' (17s ago)
+2025-10-31 08:51:53 PVR start: channel='History', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1685360588
+2025-10-31 08:51:54 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 08:53:19 PVR start: channel='Movies!', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1698647372
+2025-10-31 08:53:19 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 08:54:11 PVR start: channel='MSNBC (720p)', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1709067633
+2025-10-31 08:54:22 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 08:55:28 PVR start: channel='NBC News NOW (1080p)', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1719021849
+2025-10-31 08:55:29 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 08:55:52 PVR start: channel='NBC Sports Boston (1080p) [Not 24/7]', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1740435491
+2025-10-31 08:55:53 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 08:56:13 PVR start: channel='Nickelodeon', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1751396956
+2025-10-31 08:56:14 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 08:56:55 PVR start: channel='Outdoor America', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1773875878
+2025-10-31 08:56:56 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 08:58:04 PVR start: channel='Samuel Goldwyn Classics (1080p)', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1796111493
+2025-10-31 08:58:05 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 08:59:38 PVR start: channel='SportsGrid (1080p)', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1826795635
+2025-10-31 08:59:39 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 09:00:36 PVR start: channel='SportsNet New York (540p)', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1865059867
+2025-10-31 09:00:36 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 09:01:36 PVR start: channel='The Archive (1080p)', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1875287896
+2025-10-31 09:01:37 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 09:02:26 PVR start: channel='The Design Network (1080p)', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1893809373
+2025-10-31 09:02:26 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 09:03:41 PVR start: channel='Vevo Latino (1080p)', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1913855990
+2025-10-31 09:03:42 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 09:04:45 PVR start: channel='Women's Sports Network (720p)', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1940997755
+2025-10-31 09:04:46 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 09:05:15 PVR start: channel='Yahoo! Finance (1080p)', cc='US', target_profile='US_New_York (UDP)', iface_before='tun0', rx_before=1956715734
+2025-10-31 09:05:16 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+
+==== service.channel_vpn_cc start ====
+2025-10-31 09:07:45 Running service script from /storage/.kodi/addons/service.channel_vpn_cc/service.py
+2025-10-31 09:07:45 Service ready (PVR-only; add-ons handled by VPN Manager)
+2025-10-31 09:07:45 Loaded 195 channel country mappings from /storage/downloads/pruned_tv.m3u
+2025-10-31 09:07:45 Loaded 5 country-to-profile mappings from cc_to_profile.json
+2025-10-31 09:07:45 Fallback behaviour='default', default_profile='UK_Midlands (UDP)'
+2025-10-31 09:15:55 PVR start: channel='BR Fernsehen Nord (720p)', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=15575738
+2025-10-31 09:15:56 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))
+2025-10-31 09:16:24 PVR start: channel='BR Fernsehen Nord (720p)', cc='DE', target_profile='DE_Frankfurt (UDP)', iface_before='tun0', rx_before=33866456
+2025-10-31 09:16:24 VPN switch result: success=True (Tunnel tun0 active (rx_bytes grew))

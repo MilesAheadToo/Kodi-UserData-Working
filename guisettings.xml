@@ -8,7 +8,7 @@
     <setting id="gamesachievements.password" default="true" />
     <setting id="gamesachievements.token" default="true" />
     <setting id="gamesachievements.loggedin" default="true">false</setting>
-    <setting id="lookandfeel.skin" default="true">skin.estuary</setting>
+    <setting id="lookandfeel.skin">skin.amber</setting>
     <setting id="lookandfeel.skintheme" default="true">SKINDEFAULT</setting>
     <setting id="lookandfeel.skincolors" default="true">SKINDEFAULT</setting>
     <setting id="lookandfeel.font" default="true">Default</setting>
@@ -29,7 +29,7 @@
     <setting id="locale.use24hourclock" default="true">regional</setting>
     <setting id="locale.temperatureunit" default="true">regional</setting>
     <setting id="locale.speedunit">kts</setting>
-    <setting id="screensaver.mode" default="true">default</setting>
+    <setting id="screensaver.mode" default="true">screensaver.xbmc.builtin.dim</setting>
     <setting id="screensaver.time" default="true">3</setting>
     <setting id="screensaver.disableforaudio" default="true">true</setting>
     <setting id="screensaver.usedimonpause" default="true">true</setting>
